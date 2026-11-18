@@ -1,0 +1,5167 @@
+[
+  {
+    "id": "k4_001",
+    "index": 1,
+    "kanji": "愛",
+    "on": {
+      "type": "on",
+      "yomi": "アイ",
+      "sentence": "家族への愛情を大切にする。",
+      "sentenceHtml": "家族への<mark class=\\\"target-kanji\\\">愛情</mark>を大切にする。",
+      "targetWord": "愛情",
+      "kana": "かぞくへのあいじょうをたいせつにする。",
+      "imageUrl": "https://houkan-maria.com/cms/wp-content/uploads/2026/06/726-768x499-2.jpg",
+      "sourceUrl": "https://houkan-maria.com/2026/06/22/0611/",
+      "typingKana": "かぞくへのあいじょうをたいせつにする",
+      "explanation": "「愛」の音読みは「アイ」。例文「家族への愛情を大切にする。」の「愛情」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "いと",
+      "sentence": "愛しい家族と過ごす。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">愛しい</mark>家族と過ごす。",
+      "targetWord": "愛しい",
+      "kana": "いとしいかぞくとすごす。",
+      "imageUrl": "https://eccjuniorbs.jp/wp/wp-content/uploads/2026/08/ht200147_20260816001922_1.png",
+      "sourceUrl": "https://eccjuniorbs.jp/ht200147/letter/2026/08/page/8/",
+      "typingKana": "いとしいかぞくとすごす",
+      "explanation": "「愛」の訓読みは「いと」。例文「愛しい家族と過ごす。」の「愛しい」で使われます。"
+    }
+  },
+  {
+    "id": "k4_002",
+    "index": 2,
+    "kanji": "案",
+    "on": {
+      "type": "on",
+      "yomi": "アン",
+      "sentence": "旅行の案内を読む。",
+      "sentenceHtml": "旅行の<mark class=\\\"target-kanji\\\">案内</mark>を読む。",
+      "targetWord": "案内",
+      "kana": "りょこうのあんないをよむ。",
+      "imageUrl": "https://cdn.allaboutnavi.co.jp/twinavi/img/socialnews/twinavi.jp/20211125/619f40a296573_639344336pixta_78494191_M.jpg",
+      "sourceUrl": "https://citrus-net.jp/article/96443",
+      "typingKana": "りょこうのあんないをよむ",
+      "explanation": "「案」の音読みは「アン」。例文「旅行の案内を読む。」の「案内」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_003",
+    "index": 3,
+    "kanji": "以",
+    "on": {
+      "type": "on",
+      "yomi": "イ",
+      "sentence": "以上の問題を解いてください。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">以上</mark>の問題を解いてください。",
+      "targetWord": "以上",
+      "kana": "いじょうのもんだいをといてください。",
+      "imageUrl": "https://www.shonan-h.ac.jp/ws/wp-content/uploads/2020/12/IMG_833333.jpg",
+      "sourceUrl": "https://www.shonan-h.ac.jp/road/%e3%80%8c%e8%87%aa%e5%88%86%e3%81%8c%e4%b8%8a%e6%89%8b%e3%81%ab%e3%81%aa%e3%82%8b%e3%82%93%e3%81%a0%e3%80%81%e8%87%aa%e5%8a%9b%e3%81%a7%e4%b8%8a%e3%81%8c%e3%81%a3%e3%81%a6%e3%81%84%e3%81%8f%e3%82%93",
+      "typingKana": "いじょうのもんだいをといてください",
+      "explanation": "「以」の音読みは「イ」。例文「以上の問題を解いてください。」の「以上」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_004",
+    "index": 4,
+    "kanji": "衣",
+    "on": {
+      "type": "on",
+      "yomi": "イ",
+      "sentence": "衣服をきれいにたたむ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">衣服</mark>をきれいにたたむ。",
+      "targetWord": "衣服",
+      "kana": "いふくをきれいにたたむ。",
+      "imageUrl": "https://fixithomestead.com/wp-content/uploads/2025/12/folded-laundry.jpg",
+      "sourceUrl": "https://fixithomestead.com/15-things-you-need-to-clear-out-before-you-put-up-the-tree/",
+      "typingKana": "いふくをきれいにたたむ",
+      "explanation": "「衣」の音読みは「イ」。例文「衣服をきれいにたたむ。」の「衣服」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "ころも",
+      "sentence": "冬の衣を出す。",
+      "sentenceHtml": "冬の<mark class=\\\"target-kanji\\\">衣</mark>を出す。",
+      "targetWord": "衣",
+      "kana": "ふゆのころもをだす。",
+      "imageUrl": "https://dailyhotnews.ru/uploads/posts/2026-04/1775584216-11775582116-1b6708144d7be7ed6f874209aa9abe7ae.webp",
+      "sourceUrl": "https://dailyhotnews.ru/social/337104-sovety-jeksperty-kak-pravilno-hranit-zimnie-veschi-dlja-ih-kachestvennogo-vida.html",
+      "typingKana": "ふゆのころもをだす",
+      "explanation": "「衣」の訓読みは「ころも」。例文「冬の衣を出す。」の「衣」で使われます。"
+    }
+  },
+  {
+    "id": "k4_005",
+    "index": 5,
+    "kanji": "位",
+    "on": {
+      "type": "on",
+      "yomi": "イ",
+      "sentence": "位置を確認する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">位置</mark>を確認する。",
+      "targetWord": "位置",
+      "kana": "いちをかくにんする。",
+      "imageUrl": "https://dime.jp/wp-content/uploads/2019/12/02_s-55.jpg",
+      "sourceUrl": "https://dime.jp/genre/832011/",
+      "typingKana": "いちをかくにんする",
+      "explanation": "「位」の音読みは「イ」。例文「位置を確認する。」の「位置」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "い",
+      "sentence": "ぼくはクラスで3位だった。",
+      "sentenceHtml": "ぼくはクラスで3<mark class=\\\"target-kanji\\\">位</mark>だった。",
+      "targetWord": "位",
+      "kana": "ぼくはくらすでさんいだった。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20230917/05/4946kero/6b/9d/j/o0314033715338981949.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/4946kero/entry-12820765942.html",
+      "typingKana": "ぼくはくらすでさんいだった",
+      "explanation": "「位」の訓読みは「い」。例文「ぼくはクラスで3位だった。」の「位」で使われます。"
+    }
+  },
+  {
+    "id": "k4_006",
+    "index": 6,
+    "kanji": "茨",
+    "on": null,
+    "kun": {
+      "type": "kun",
+      "yomi": "いばら",
+      "sentence": "茨のとげに気をつける。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">茨</mark>のとげに気をつける。",
+      "targetWord": "茨",
+      "kana": "いばらのとげにきをつける。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20190605/23/igai-7080/82/bf/j/o1024068214438171490.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/igai-7080/entry-12471688078.html",
+      "typingKana": "いばらのとげにきをつける",
+      "explanation": "「茨」の訓読みは「いばら」。例文「茨のとげに気をつける。」の「茨」で使われます。"
+    }
+  },
+  {
+    "id": "k4_007",
+    "index": 7,
+    "kanji": "印",
+    "on": {
+      "type": "on",
+      "yomi": "イン",
+      "sentence": "印刷した紙を配る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">印刷</mark>した紙を配る。",
+      "targetWord": "印刷",
+      "kana": "いんさつしたかみをくばる。",
+      "imageUrl": "https://kyujinbox.k-img.com/images/sy/9ae7b6045cd9b5fc8d52c7efa270ca06.jpeg",
+      "sourceUrl": "https://xn--pckua2a7gp15o89zb.com/jbn/c750fdc0eeb0a7e449c9ae99d80109e1",
+      "typingKana": "いんさつしたかみをくばる",
+      "explanation": "「印」の音読みは「イン」。例文「印刷した紙を配る。」の「印刷」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "しるし",
+      "sentence": "名前の印をつける。",
+      "sentenceHtml": "名前の<mark class=\\\"target-kanji\\\">印</mark>をつける。",
+      "targetWord": "印",
+      "kana": "なまえのしるしをつける。",
+      "imageUrl": "https://imgcp.aacdn.jp/img-a/1200/auto/aa/gm/article/4/1/8/3/3/4/800__namepenc05.jpg",
+      "sourceUrl": "https://allabout.co.jp/gm/gc/418334/image/5/",
+      "typingKana": "なまえのしるしをつける",
+      "explanation": "「印」の訓読みは「しるし」。例文「名前の印をつける。」の「印」で使われます。"
+    }
+  },
+  {
+    "id": "k4_008",
+    "index": 8,
+    "kanji": "英",
+    "on": {
+      "type": "on",
+      "yomi": "エイ",
+      "sentence": "英語の本を読む。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">英語</mark>の本を読む。",
+      "targetWord": "英語",
+      "kana": "えいごのほんをよむ。",
+      "imageUrl": "https://nurieigoblog.com/wp-content/uploads/2025/07/2dd362213af756f625188b50e53aeee4.png",
+      "sourceUrl": "https://www.nurieigoblog.com/",
+      "typingKana": "えいごのほんをよむ",
+      "explanation": "「英」の音読みは「エイ」。例文「英語の本を読む。」の「英語」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_009",
+    "index": 9,
+    "kanji": "栄",
+    "on": {
+      "type": "on",
+      "yomi": "エイ",
+      "sentence": "栄養のある食事をとる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">栄養</mark>のある食事をとる。",
+      "targetWord": "栄養",
+      "kana": "えいようのあるしょくじをとる。",
+      "imageUrl": "https://kms-naruo.com/wpcms/wp-content/uploads/2026/07/3eb0335b4c46fab5342862140b85440b-768x576.png",
+      "sourceUrl": "https://kms-naruo.com/2026/07/11486/",
+      "typingKana": "えいようのあるしょくじをとる",
+      "explanation": "「栄」の音読みは「エイ」。例文「栄養のある食事をとる。」の「栄養」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "さか",
+      "sentence": "町が栄える。",
+      "sentenceHtml": "町が<mark class=\\\"target-kanji\\\">栄える</mark>。",
+      "targetWord": "栄える",
+      "kana": "まちがさかえる。",
+      "imageUrl": "https://moregreen-lab.com/optimized/250730/250730_03.jpg",
+      "sourceUrl": "https://moregreen-lab.com/archives/1844",
+      "typingKana": "まちがさかえる",
+      "explanation": "「栄」の訓読みは「さか」。例文「町が栄える。」の「栄える」で使われます。"
+    }
+  },
+  {
+    "id": "k4_010",
+    "index": 10,
+    "kanji": "媛",
+    "on": {
+      "type": "on",
+      "yomi": "エン",
+      "sentence": "愛媛県に旅行する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">愛媛</mark>県に旅行する。",
+      "targetWord": "愛媛",
+      "kana": "えひめけんにりょこうする。",
+      "imageUrl": "https://e-mimi.jp/files/uploads/%E6%84%9B%E5%AA%9B__large.jpg",
+      "sourceUrl": "https://e-mimi.jp/shop_blog/index/page:110?attachment_id=3891",
+      "typingKana": "えひめけんにりょこうする",
+      "explanation": "「媛」の音読みは「エン」。例文「愛媛県に旅行する。」の「愛媛」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "ひめ",
+      "sentence": "媛のように美しい。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">媛</mark>のように美しい。",
+      "targetWord": "媛",
+      "kana": "ひめのようにうつくしい。",
+      "imageUrl": "https://c-ssl.dtstatic.com/uploads/item/201707/29/20170729230251_PrRwz.thumb.400_0.png",
+      "sourceUrl": "https://www.duitang.com/blog/?id=794996068",
+      "typingKana": "ひめのようにうつくしい",
+      "explanation": "「媛」の訓読みは「ひめ」。例文「媛のように美しい。」の「媛」で使われます。"
+    }
+  },
+  {
+    "id": "k4_011",
+    "index": 11,
+    "kanji": "塩",
+    "on": {
+      "type": "on",
+      "yomi": "エン",
+      "sentence": "塩分をとりすぎないようにする。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">塩分</mark>をとりすぎないようにする。",
+      "targetWord": "塩分",
+      "kana": "えんぶんをとりすぎないようにする。",
+      "imageUrl": "https://president.ismcdn.jp/mwimgs/c/b/1200wm/img_cbeff54f8b2e97204da9eeb7be78d6f7573791.jpg",
+      "sourceUrl": "https://president.jp/articles/-/89457",
+      "typingKana": "えんぶんをとりすぎないようにする",
+      "explanation": "「塩」の音読みは「エン」。例文「塩分をとりすぎないようにする。」の「塩分」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "しお",
+      "sentence": "スープに塩を入れる。",
+      "sentenceHtml": "スープに<mark class=\\\"target-kanji\\\">塩</mark>を入れる。",
+      "targetWord": "塩",
+      "kana": "すーぷにしおをいれる。",
+      "imageUrl": "https://ae01.alicdn.com/kf/Hf6e109c342ea4e7c8efc90a648c03708I.jpg",
+      "sourceUrl": "https://orul.ru/p/4000368266911",
+      "typingKana": "すーぷにしおをいれる",
+      "explanation": "「塩」の訓読みは「しお」。例文「スープに塩を入れる。」の「塩」で使われます。"
+    }
+  },
+  {
+    "id": "k4_012",
+    "index": 12,
+    "kanji": "岡",
+    "on": null,
+    "kun": {
+      "type": "kun",
+      "yomi": "おか",
+      "sentence": "岡の上から町を見る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">岡</mark>の上から町を見る。",
+      "targetWord": "岡",
+      "kana": "おかのうえからまちをみる。",
+      "imageUrl": "https://cdn.snsimg.carview.co.jp/minkara/userstorage/000/062/822/485/ef159c9f50.jpg?ct=b1831d9882ee",
+      "sourceUrl": "https://minkara.carview.co.jp/userid/2069722/blog/m202209/",
+      "typingKana": "おかのうえからまちをみる",
+      "explanation": "「岡」の訓読みは「おか」。例文「岡の上から町を見る。」の「岡」で使われます。"
+    }
+  },
+  {
+    "id": "k4_013",
+    "index": 13,
+    "kanji": "億",
+    "on": {
+      "type": "on",
+      "yomi": "オク",
+      "sentence": "一億円の宝くじが当たったらどうする？",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">一億</mark>円の宝くじが当たったらどうする？",
+      "targetWord": "一億",
+      "kana": "いちおくえんのたからくじがあたったらどうする？",
+      "imageUrl": "https://image-select.mamastar.jp/interspace/wp-content/uploads/1764308991-b70a28761e42154ae474b680a4d72682.png",
+      "sourceUrl": "https://select.mamastar.jp/?post_type%5B0%5D=post&s=%E9%9B%A2%E5%A9%9A%E3%81%97%E3%81%9F%E3%81%84&x=0&y=0",
+      "typingKana": "いちおくえんのたからくじがあたったらどうする",
+      "explanation": "「億」の音読みは「オク」。例文「一億円の宝くじが当たったらどうする？」の「一億」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_014",
+    "index": 14,
+    "kanji": "加",
+    "on": {
+      "type": "on",
+      "yomi": "カ",
+      "sentence": "参加する人を確認する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">参加</mark>する人を確認する。",
+      "targetWord": "参加",
+      "kana": "さんかするひとをかくにんする。",
+      "imageUrl": "https://ping-nest.com/assets/feature-owner-participants.png",
+      "sourceUrl": "https://ping-nest.com/for-clubs/",
+      "typingKana": "さんかするひとをかくにんする",
+      "explanation": "「加」の音読みは「カ」。例文「参加する人を確認する。」の「参加」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "くわ",
+      "sentence": "砂糖を加える。",
+      "sentenceHtml": "砂糖を<mark class=\\\"target-kanji\\\">加える</mark>。",
+      "targetWord": "加える",
+      "kana": "さとうをくわえる。",
+      "imageUrl": "https://www.dole.co.jp/wp-content/uploads/2025/11/lifestyle0071_251118_06.webp",
+      "sourceUrl": "https://www.dole.co.jp/magazine/0071",
+      "typingKana": "さとうをくわえる",
+      "explanation": "「加」の訓読みは「くわ」。例文「砂糖を加える。」の「加える」で使われます。"
+    }
+  },
+  {
+    "id": "k4_015",
+    "index": 15,
+    "kanji": "果",
+    "on": {
+      "type": "on",
+      "yomi": "カ",
+      "sentence": "果実を使ったジュースを飲む。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">果実</mark>を使ったジュースを飲む。",
+      "targetWord": "果実",
+      "kana": "かじつをつかったじゅーすをのむ。",
+      "imageUrl": "https://lifestylefrisco.com/wp-content/uploads/2021/05/juice-2048x1365.jpg",
+      "sourceUrl": "https://lifestylefrisco.com/so-whats-the-deal-with-cold-pressed-juice/",
+      "typingKana": "かじつをつかったじゅーすをのむ",
+      "explanation": "「果」の音読みは「カ」。例文「果実を使ったジュースを飲む。」の「果実」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "は",
+      "sentence": "最後まで果たす。",
+      "sentenceHtml": "最後まで<mark class=\\\"target-kanji\\\">果たす</mark>。",
+      "targetWord": "果たす",
+      "kana": "さいごまではたす。",
+      "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/s3.tentan.jp/word_img/20551_finish_20240702T072109761Z_optimized.png",
+      "sourceUrl": "https://tentan.jp/word/finish",
+      "typingKana": "さいごまではたす",
+      "explanation": "「果」の訓読みは「は」。例文「最後まで果たす。」の「果たす」で使われます。"
+    }
+  },
+  {
+    "id": "k4_016",
+    "index": 16,
+    "kanji": "貨",
+    "on": {
+      "type": "on",
+      "yomi": "カ",
+      "sentence": "貨物列車が走っている。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">貨物</mark>列車が走っている。",
+      "targetWord": "貨物",
+      "kana": "かもつれっしゃがはしっている。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20240502/08/yakanisi-4786/a2/49/j/o0600040015433209255.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/yakanisi-4786/entry-12850330993.html",
+      "typingKana": "かもつれっしゃがはしっている",
+      "explanation": "「貨」の音読みは「カ」。例文「貨物列車が走っている。」の「貨物」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_017",
+    "index": 17,
+    "kanji": "課",
+    "on": {
+      "type": "on",
+      "yomi": "カ",
+      "sentence": "課題を提出する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">課題</mark>を提出する。",
+      "targetWord": "課題",
+      "kana": "かだいをていしゅつする。",
+      "imageUrl": "https://www.tuat.ac.jp/images/tuat/campuslife_career/sirius/lms/student/Assignment_01.png",
+      "sourceUrl": "https://www.tuat.ac.jp/english/campuslife_career/sirius/lms/student/Assignment.html",
+      "typingKana": "かだいをていしゅつする",
+      "explanation": "「課」の音読みは「カ」。例文「課題を提出する。」の「課題」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_018",
+    "index": 18,
+    "kanji": "芽",
+    "on": {
+      "type": "on",
+      "yomi": "ガ",
+      "sentence": "発芽した種を観察する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">発芽</mark>した種を観察する。",
+      "targetWord": "発芽",
+      "kana": "はつがしたたねをかんさつする。",
+      "imageUrl": "https://ivesto.eu/wp-content/uploads/2024/01/SEME.jpg",
+      "sourceUrl": "https://ivesto.eu/",
+      "typingKana": "はつがしたたねをかんさつする",
+      "explanation": "「芽」の音読みは「ガ」。例文「発芽した種を観察する。」の「発芽」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "め",
+      "sentence": "庭の木に新しい芽が出た。",
+      "sentenceHtml": "庭の木に新しい<mark class=\\\"target-kanji\\\">芽</mark>が出た。",
+      "targetWord": "芽",
+      "kana": "にわのきにあたらしいめがでた。",
+      "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/goemontea/20210313/20210313201914.jpg",
+      "sourceUrl": "https://goemontea.hatenablog.com/entry/2021/03/13/202159",
+      "typingKana": "にわのきにあたらしいめがでた",
+      "explanation": "「芽」の訓読みは「め」。例文「庭の木に新しい芽が出た。」の「芽」で使われます。"
+    }
+  },
+  {
+    "id": "k4_019",
+    "index": 19,
+    "kanji": "賀",
+    "on": {
+      "type": "on",
+      "yomi": "ガ",
+      "sentence": "年賀状を書く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">年賀状</mark>を書く。",
+      "targetWord": "年賀状",
+      "kana": "ねんがじょうをかく。",
+      "imageUrl": "https://www.bm-peekaboo.com/wp3/wp-content/uploads/2020/09/25435866_s.jpg",
+      "sourceUrl": "https://www.bm-peekaboo.com/information/55966/",
+      "typingKana": "ねんがじょうをかく",
+      "explanation": "「賀」の音読みは「ガ」。例文「年賀状を書く。」の「年賀状」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_020",
+    "index": 20,
+    "kanji": "改",
+    "on": {
+      "type": "on",
+      "yomi": "カイ",
+      "sentence": "改札を通る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">改札</mark>を通る。",
+      "targetWord": "改札",
+      "kana": "かいさつをとおる。",
+      "imageUrl": "https://media.trilltrill.jp/articles/4397205/cover-image.4aa916a3ffad21e04c37170e3b6d2e48?w=1200",
+      "sourceUrl": "https://trilltrill.jp/articles/4397205",
+      "typingKana": "かいさつをとおる",
+      "explanation": "「改」の音読みは「カイ」。例文「改札を通る。」の「改札」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "あらた",
+      "sentence": "間違いを改める。",
+      "sentenceHtml": "間違いを<mark class=\\\"target-kanji\\\">改める</mark>。",
+      "targetWord": "改める",
+      "kana": "まちがいをあらためる。",
+      "imageUrl": "https://domani.shogakukan.co.jp/wp-content/uploads/2025/03/s_AdobeStock_979631915.jpg",
+      "sourceUrl": "https://domani.shogakukan.co.jp/1076404/1",
+      "typingKana": "まちがいをあらためる",
+      "explanation": "「改」の訓読みは「あらた」。例文「間違いを改める。」の「改める」で使われます。"
+    }
+  },
+  {
+    "id": "k4_021",
+    "index": 21,
+    "kanji": "械",
+    "on": {
+      "type": "on",
+      "yomi": "カイ",
+      "sentence": "機械を正しく使う。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">機械</mark>を正しく使う。",
+      "targetWord": "機械",
+      "kana": "きかいをただしくつかう。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/ext/b1192dcfaa7fb6d8a70b88a08a2e05b4dfb93821bc517b95df91f0e41907.jpeg?x-type=ogp",
+      "sourceUrl": "https://note.com/yamatomanreal/n/n837598f22d0d",
+      "typingKana": "きかいをただしくつかう",
+      "explanation": "「械」の音読みは「カイ」。例文「機械を正しく使う。」の「機械」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_022",
+    "index": 22,
+    "kanji": "害",
+    "on": {
+      "type": "on",
+      "yomi": "ガイ",
+      "sentence": "害虫を見つけた。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">害虫</mark>を見つけた。",
+      "targetWord": "害虫",
+      "kana": "がいちゅうをみつけた。",
+      "imageUrl": "https://hw-control.or.jp/guide/wp-content/uploads/2024/04/5074044_s.jpg",
+      "sourceUrl": "https://hw-control.or.jp/guide/13305",
+      "typingKana": "がいちゅうをみつけた",
+      "explanation": "「害」の音読みは「ガイ」。例文「害虫を見つけた。」の「害虫」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_023",
+    "index": 23,
+    "kanji": "街",
+    "on": {
+      "type": "on",
+      "yomi": "ガイ",
+      "sentence": "街灯が夜道を照らす。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">街灯</mark>が夜道を照らす。",
+      "targetWord": "街灯",
+      "kana": "がいとうがよみちをてらす。",
+      "imageUrl": "https://cdn.pakutaso.com/shared/img/thumb/KAZ86_kuraimichi_TP_V4.jpg?width=500",
+      "sourceUrl": "https://www.pakutaso.com/20231218347post-48659.html",
+      "typingKana": "がいとうがよみちをてらす",
+      "explanation": "「街」の音読みは「ガイ」。例文「街灯が夜道を照らす。」の「街灯」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "まち",
+      "sentence": "商店街で買い物をする。",
+      "sentenceHtml": "商店<mark class=\\\"target-kanji\\\">街</mark>で買い物をする。",
+      "targetWord": "街",
+      "kana": "しょうてんがいでかいものをする。",
+      "imageUrl": "https://assets.st-note.com/img/1776260489-I3CrlqZS9pOaG5dgRQsDANVY.png?width=1200",
+      "sourceUrl": "https://note.com/alzhacker/n/nd740de3ba19f?magazine_key=m404232682f8d",
+      "typingKana": "しょうてんがいでかいものをする",
+      "explanation": "「街」の訓読みは「まち」。例文「商店街で買い物をする。」の「街」で使われます。"
+    }
+  },
+  {
+    "id": "k4_024",
+    "index": 24,
+    "kanji": "各",
+    "on": {
+      "type": "on",
+      "yomi": "カク",
+      "sentence": "各自で準備をする。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">各自</mark>で準備をする。",
+      "targetWord": "各自",
+      "kana": "かくじでじゅんびをする。",
+      "imageUrl": "https://hachioji-school.ed.jp/yrmze/blog_img/338494683?tm=20260612064712",
+      "sourceUrl": "https://hachioji-school.ed.jp/yrmze/weblog/135182707?tm=20260612064711",
+      "typingKana": "かくじでじゅんびをする",
+      "explanation": "「各」の音読みは「カク」。例文「各自で準備をする。」の「各自」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_025",
+    "index": 25,
+    "kanji": "覚",
+    "on": {
+      "type": "on",
+      "yomi": "カク",
+      "sentence": "感覚を大切にする。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">感覚</mark>を大切にする。",
+      "targetWord": "感覚",
+      "kana": "かんかくをたいせつにする。",
+      "imageUrl": "https://assets.st-note.com/img/1743597526-Qahi9RCF7lBmArLTx1HyzYS5.jpg?width=1200",
+      "sourceUrl": "https://note.com/yass583/n/n0da917ff0e9a",
+      "typingKana": "かんかくをたいせつにする",
+      "explanation": "「覚」の音読みは「カク」。例文「感覚を大切にする。」の「感覚」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "おぼ",
+      "sentence": "漢字を覚える。",
+      "sentenceHtml": "漢字を<mark class=\\\"target-kanji\\\">覚える</mark>。",
+      "targetWord": "覚える",
+      "kana": "かんじをおぼえる。",
+      "imageUrl": "https://surala.jp/smart-print/assets/kanji/article/stroke_01.jpg",
+      "sourceUrl": "https://surala.jp/smart-print/kanji/article/grade/12/",
+      "typingKana": "かんじをおぼえる",
+      "explanation": "「覚」の訓読みは「おぼ」。例文「漢字を覚える。」の「覚える」で使われます。"
+    }
+  },
+  {
+    "id": "k4_026",
+    "index": 26,
+    "kanji": "潟",
+    "on": {
+      "type": "on",
+      "yomi": "ニイガタ",
+      "sentence": "新潟県のお米はおいしい。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">新潟</mark>県のお米はおいしい。",
+      "targetWord": "新潟",
+      "kana": "にいがたけんのおこめはおいしい。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20250611/08/kananamama/a1/87/j/o0607108015614278835.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp:443/kananamama/",
+      "typingKana": "にいがたけんのおこめはおいしい",
+      "explanation": "「潟」の音読みは「ニイガタ」。例文「新潟県のお米はおいしい。」の「新潟」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "かた",
+      "sentence": "潟に鳥が集まる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">潟</mark>に鳥が集まる。",
+      "targetWord": "潟",
+      "kana": "かたにとりがあつまる。",
+      "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/battorisassa/20250508/20250508154232.jpg",
+      "sourceUrl": "https://battorisassa.hatenablog.com/entry/2025/05/15/060000",
+      "typingKana": "かたにとりがあつまる",
+      "explanation": "「潟」の訓読みは「かた」。例文「潟に鳥が集まる。」の「潟」で使われます。"
+    }
+  },
+  {
+    "id": "k4_027",
+    "index": 27,
+    "kanji": "完",
+    "on": {
+      "type": "on",
+      "yomi": "カン",
+      "sentence": "完成した作品を見せる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">完成</mark>した作品を見せる。",
+      "targetWord": "完成",
+      "kana": "かんせいしたさくひんをみせる。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20241127/09/home-study-log/40/47/p/o0600060015514791625.png?caw=800",
+      "sourceUrl": "https://ameblo.jp/home-study-log/entry-12876031544.html",
+      "typingKana": "かんせいしたさくひんをみせる",
+      "explanation": "「完」の音読みは「カン」。例文「完成した作品を見せる。」の「完成」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_028",
+    "index": 28,
+    "kanji": "官",
+    "on": {
+      "type": "on",
+      "yomi": "カン",
+      "sentence": "官公庁で働く人。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">官公庁</mark>で働く人。",
+      "targetWord": "官公庁",
+      "kana": "かんこうちょうではたらくひと。",
+      "imageUrl": "https://jobs.backs.co.jp/specialimg/8d298bd62a04903b733383003b2d2db53ede6c3f.jpg?width=400",
+      "sourceUrl": "https://jobs.backs.co.jp/special/45.html?Breezebacks-recSESSID=b9f76b87fd7050892e6755d5b39141b34bebd9ee1c1ef2460eddc9a622ce118e&p=6",
+      "typingKana": "かんこうちょうではたらくひと",
+      "explanation": "「官」の音読みは「カン」。例文「官公庁で働く人。」の「官公庁」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_029",
+    "index": 29,
+    "kanji": "管",
+    "on": {
+      "type": "on",
+      "yomi": "カン",
+      "sentence": "管理をしっかりする。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">管理</mark>をしっかりする。",
+      "targetWord": "管理",
+      "kana": "かんりをしっかりする。",
+      "imageUrl": "https://livedoor.blogimg.jp/riskbenefit/imgs/6/9/6900ce50.png",
+      "sourceUrl": "https://riskbenefit.blog.jp/archives/cat_244771.html?p=10",
+      "typingKana": "かんりをしっかりする",
+      "explanation": "「管」の音読みは「カン」。例文「管理をしっかりする。」の「管理」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "くだ",
+      "sentence": "水道の管がこわれた。",
+      "sentenceHtml": "水道の<mark class=\\\"target-kanji\\\">管</mark>がこわれた。",
+      "targetWord": "管",
+      "kana": "すいどうのくだがこわれた。",
+      "imageUrl": "https://neighbourhoodplumbing.com.au/wp-content/uploads/2024/08/featured-image-of-a-burst-water-pipe.webp",
+      "sourceUrl": "https://neighbourhoodplumbing.com.au/how-to-fix-a-burst-water-pipe/",
+      "typingKana": "すいどうのくだがこわれた",
+      "explanation": "「管」の訓読みは「くだ」。例文「水道の管がこわれた。」の「管」で使われます。"
+    }
+  },
+  {
+    "id": "k4_030",
+    "index": 30,
+    "kanji": "関",
+    "on": {
+      "type": "on",
+      "yomi": "カン",
+      "sentence": "関係のある本を探す。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">関係</mark>のある本を探す。",
+      "targetWord": "関係",
+      "kana": "かんけいのあるほんをさがす。",
+      "imageUrl": "https://lacountystore.com/wp-content/uploads/lacountystore/52d6d93c10f4a69645b887361cd69f43.webp",
+      "sourceUrl": "https://lacountystore.com/best-books-about-relationships/",
+      "typingKana": "かんけいのあるほんをさがす",
+      "explanation": "「関」の音読みは「カン」。例文「関係のある本を探す。」の「関係」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "せき",
+      "sentence": "関所を通る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">関所</mark>を通る。",
+      "targetWord": "関所",
+      "kana": "せきしょをとおる。",
+      "imageUrl": "https://cdn.snsimg.carview.co.jp/carlife/images/UserCarPhoto/512043/p2.jpg?ct=b191e20ca605",
+      "sourceUrl": "https://minkara.carview.co.jp/userid/196444/car/84402/512043/2/photo.aspx",
+      "typingKana": "せきしょをとおる",
+      "explanation": "「関」の訓読みは「せき」。例文「関所を通る。」の「関所」で使われます。"
+    }
+  },
+  {
+    "id": "k4_031",
+    "index": 31,
+    "kanji": "観",
+    "on": {
+      "type": "on",
+      "yomi": "カン",
+      "sentence": "観察日記をつける。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">観察</mark>日記をつける。",
+      "targetWord": "観察",
+      "kana": "かんさつにっきをつける。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/307768066/a667b2c01c38bc8248fef64d41c99c21.png?width=432&dpr=2",
+      "sourceUrl": "https://note.com/hisano_soeya/m/m90e8b25ce25a",
+      "typingKana": "かんさつにっきをつける",
+      "explanation": "「観」の音読みは「カン」。例文「観察日記をつける。」の「観察」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "み",
+      "sentence": "星を観る。",
+      "sentenceHtml": "星を<mark class=\\\"target-kanji\\\">観る</mark>。",
+      "targetWord": "観る",
+      "kana": "ほしをみる。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20240412/07/cd-starman/37/be/j/o0685044815424700692.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/cd-starman/entry-12848034861.html",
+      "typingKana": "ほしをみる",
+      "explanation": "「観」の訓読みは「み」。例文「星を観る。」の「観る」で使われます。"
+    }
+  },
+  {
+    "id": "k4_032",
+    "index": 32,
+    "kanji": "願",
+    "on": {
+      "type": "on",
+      "yomi": "ガン",
+      "sentence": "願書を提出する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">願書</mark>を提出する。",
+      "targetWord": "願書",
+      "kana": "がんしょをていしゅつする。",
+      "imageUrl": "https://pub-82fd75c747c5482d817c65b49817a015.r2.dev/LP/users/3.webp",
+      "sourceUrl": "https://sampleblog-iota.vercel.app/",
+      "typingKana": "がんしょをていしゅつする",
+      "explanation": "「願」の音読みは「ガン」。例文「願書を提出する。」の「願書」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "ねが",
+      "sentence": "お願いを願う。",
+      "sentenceHtml": "お願いを<mark class=\\\"target-kanji\\\">願う</mark>。",
+      "targetWord": "願う",
+      "kana": "おねがいをねがう。",
+      "imageUrl": "https://kankiten.com/wp-content/uploads/2021/01/c80db75f39268e6951ac165ecdb1d80f.jpg",
+      "sourceUrl": "https://kankiten.com/negai-10/",
+      "typingKana": "おねがいをねがう",
+      "explanation": "「願」の訓読みは「ねが」。例文「お願いを願う。」の「願う」で使われます。"
+    }
+  },
+  {
+    "id": "k4_033",
+    "index": 33,
+    "kanji": "岐",
+    "on": {
+      "type": "on",
+      "yomi": "ギ",
+      "sentence": "岐阜県に行ってみたい。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">岐阜</mark>県に行ってみたい。",
+      "targetWord": "岐阜",
+      "kana": "ぎふけんにいってみたい。",
+      "imageUrl": "https://isekai-hitoritabi.com/wp-content/uploads/2022/11/2022-11-03_09h41_26.jpg",
+      "sourceUrl": "https://isekai-hitoritabi.com/ja/gifu-zekkei/",
+      "typingKana": "ぎふけんにいってみたい",
+      "explanation": "「岐」の音読みは「ギ」。例文「岐阜県に行ってみたい。」の「岐阜」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_034",
+    "index": 34,
+    "kanji": "希",
+    "on": {
+      "type": "on",
+      "yomi": "キ",
+      "sentence": "希望を持ってがんばる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">希望</mark>を持ってがんばる。",
+      "targetWord": "希望",
+      "kana": "きぼうをもってがんばる。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/127925472/picture_pc_93af6f9b573003fd39c32702871a8223.jpeg",
+      "sourceUrl": "https://note.com/ma_rico88/n/n61b4c75c6f0e",
+      "typingKana": "きぼうをもってがんばる",
+      "explanation": "「希」の音読みは「キ」。例文「希望を持ってがんばる。」の「希望」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_035",
+    "index": 35,
+    "kanji": "季",
+    "on": {
+      "type": "on",
+      "yomi": "キ",
+      "sentence": "季節の変化を楽しむ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">季節</mark>の変化を楽しむ。",
+      "targetWord": "季節",
+      "kana": "きせつのへんかをたのしむ。",
+      "imageUrl": "https://livedoor.blogimg.jp/news4wide/imgs/5/f/5f1f04ae-s.jpg",
+      "sourceUrl": "https://2ch-mato.site/p?id=94723",
+      "typingKana": "きせつのへんかをたのしむ",
+      "explanation": "「季」の音読みは「キ」。例文「季節の変化を楽しむ。」の「季節」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_036",
+    "index": 36,
+    "kanji": "旗",
+    "on": {
+      "type": "on",
+      "yomi": "キ",
+      "sentence": "国旗をかかげる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">国旗</mark>をかかげる。",
+      "targetWord": "国旗",
+      "kana": "こっきをかかげる。",
+      "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hotnewschina/20200223/20200223091301.jpg",
+      "sourceUrl": "https://hotnewschina.hatenablog.com/entry/2020/02/23/091716",
+      "typingKana": "こっきをかかげる",
+      "explanation": "「旗」の音読みは「キ」。例文「国旗をかかげる。」の「国旗」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "はた",
+      "sentence": "運動会で赤い旗を振る。",
+      "sentenceHtml": "運動会で赤い<mark class=\\\"target-kanji\\\">旗</mark>を振る。",
+      "targetWord": "旗",
+      "kana": "うんどうかいであかいはたをふる。",
+      "imageUrl": "http://heaven-b.asablo.jp/blog/img/2013/10/07/2cb9bc.jpg",
+      "sourceUrl": "http://heaven-b.asablo.jp/blog/imgview/2013/10/07/2cb9bc.jpg.html",
+      "typingKana": "うんどうかいであかいはたをふる",
+      "explanation": "「旗」の訓読みは「はた」。例文「運動会で赤い旗を振る。」の「旗」で使われます。"
+    }
+  },
+  {
+    "id": "k4_037",
+    "index": 37,
+    "kanji": "器",
+    "on": {
+      "type": "on",
+      "yomi": "キ",
+      "sentence": "食器を洗う。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">食器</mark>を洗う。",
+      "targetWord": "食器",
+      "kana": "しょっきをあらう。",
+      "imageUrl": "https://soujikaden.com/wp-content/uploads/2025/09/食洗器-予洗い3-1024x683.jpg",
+      "sourceUrl": "https://soujikaden.com/dishwasher-prerinsing-guide/",
+      "typingKana": "しょっきをあらう",
+      "explanation": "「器」の音読みは「キ」。例文「食器を洗う。」の「食器」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "うつわ",
+      "sentence": "大きな器に料理を盛る。",
+      "sentenceHtml": "大きな<mark class=\\\"target-kanji\\\">器</mark>に料理を盛る。",
+      "targetWord": "器",
+      "kana": "おおきなうつわにりょうりをもる。",
+      "imageUrl": "https://d3dve147lq9a0c.cloudfront.net/wp-content/uploads/2021/10/K270-00039-image_8.jpg",
+      "sourceUrl": "https://store.kurasukoto.com/products/127556",
+      "typingKana": "おおきなうつわにりょうりをもる",
+      "explanation": "「器」の訓読みは「うつわ」。例文「大きな器に料理を盛る。」の「器」で使われます。"
+    }
+  },
+  {
+    "id": "k4_038",
+    "index": 38,
+    "kanji": "機",
+    "on": {
+      "type": "on",
+      "yomi": "キ",
+      "sentence": "機械を操作する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">機械</mark>を操作する。",
+      "targetWord": "機械",
+      "kana": "きかいをそうさする。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/ext/b1192dcfaa7fb6d8a70b88a08a2e05b4dfb93821bc517b95df91f0e41907.jpeg?x-type=ogp",
+      "sourceUrl": "https://note.com/yamatomanreal/n/n837598f22d0d",
+      "typingKana": "きかいをそうさする",
+      "explanation": "「機」の音読みは「キ」。例文「機械を操作する。」の「機械」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "はた",
+      "sentence": "機を織る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">機</mark>を織る。",
+      "targetWord": "機",
+      "kana": "はたをおる。",
+      "imageUrl": "https://www.kizuna-station.com/blog02/Image/62b377e92b9270cb2e804c6ee194fd455a8db44e.jpg",
+      "sourceUrl": "https://www.kizuna-station.com/blog02/cat40/",
+      "typingKana": "はたをおる",
+      "explanation": "「機」の訓読みは「はた」。例文「機を織る。」の「機」で使われます。"
+    }
+  },
+  {
+    "id": "k4_039",
+    "index": 39,
+    "kanji": "議",
+    "on": {
+      "type": "on",
+      "yomi": "ギ",
+      "sentence": "会議で意見を出す。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">会議</mark>で意見を出す。",
+      "targetWord": "会議",
+      "kana": "かいぎでいけんをだす。",
+      "imageUrl": "https://www.zen-hd.co.jp/zen_club/wp-content/uploads/2025/10/communication.png",
+      "sourceUrl": "https://www.zen-hd.co.jp/zen_club/?p=16428",
+      "typingKana": "かいぎでいけんをだす",
+      "explanation": "「議」の音読みは「ギ」。例文「会議で意見を出す。」の「会議」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_040",
+    "index": 40,
+    "kanji": "求",
+    "on": {
+      "type": "on",
+      "yomi": "キュウ",
+      "sentence": "求人情報を調べる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">求人</mark>情報を調べる。",
+      "targetWord": "求人",
+      "kana": "きゅうじんじょうほうをしらべる。",
+      "imageUrl": "https://img.my-best.com/articles/24c4215e4e7ec6a42a82c3dfc8e036e0.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1400&h=1050&fit=crop&s=453617047b1d794e61ed04a68e542f72",
+      "sourceUrl": "https://my-best.com/articles/1474",
+      "typingKana": "きゅうじんじょうほうをしらべる",
+      "explanation": "「求」の音読みは「キュウ」。例文「求人情報を調べる。」の「求人」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "もと",
+      "sentence": "答えを求める。",
+      "sentenceHtml": "答えを<mark class=\\\"target-kanji\\\">求める</mark>。",
+      "targetWord": "求める",
+      "kana": "こたえをもとめる。",
+      "imageUrl": "https://tetugakunomori.com/wp-content/uploads/2025/04/image_fx-16-1024x559.png",
+      "sourceUrl": "https://tetugakunomori.com/philosophy-purpose/",
+      "typingKana": "こたえをもとめる",
+      "explanation": "「求」の訓読みは「もと」。例文「答えを求める。」の「求める」で使われます。"
+    }
+  },
+  {
+    "id": "k4_041",
+    "index": 41,
+    "kanji": "泣",
+    "on": {
+      "type": "on",
+      "yomi": "キュウ",
+      "sentence": "号泣するほど悲しかった。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">号泣</mark>するほど悲しかった。",
+      "targetWord": "号泣",
+      "kana": "ごうきゅうするほどかなしかった。",
+      "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/a/amitoraz11/20221025/20221025195428.jpg",
+      "sourceUrl": "https://amitoraz11.hatenablog.com/",
+      "typingKana": "ごうきゅうするほどかなしかった",
+      "explanation": "「泣」の音読みは「キュウ」。例文「号泣するほど悲しかった。」の「号泣」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "な",
+      "sentence": "悲しくて泣く。",
+      "sentenceHtml": "悲しくて<mark class=\\\"target-kanji\\\">泣く</mark>。",
+      "targetWord": "泣く",
+      "kana": "かなしくてなく。",
+      "imageUrl": "https://lastfm.freetls.fastly.net/i/u/ar0/cb3d411ce34a498ebc89e1aec703e6ee.jpg",
+      "sourceUrl": "https://www.last.fm/sv/music/flumpool/_/Quville+(LIVE+at+C.C.Lemon+Hall)",
+      "typingKana": "かなしくてなく",
+      "explanation": "「泣」の訓読みは「な」。例文「悲しくて泣く。」の「泣く」で使われます。"
+    }
+  },
+  {
+    "id": "k4_042",
+    "index": 42,
+    "kanji": "給",
+    "on": {
+      "type": "on",
+      "yomi": "キュウ",
+      "sentence": "給食の時間が楽しみだ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">給食</mark>の時間が楽しみだ。",
+      "targetWord": "給食",
+      "kana": "きゅうしょくのじかんがたのしみだ。",
+      "imageUrl": "https://tahara-e.city-iwata.ed.jp/file/7572",
+      "sourceUrl": "https://tahara-e.city-iwata.ed.jp/plugin/calendars/index/6/8?frame_26_page=209",
+      "typingKana": "きゅうしょくのじかんがたのしみだ",
+      "explanation": "「給」の音読みは「キュウ」。例文「給食の時間が楽しみだ。」の「給食」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_043",
+    "index": 43,
+    "kanji": "挙",
+    "on": {
+      "type": "on",
+      "yomi": "キョ",
+      "sentence": "挙手して質問する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">挙手</mark>して質問する。",
+      "targetWord": "挙手",
+      "kana": "きょしゅしてしつもんする。",
+      "imageUrl": "https://ferret-one.akamaized.net/images/65488d2e07d47d012a9095ff/original.jpeg?utime=1699253550",
+      "sourceUrl": "https://service.alue.co.jp/blog/what-is-training-for-prospective-employees",
+      "typingKana": "きょしゅしてしつもんする",
+      "explanation": "「挙」の音読みは「キョ」。例文「挙手して質問する。」の「挙手」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "あ",
+      "sentence": "手を挙げる。",
+      "sentenceHtml": "手を<mark class=\\\"target-kanji\\\">挙げる</mark>。",
+      "targetWord": "挙げる",
+      "kana": "てをあげる。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/65095513/rectangle_large_type_2_4735cfff636b3421264bd70fb95755b3.jpg?width=1200",
+      "sourceUrl": "https://note.com/1985kita49/n/ne899effccf0c",
+      "typingKana": "てをあげる",
+      "explanation": "「挙」の訓読みは「あ」。例文「手を挙げる。」の「挙げる」で使われます。"
+    }
+  },
+  {
+    "id": "k4_044",
+    "index": 44,
+    "kanji": "漁",
+    "on": {
+      "type": "on",
+      "yomi": "ギョ",
+      "sentence": "漁業について勉強する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">漁業</mark>について勉強する。",
+      "targetWord": "漁業",
+      "kana": "ぎょぎょうについてべんきょうする。",
+      "imageUrl": "https://furusato.wowma.jp/upload/save_image/142176_image_2_l.jpg",
+      "sourceUrl": "https://furusato.wowma.jp/products/detail.php?product_id=142176",
+      "typingKana": "ぎょぎょうについてべんきょうする",
+      "explanation": "「漁」の音読みは「ギョ」。例文「漁業について勉強する。」の「漁業」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "すなど",
+      "sentence": "海で魚を漁る。",
+      "sentenceHtml": "海で魚を<mark class=\\\"target-kanji\\\">漁る</mark>。",
+      "targetWord": "漁る",
+      "kana": "うみでさかなをすなどる。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20250620/16/dmh17c/0e/20/j/o0647033715620146626.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/dmh17c/entry-12911678743.html",
+      "typingKana": "うみでさかなをすなどる",
+      "explanation": "「漁」の訓読みは「すなど」。例文「海で魚を漁る。」の「漁る」で使われます。"
+    }
+  },
+  {
+    "id": "k4_045",
+    "index": 45,
+    "kanji": "共",
+    "on": {
+      "type": "on",
+      "yomi": "キョウ",
+      "sentence": "共同で作業する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">共同</mark>で作業する。",
+      "targetWord": "共同",
+      "kana": "きょうどうでさぎょうする。",
+      "imageUrl": "http://www.pr-today.net/a00552/wp-content/uploads/sites/378/2025/01/mceclip5-2.jpg",
+      "sourceUrl": "https://www.pr-today.net/a00552/opr/815/",
+      "typingKana": "きょうどうでさぎょうする",
+      "explanation": "「共」の音読みは「キョウ」。例文「共同で作業する。」の「共同」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "とも",
+      "sentence": "友達と共に帰る。",
+      "sentenceHtml": "友達と<mark class=\\\"target-kanji\\\">共に</mark>帰る。",
+      "targetWord": "共に",
+      "kana": "ともだちとともにかえる。",
+      "imageUrl": "https://www.sewayou.com/assets/content/blog/img/ja/24-1.webp",
+      "sourceUrl": "https://www.sewayou.com/ja/blog/foreign-friends-leaving",
+      "typingKana": "ともだちとともにかえる",
+      "explanation": "「共」の訓読みは「とも」。例文「友達と共に帰る。」の「共に」で使われます。"
+    }
+  },
+  {
+    "id": "k4_046",
+    "index": 46,
+    "kanji": "協",
+    "on": {
+      "type": "on",
+      "yomi": "キョウ",
+      "sentence": "協力して掃除する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">協力</mark>して掃除する。",
+      "targetWord": "協力",
+      "kana": "きょうりょくしてそうじする。",
+      "imageUrl": "https://image.stanby.com/t_default/v1/ss.job-gear.jp/jobgear/picture%3Fc=c4384ecb9eac2569027a12c30cb557e0&p=20220627918202.jpg",
+      "sourceUrl": "https://jp.stanby.com/jobs/6519dfe9c97a56342c4e899eb83f9f9d56a5d075665b54e2f53c4edae30d0917?preview&tid=ee09f4d3-4677-4af5-816a-b7b7a90d6826",
+      "typingKana": "きょうりょくしてそうじする",
+      "explanation": "「協」の音読みは「キョウ」。例文「協力して掃除する。」の「協力」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_047",
+    "index": 47,
+    "kanji": "鏡",
+    "on": {
+      "type": "on",
+      "yomi": "キョウ",
+      "sentence": "鏡台の前で髪をとかす。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">鏡台</mark>の前で髪をとかす。",
+      "targetWord": "鏡台",
+      "kana": "きょうだいのまえでかみをとかす。",
+      "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/s/saitosaitokun/20260101/20260101024729.jpg",
+      "sourceUrl": "https://iroiro-household-appliance.hatenablog.com/entry/SALONIA-hair-dryer-reviews-bad",
+      "typingKana": "きょうだいのまえでかみをとかす",
+      "explanation": "「鏡」の音読みは「キョウ」。例文「鏡台の前で髪をとかす。」の「鏡台」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "かがみ",
+      "sentence": "鏡で顔を見る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">鏡</mark>で顔を見る。",
+      "targetWord": "鏡",
+      "kana": "かがみでかおをみる。",
+      "imageUrl": "https://yameru-chikara.com/wp-content/uploads/2026/07/pexels-polina-tankilevitch-5468607-683x1024.jpg",
+      "sourceUrl": "https://www.yameru-chikara.com/",
+      "typingKana": "かがみでかおをみる",
+      "explanation": "「鏡」の訓読みは「かがみ」。例文「鏡で顔を見る。」の「鏡」で使われます。"
+    }
+  },
+  {
+    "id": "k4_048",
+    "index": 48,
+    "kanji": "競",
+    "on": {
+      "type": "on",
+      "yomi": "キョウ",
+      "sentence": "競技大会に出場する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">競技</mark>大会に出場する。",
+      "targetWord": "競技",
+      "kana": "きょうぎたいかいにしゅつじょうする。",
+      "imageUrl": "https://cms.edu.city.kyoto.jp/200400/blog_img/329734666/s?tm=20260109191435",
+      "sourceUrl": "https://cms.edu.city.kyoto.jp/200400/weblog?year=2018&month=4",
+      "typingKana": "きょうぎたいかいにしゅつじょうする",
+      "explanation": "「競」の音読みは「キョウ」。例文「競技大会に出場する。」の「競技」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "きそ",
+      "sentence": "兄弟で速さを競う。",
+      "sentenceHtml": "兄弟で速さを<mark class=\\\"target-kanji\\\">競う</mark>。",
+      "targetWord": "競う",
+      "kana": "きょうだいではやさをきそう。",
+      "imageUrl": "https://www.shogakkan.jp/wp-content/uploads/2020/09/DSC_0105-1024x684.jpg",
+      "sourceUrl": "https://www.shogakkan.jp/69500/",
+      "typingKana": "きょうだいではやさをきそう",
+      "explanation": "「競」の訓読みは「きそ」。例文「兄弟で速さを競う。」の「競う」で使われます。"
+    }
+  },
+  {
+    "id": "k4_049",
+    "index": 49,
+    "kanji": "極",
+    "on": {
+      "type": "on",
+      "yomi": "キョク",
+      "sentence": "極端なことを言わない。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">極端</mark>なことを言わない。",
+      "targetWord": "極端",
+      "kana": "きょくたんなことをいわない。",
+      "imageUrl": "https://resize.blogsys.jp/a4197dfde57c3049f8cdf9268a74fe58e373053a/crop8/240x420/http://livedoor.blogimg.jp/haid2223/imgs/d/4/d4b7d7ef-s.png",
+      "sourceUrl": "https://haid2223.livedoor.blog/tag/Twitter",
+      "typingKana": "きょくたんなことをいわない",
+      "explanation": "「極」の音読みは「キョク」。例文「極端なことを言わない。」の「極端」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "きわ",
+      "sentence": "山の頂上を極める。",
+      "sentenceHtml": "山の頂上を<mark class=\\\"target-kanji\\\">極める</mark>。",
+      "targetWord": "極める",
+      "kana": "やまのちょうじょうをきわめる。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20171010/07/skb1202/bb/1e/j/o1126049414045561110.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/skb1202/entry-12318145457.html",
+      "typingKana": "やまのちょうじょうをきわめる",
+      "explanation": "「極」の訓読みは「きわ」。例文「山の頂上を極める。」の「極める」で使われます。"
+    }
+  },
+  {
+    "id": "k4_050",
+    "index": 50,
+    "kanji": "熊",
+    "on": {
+      "type": "on",
+      "yomi": "ユウ",
+      "sentence": "熊本県に行く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">熊</mark>本県に行く。",
+      "targetWord": "熊",
+      "kana": "くまもとけんにいく。",
+      "imageUrl": "https://pds.exblog.jp/pds/1/201307/21/45/c0306845_1731416.jpg",
+      "sourceUrl": "https://bxhhg935.exblog.jp/20530378/",
+      "typingKana": "くまもとけんにいく",
+      "explanation": "「熊」の音読みは「ユウ」。例文「熊本県に行く。」の「熊」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "くま",
+      "sentence": "動物園で熊を見る。",
+      "sentenceHtml": "動物園で<mark class=\\\"target-kanji\\\">熊</mark>を見る。",
+      "targetWord": "熊",
+      "kana": "どうぶつえんでくまをみる。",
+      "imageUrl": "https://livedoor.blogimg.jp/news4wide/imgs/a/d/ad06f3f8-s.jpg",
+      "sourceUrl": "https://2ch-mato.site/p?id=143942",
+      "typingKana": "どうぶつえんでくまをみる",
+      "explanation": "「熊」の訓読みは「くま」。例文「動物園で熊を見る。」の「熊」で使われます。"
+    }
+  },
+  {
+    "id": "k4_051",
+    "index": 51,
+    "kanji": "訓",
+    "on": {
+      "type": "on",
+      "yomi": "クン",
+      "sentence": "訓練を受ける。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">訓練</mark>を受ける。",
+      "targetWord": "訓練",
+      "kana": "くんれんをうける。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20180501/19/shunjinatc/05/94/j/o0780051714181791049.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/shunjinatc/entry-12368957297.html",
+      "typingKana": "くんれんをうける",
+      "explanation": "「訓」の音読みは「クン」。例文「訓練を受ける。」の「訓練」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "おし",
+      "sentence": "先生が漢字を訓える。",
+      "sentenceHtml": "先生が漢字を<mark class=\\\"target-kanji\\\">訓える</mark>。",
+      "targetWord": "訓える",
+      "kana": "せんせいがかんじをおしえる。",
+      "imageUrl": "https://kyujinbox.k-img.com/images/crawl/38712/lab1e2214cd721f94b8b90e0f4a3597b9/11/cff3802f2687c05336453e8effce6790.jpeg",
+      "sourceUrl": "https://xn--pckua2a7gp15o89zb.com/jb/lab1e2214cd721f94b8b90e0f4a3597b9?utm_source=%e6%b1%82%e4%ba%ba%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9%2ecom&utm_medium=cpc",
+      "typingKana": "せんせいがかんじをおしえる",
+      "explanation": "「訓」の訓読みは「おし」。例文「先生が漢字を訓える。」の「訓える」で使われます。"
+    }
+  },
+  {
+    "id": "k4_052",
+    "index": 52,
+    "kanji": "軍",
+    "on": {
+      "type": "on",
+      "yomi": "グン",
+      "sentence": "軍隊について学ぶ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">軍隊</mark>について学ぶ。",
+      "targetWord": "軍隊",
+      "kana": "ぐんたいについてまなぶ。",
+      "imageUrl": "https://resize.blogsys.jp/ffd329a9ce9f872579b706acbfc3789d83bb29d8/crop8/466x360/https://livedoor.blogimg.jp/tensaik/imgs/c/d/cdb452fc-s.png",
+      "sourceUrl": "https://honmonosokuhou.blog.jp/archives/38958943.html",
+      "typingKana": "ぐんたいについてまなぶ",
+      "explanation": "「軍」の音読みは「グン」。例文「軍隊について学ぶ。」の「軍隊」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_053",
+    "index": 53,
+    "kanji": "郡",
+    "on": {
+      "type": "on",
+      "yomi": "グン",
+      "sentence": "郡部に住む人。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">郡部</mark>に住む人。",
+      "targetWord": "郡部",
+      "kana": "ぐんぶにすむひと。",
+      "imageUrl": "https://i.gzn.jp/img/2024/10/13/urban-rural-dying-younger/00_m.jpg",
+      "sourceUrl": "https://gigazine.net/news/20241013-urban-rural-dying-younger/",
+      "typingKana": "ぐんぶにすむひと",
+      "explanation": "「郡」の音読みは「グン」。例文「郡部に住む人。」の「郡部」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_054",
+    "index": 54,
+    "kanji": "群",
+    "on": {
+      "type": "on",
+      "yomi": "グン",
+      "sentence": "群集の中で友達を探す。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">群集</mark>の中で友達を探す。",
+      "targetWord": "群集",
+      "kana": "ぐんしゅうのなかでともだちをさがす。",
+      "imageUrl": "https://socialgraphs.in/_next/image?url=https%3A%2F%2Fd1vssdzslcm6vs.cloudfront.net%2Fprod%2F0x6e212%2Fimages%2F2342659a-ff70-4cf7-9d1f-580c6f9c9469.png%3FExpires%3D4924172629%26Signature%3DAobRRSCn3CL7Be3t~HO~Jmt4nc4SosvLRsUwU7h3O-DV03Zjet49srNFCp3MelSe07Z6mn3hQWFJNxlNW~LvBoT0ZO9vJP3lQpCpKFPfR8jHIctlCOzgomCUbV3cOqGYQihLBVYlBAJvecWbgAJy2Y2OrMdBYd4vFL5T1PuVufaiq0S5SHMcypgdnUDQ6iCIuLihh0zFJ8iWAGTq8Xe8N0MJa~E5BTIduGhuTva56IuiJhzF2kbLx7BVxFsaHG-am-TTbaOsFJYyqoqtTkT5g87sPKJu07d1VQCwlLDpFaGRMCCA4jU9C-P7NT8CWpgUBs9FLKM1CX1-~Zxuzydf-w__%26Key-Pair-Id%3DK3A85YITMAPPHY&w=3840&q=75",
+      "sourceUrl": "https://socialgraphs.in/tags/men",
+      "typingKana": "ぐんしゅうのなかでともだちをさがす",
+      "explanation": "「群」の音読みは「グン」。例文「群集の中で友達を探す。」の「群集」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "む",
+      "sentence": "鳥が群れる。",
+      "sentenceHtml": "鳥が<mark class=\\\"target-kanji\\\">群れる</mark>。",
+      "targetWord": "群れる",
+      "kana": "とりがむれる。",
+      "imageUrl": "https://www.birdfact.com/_next/image?url=https%3A%2F%2Fimages.birdfact.com%2Fpigeons-gathering-to-feed.jpg&w=3840&q=75",
+      "sourceUrl": "https://www.birdfact.com/bird-behavior/social-structures/flocking-behavior",
+      "typingKana": "とりがむれる",
+      "explanation": "「群」の訓読みは「む」。例文「鳥が群れる。」の「群れる」で使われます。"
+    }
+  },
+  {
+    "id": "k4_055",
+    "index": 55,
+    "kanji": "径",
+    "on": {
+      "type": "on",
+      "yomi": "ケイ",
+      "sentence": "直径を測る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">直径</mark>を測る。",
+      "targetWord": "直径",
+      "kana": "ちょっけいをはかる。",
+      "imageUrl": "https://shopping.c.yimg.jp/lib/tanpopo/imgrc0095859383.jpg",
+      "sourceUrl": "http://uneuneune.com/sjgft/s1748965.html",
+      "typingKana": "ちょっけいをはかる",
+      "explanation": "「径」の音読みは「ケイ」。例文「直径を測る。」の「直径」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_056",
+    "index": 56,
+    "kanji": "景",
+    "on": {
+      "type": "on",
+      "yomi": "ケイ",
+      "sentence": "景色のきれいな場所に行く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">景色</mark>のきれいな場所に行く。",
+      "targetWord": "景色",
+      "kana": "けしきのきれいなばしょにいく。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20241016/14/dolce19002000/2a/dd/j/o1080144015498595354.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/dolce19002000/entry-12871479969.html",
+      "typingKana": "けしきのきれいなばしょにいく",
+      "explanation": "「景」の音読みは「ケイ」。例文「景色のきれいな場所に行く。」の「景色」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_057",
+    "index": 57,
+    "kanji": "芸",
+    "on": {
+      "type": "on",
+      "yomi": "ゲイ",
+      "sentence": "芸術作品を鑑賞する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">芸術</mark>作品を鑑賞する。",
+      "targetWord": "芸術",
+      "kana": "げいじゅつさくひんをかんしょうする。",
+      "imageUrl": "https://www.haconana.com/uploads/thumbs/i1d32a594-3fc6d9e3b688.webp",
+      "sourceUrl": "https://www.haconana.com/?seed=0.59478897163402&page=132",
+      "typingKana": "げいじゅつさくひんをかんしょうする",
+      "explanation": "「芸」の音読みは「ゲイ」。例文「芸術作品を鑑賞する。」の「芸術」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "わざ",
+      "sentence": "おじいちゃんは料理の芸がある。",
+      "sentenceHtml": "おじいちゃんは料理の<mark class=\\\"target-kanji\\\">芸</mark>がある。",
+      "targetWord": "芸",
+      "kana": "おじいちゃんはりょうりのわざがある。",
+      "imageUrl": "https://toreppy.com/wp-content/uploads/2026/01/love-ojisan-profile-image-e1769865173485.jpg",
+      "sourceUrl": "https://toreppy.com/2026/01/",
+      "typingKana": "おじいちゃんはりょうりのわざがある",
+      "explanation": "「芸」の訓読みは「わざ」。例文「おじいちゃんは料理の芸がある。」の「芸」で使われます。"
+    }
+  },
+  {
+    "id": "k4_058",
+    "index": 58,
+    "kanji": "欠",
+    "on": {
+      "type": "on",
+      "yomi": "ケツ",
+      "sentence": "欠席の連絡をする。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">欠席</mark>の連絡をする。",
+      "targetWord": "欠席",
+      "kana": "けっせきのれんらくをする。",
+      "imageUrl": "https://sigfy.jp/img/feature/img_feature_06.png",
+      "sourceUrl": "https://sigfy.jp/features",
+      "typingKana": "けっせきのれんらくをする",
+      "explanation": "「欠」の音読みは「ケツ」。例文「欠席の連絡をする。」の「欠席」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "か",
+      "sentence": "コップのふちが欠ける。",
+      "sentenceHtml": "コップのふちが<mark class=\\\"target-kanji\\\">欠ける</mark>。",
+      "targetWord": "欠ける",
+      "kana": "こっぷのふちがかける。",
+      "imageUrl": "https://chibiike.com/new/wp-content/uploads/2020/05/E6E8AC39-8193-4DBA-AA62-AB71BA744C7C.jpeg",
+      "sourceUrl": "https://chibiike.com/paper-cup-rocket/",
+      "typingKana": "こっぷのふちがかける",
+      "explanation": "「欠」の訓読みは「か」。例文「コップのふちが欠ける。」の「欠ける」で使われます。"
+    }
+  },
+  {
+    "id": "k4_059",
+    "index": 59,
+    "kanji": "結",
+    "on": {
+      "type": "on",
+      "yomi": "ケツ",
+      "sentence": "結果を発表する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">結果</mark>を発表する。",
+      "targetWord": "結果",
+      "kana": "けっかをはっぴょうする。",
+      "imageUrl": "https://hokendayori-since2002.com/wp-content/uploads/2025/10/a33cb176-ff8b-45df-b299-e657b728a7ac.png",
+      "sourceUrl": "https://hokendayori-since2002.com/%e8%8b%b1%e6%a4%9c%e6%ba%96%ef%bc%91%e7%b4%9a%e3%81%ae%e7%b5%90%e6%9e%9c%ef%bc%88%e8%87%aa%e5%b7%b1%e6%8e%a1%e7%82%b9%ef%bc%89/107/",
+      "typingKana": "けっかをはっぴょうする",
+      "explanation": "「結」の音読みは「ケツ」。例文「結果を発表する。」の「結果」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "むす",
+      "sentence": "リボンを結ぶ。",
+      "sentenceHtml": "リボンを<mark class=\\\"target-kanji\\\">結ぶ</mark>。",
+      "targetWord": "結ぶ",
+      "kana": "りぼんをむすぶ。",
+      "imageUrl": "https://archdays.com/wp-content/uploads/2015/11/Ribbon02.jpg",
+      "sourceUrl": "https://archdays.com/column/2015/11/20/5505",
+      "typingKana": "りぼんをむすぶ",
+      "explanation": "「結」の訓読みは「むす」。例文「リボンを結ぶ。」の「結ぶ」で使われます。"
+    }
+  },
+  {
+    "id": "k4_060",
+    "index": 60,
+    "kanji": "建",
+    "on": {
+      "type": "on",
+      "yomi": "ケン",
+      "sentence": "建築について調べる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">建築</mark>について調べる。",
+      "targetWord": "建築",
+      "kana": "けんちくについてしらべる。",
+      "imageUrl": "https://image.secure-cms.net/gyosyudata/rm_type02_archit/reasons02.png",
+      "sourceUrl": "https://hikarikoumuten.jp/reasons/",
+      "typingKana": "けんちくについてしらべる",
+      "explanation": "「建」の音読みは「ケン」。例文「建築について調べる。」の「建築」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "た",
+      "sentence": "家を建てる。",
+      "sentenceHtml": "家を<mark class=\\\"target-kanji\\\">建てる</mark>。",
+      "targetWord": "建てる",
+      "kana": "いえをたてる。",
+      "imageUrl": "https://www.rals.net/journal/app/uploads/2026/04/23871sub01-1536x1024.jpg.webp",
+      "sourceUrl": "https://www.rals.net/journal/residence/interest-rates-on-mortgages-are-rising/",
+      "typingKana": "いえをたてる",
+      "explanation": "「建」の訓読みは「た」。例文「家を建てる。」の「建てる」で使われます。"
+    }
+  },
+  {
+    "id": "k4_061",
+    "index": 61,
+    "kanji": "健",
+    "on": {
+      "type": "on",
+      "yomi": "ケン",
+      "sentence": "健康のために運動する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">健康</mark>のために運動する。",
+      "targetWord": "健康",
+      "kana": "けんこうのためにうんどうする。",
+      "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/g4n0323/20180801/20180801204716.jpg",
+      "sourceUrl": "https://www.kkenichi.com/entry/2019/01/21/212457",
+      "typingKana": "けんこうのためにうんどうする",
+      "explanation": "「健」の音読みは「ケン」。例文「健康のために運動する。」の「健康」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "すこ",
+      "sentence": "健やかに成長する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">健やか</mark>に成長する。",
+      "targetWord": "健やか",
+      "kana": "すこやかにせいちょうする。",
+      "imageUrl": "https://nakasako-kodomo.com/img/index/feature_pic_growth.webp",
+      "sourceUrl": "https://www.nakasako-kodomo.com/",
+      "typingKana": "すこやかにせいちょうする",
+      "explanation": "「健」の訓読みは「すこ」。例文「健やかに成長する。」の「健やか」で使われます。"
+    }
+  },
+  {
+    "id": "k4_062",
+    "index": 62,
+    "kanji": "験",
+    "on": {
+      "type": "on",
+      "yomi": "ケン",
+      "sentence": "試験に向けて勉強する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">試験</mark>に向けて勉強する。",
+      "targetWord": "試験",
+      "kana": "しけんにむけてべんきょうする。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20240121/12/myself-katakai/10/0d/j/o1440144015391944007.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/myself-katakai/entry-12837430680.html",
+      "typingKana": "しけんにむけてべんきょうする",
+      "explanation": "「験」の音読みは「ケン」。例文「試験に向けて勉強する。」の「試験」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_063",
+    "index": 63,
+    "kanji": "固",
+    "on": {
+      "type": "on",
+      "yomi": "コ",
+      "sentence": "固定して動かないようにする。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">固定</mark>して動かないようにする。",
+      "targetWord": "固定",
+      "kana": "こていしてうごかないようにする。",
+      "imageUrl": "https://livedoor.blogimg.jp/bxbureiku92/imgs/4/e/4ebc4982-s.jpg",
+      "sourceUrl": "http://bxbureiku92.livedoor.blog/tag/%E5%87%B9%E3%81%BF",
+      "typingKana": "こていしてうごかないようにする",
+      "explanation": "「固」の音読みは「コ」。例文「固定して動かないようにする。」の「固定」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "かた",
+      "sentence": "土が固まる。",
+      "sentenceHtml": "土が<mark class=\\\"target-kanji\\\">固まる</mark>。",
+      "targetWord": "固まる",
+      "kana": "つちがかたまる。",
+      "imageUrl": "https://zeroichi.media/uploads/2026/04/da4699378564615b3e59f876772db2ff-1600x1200.jpeg",
+      "sourceUrl": "https://zeroichi.media/tech/38954",
+      "typingKana": "つちがかたまる",
+      "explanation": "「固」の訓読みは「かた」。例文「土が固まる。」の「固まる」で使われます。"
+    }
+  },
+  {
+    "id": "k4_064",
+    "index": 64,
+    "kanji": "功",
+    "on": {
+      "type": "on",
+      "yomi": "コウ",
+      "sentence": "成功を目指して努力する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">成功</mark>を目指して努力する。",
+      "targetWord": "成功",
+      "kana": "せいこうをめざしてどりょくする。",
+      "imageUrl": "https://cdn.peraichi.com/userData/5e832d95-8970-48e0-bf78-26140a0000c5/img/5e83313464ed8/original.jpeg",
+      "sourceUrl": "https://peraichi.com/landing_pages/view/tokyoemotion",
+      "typingKana": "せいこうをめざしてどりょくする",
+      "explanation": "「功」の音読みは「コウ」。例文「成功を目指して努力する。」の「成功」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_065",
+    "index": 65,
+    "kanji": "好",
+    "on": {
+      "type": "on",
+      "yomi": "コウ",
+      "sentence": "好意を持って接する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">好意</mark>を持って接する。",
+      "targetWord": "好意",
+      "kana": "こういをもってせっする。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20250915/15/rokoroko864/02/1c/j/o1536102415673997849.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/rokoroko864/",
+      "typingKana": "こういをもってせっする",
+      "explanation": "「好」の音読みは「コウ」。例文「好意を持って接する。」の「好意」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "この",
+      "sentence": "ぼくは本を読むのが好む。",
+      "sentenceHtml": "ぼくは本を読むのが<mark class=\\\"target-kanji\\\">好む</mark>。",
+      "targetWord": "好む",
+      "kana": "ぼくはほんをよむのがこのむ。",
+      "imageUrl": "https://cdn.ichiba.net/https%3a%2f%2fstatic.mercdn.net%2fitem%2fdetail%2forig%2fphotos%2fm16763283952_1.jpg%3f1788824415",
+      "sourceUrl": "https://janbox.com/vn/mercari-partner/item/m16763283952",
+      "typingKana": "ぼくはほんをよむのがこのむ",
+      "explanation": "「好」の訓読みは「この」。例文「ぼくは本を読むのが好む。」の「好む」で使われます。"
+    }
+  },
+  {
+    "id": "k4_066",
+    "index": 66,
+    "kanji": "香",
+    "on": {
+      "type": "on",
+      "yomi": "コウ",
+      "sentence": "香水をつける。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">香水</mark>をつける。",
+      "targetWord": "香水",
+      "kana": "こうすいをつける。",
+      "imageUrl": "https://assets.juksy.com/files/articles/85435/5c088f06ebca1.jpg",
+      "sourceUrl": "https://www.juksy.com/article/85435",
+      "typingKana": "こうすいをつける",
+      "explanation": "「香」の音読みは「コウ」。例文「香水をつける。」の「香水」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "かお",
+      "sentence": "花の香りがする。",
+      "sentenceHtml": "花の<mark class=\\\"target-kanji\\\">香り</mark>がする。",
+      "targetWord": "香り",
+      "kana": "はなのかおりがする。",
+      "imageUrl": "https://pds.exblog.jp/pds/1/200606/11/12/e0086212_14521822.jpg",
+      "sourceUrl": "https://yukarin051.exblog.jp/page/412/",
+      "typingKana": "はなのかおりがする",
+      "explanation": "「香」の訓読みは「かお」。例文「花の香りがする。」の「香り」で使われます。"
+    }
+  },
+  {
+    "id": "k4_067",
+    "index": 67,
+    "kanji": "候",
+    "on": {
+      "type": "on",
+      "yomi": "コウ",
+      "sentence": "候補を三つ選ぶ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">候補</mark>を三つ選ぶ。",
+      "targetWord": "候補",
+      "kana": "こうほをみっつえらぶ。",
+      "imageUrl": "https://k-toso.net/wp-content/uploads/2025/07/4660435_s.jpg",
+      "sourceUrl": "https://k-toso.net/blog1/20036/",
+      "typingKana": "こうほをみっつえらぶ",
+      "explanation": "「候」の音読みは「コウ」。例文「候補を三つ選ぶ。」の「候補」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_068",
+    "index": 68,
+    "kanji": "康",
+    "on": {
+      "type": "on",
+      "yomi": "コウ",
+      "sentence": "健康に気をつける。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">健康</mark>に気をつける。",
+      "targetWord": "健康",
+      "kana": "けんこうにきをつける。",
+      "imageUrl": "https://i.postimg.cc/Hx691R64/health-4.jpg",
+      "sourceUrl": "https://kindergarten-misslewia.weebly.com/blog/7-tips-to-maintain-good-health",
+      "typingKana": "けんこうにきをつける",
+      "explanation": "「康」の音読みは「コウ」。例文「健康に気をつける。」の「健康」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_069",
+    "index": 69,
+    "kanji": "佐",
+    "on": {
+      "type": "on",
+      "yomi": "サ",
+      "sentence": "佐官という階級がある。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">佐官</mark>という階級がある。",
+      "targetWord": "佐官",
+      "kana": "さかんというかいきゅうがある。",
+      "imageUrl": "https://pbs.twimg.com/media/GsNNb6jbAAAtZ-S?format=webp&name=medium",
+      "sourceUrl": "https://www.maryleszczynski.com/?shop/items/B53327272406/",
+      "typingKana": "さかんというかいきゅうがある",
+      "explanation": "「佐」の音読みは「サ」。例文「佐官という階級がある。」の「佐官」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_070",
+    "index": 70,
+    "kanji": "差",
+    "on": {
+      "type": "on",
+      "yomi": "サ",
+      "sentence": "差を比べる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">差</mark>を比べる。",
+      "targetWord": "差",
+      "kana": "さをくらべる。",
+      "imageUrl": "http://yambaru.okinawatour.world-tours.jp/wp-content/uploads/2026/03/198827ec486c25539037bbe92e2912b8.jpg",
+      "sourceUrl": "https://yambaru.okinawatour.world-tours.jp/en/column/activities-yanbaru",
+      "typingKana": "さをくらべる",
+      "explanation": "「差」の音読みは「サ」。例文「差を比べる。」の「差」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "さ",
+      "sentence": "手を差す。",
+      "sentenceHtml": "手を<mark class=\\\"target-kanji\\\">差す</mark>。",
+      "targetWord": "差す",
+      "kana": "てをさす。",
+      "imageUrl": "https://madori.fr/_next/image?url=%2F_images%2Fblog%2Fdecoupler-son-site-internet.webp&w=1920&q=75",
+      "sourceUrl": "https://madori.fr/blog",
+      "typingKana": "てをさす",
+      "explanation": "「差」の訓読みは「さ」。例文「手を差す。」の「差す」で使われます。"
+    }
+  },
+  {
+    "id": "k4_071",
+    "index": 71,
+    "kanji": "菜",
+    "on": {
+      "type": "on",
+      "yomi": "サイ",
+      "sentence": "野菜をたくさん食べる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">野菜</mark>をたくさん食べる。",
+      "targetWord": "野菜",
+      "kana": "やさいをたくさんたべる。",
+      "imageUrl": "https://more.asken.jp/wp-content/uploads/2022/05/cf951d614c59639882f92d689378cdbe.webp",
+      "sourceUrl": "https://more.asken.jp/article/15730/",
+      "typingKana": "やさいをたくさんたべる",
+      "explanation": "「菜」の音読みは「サイ」。例文「野菜をたくさん食べる。」の「野菜」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "な",
+      "sentence": "菜の花が咲いた。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">菜</mark>の花が咲いた。",
+      "targetWord": "菜",
+      "kana": "なのはながさいた。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20260407/21/economirai88/2e/dd/j/o0960063815769045224.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/economirai88/entry-12962296789.html",
+      "typingKana": "なのはながさいた",
+      "explanation": "「菜」の訓読みは「な」。例文「菜の花が咲いた。」の「菜」で使われます。"
+    }
+  },
+  {
+    "id": "k4_072",
+    "index": 72,
+    "kanji": "最",
+    "on": {
+      "type": "on",
+      "yomi": "サイ",
+      "sentence": "最初に宿題をする。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">最初</mark>に宿題をする。",
+      "targetWord": "最初",
+      "kana": "さいしょにしゅくだいをする。",
+      "imageUrl": "https://saika.club/wp-content/uploads/2024/03/img06.png",
+      "sourceUrl": "https://saika.club/",
+      "typingKana": "さいしょにしゅくだいをする",
+      "explanation": "「最」の音読みは「サイ」。例文「最初に宿題をする。」の「最初」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "もっと",
+      "sentence": "これが最も大切だ。",
+      "sentenceHtml": "これが<mark class=\\\"target-kanji\\\">最も</mark>大切だ。",
+      "targetWord": "最も",
+      "kana": "これがもっともたいせつだ。",
+      "imageUrl": "https://imgbp.hotp.jp/CSP/IMG_BLOG_ORG/85/01/I030158501/I030158501.jpg?impolicy=HPB_policy_default&w=349&h=349",
+      "sourceUrl": "https://beauty.hotpepper.jp/slnH000318022/blog/bidA022581049.html",
+      "typingKana": "これがもっともたいせつだ",
+      "explanation": "「最」の訓読みは「もっと」。例文「これが最も大切だ。」の「最も」で使われます。"
+    }
+  },
+  {
+    "id": "k4_073",
+    "index": 73,
+    "kanji": "埼",
+    "on": {
+      "type": "on",
+      "yomi": "サイ",
+      "sentence": "埼玉県に住む友達がいる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">埼玉</mark>県に住む友達がいる。",
+      "targetWord": "埼玉",
+      "kana": "さいたまけんにすむともだちがいる。",
+      "imageUrl": "https://cdn.jmty.jp/articles/images/60ed0ef6ccb88d5d1d9315d4/thumb_0.jpg",
+      "sourceUrl": "https://jmty.jp/saitama/com-fri/g-all/a-179-saitama-kw-Youtube",
+      "typingKana": "さいたまけんにすむともだちがいる",
+      "explanation": "「埼」の音読みは「サイ」。例文「埼玉県に住む友達がいる。」の「埼玉」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_074",
+    "index": 74,
+    "kanji": "材",
+    "on": {
+      "type": "on",
+      "yomi": "ザイ",
+      "sentence": "材料を買いに行く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">材料</mark>を買いに行く。",
+      "targetWord": "材料",
+      "kana": "ざいりょうをかいにいく。",
+      "imageUrl": "https://www.tsukurioki.jp/hs-fs/hubfs/cookingtrial/STEP1_shopping_1.jpg?width=900&length=900&name=STEP1_shopping_1.jpg",
+      "sourceUrl": "https://www.tsukurioki.jp/cookingtrial?hsLang=ja-jp",
+      "typingKana": "ざいりょうをかいにいく",
+      "explanation": "「材」の音読みは「ザイ」。例文「材料を買いに行く。」の「材料」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_075",
+    "index": 75,
+    "kanji": "崎",
+    "on": null,
+    "kun": {
+      "type": "kun",
+      "yomi": "さき",
+      "sentence": "海に突き出た崎を歩く。",
+      "sentenceHtml": "海に突き出た<mark class=\\\"target-kanji\\\">崎</mark>を歩く。",
+      "targetWord": "崎",
+      "kana": "うみにつきでたさきをあるく。",
+      "imageUrl": "https://blog.cnobi.jp/v1/blog/user/2959ca6a6aea121f99874ce4fb67713f/1435899394",
+      "sourceUrl": "http://tabikatsu.tosalog.com/Page/6/",
+      "typingKana": "うみにつきでたさきをあるく",
+      "explanation": "「崎」の訓読みは「さき」。例文「海に突き出た崎を歩く。」の「崎」で使われます。"
+    }
+  },
+  {
+    "id": "k4_076",
+    "index": 76,
+    "kanji": "昨",
+    "on": {
+      "type": "on",
+      "yomi": "サク",
+      "sentence": "昨日は雨だった。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">昨日</mark>は雨だった。",
+      "targetWord": "昨日",
+      "kana": "きのうはあめだった。",
+      "imageUrl": "https://livedoor.blogimg.jp/hiraokabyou-5023/imgs/b/4/b4e1eb16-s.jpg",
+      "sourceUrl": "https://dd-base.blog.jp/archives/16106227.html",
+      "typingKana": "きのうはあめだった",
+      "explanation": "「昨」の音読みは「サク」。例文「昨日は雨だった。」の「昨日」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_077",
+    "index": 77,
+    "kanji": "札",
+    "on": {
+      "type": "on",
+      "yomi": "サツ",
+      "sentence": "札幌に旅行する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">札幌</mark>に旅行する。",
+      "targetWord": "札幌",
+      "kana": "さっぽろにりょこうする。",
+      "imageUrl": "https://wawayaowan.com/wp-content/uploads/2024/04/batch_IMG_3057.jpg",
+      "sourceUrl": "https://wawayaowan.com/japan-hokkaido-jr-pass/",
+      "typingKana": "さっぽろにりょこうする",
+      "explanation": "「札」の音読みは「サツ」。例文「札幌に旅行する。」の「札幌」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "ふだ",
+      "sentence": "お金の札を数える。",
+      "sentenceHtml": "お金の<mark class=\\\"target-kanji\\\">札</mark>を数える。",
+      "targetWord": "札",
+      "kana": "おかねのふだをかぞえる。",
+      "imageUrl": "https://kakuyasu-simfan.com/wp/wp-content/uploads/2017/04/ccbc3affe9925c0c9a706649b6f89eb2-1024x682.jpg",
+      "sourceUrl": "https://kakuyasu-simfan.com/post-2111",
+      "typingKana": "おかねのふだをかぞえる",
+      "explanation": "「札」の訓読みは「ふだ」。例文「お金の札を数える。」の「札」で使われます。"
+    }
+  },
+  {
+    "id": "k4_078",
+    "index": 78,
+    "kanji": "刷",
+    "on": {
+      "type": "on",
+      "yomi": "サツ",
+      "sentence": "印刷した写真を飾る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">印刷</mark>した写真を飾る。",
+      "targetWord": "印刷",
+      "kana": "いんさつしたしゃしんをかざる。",
+      "imageUrl": "https://nigaoe.graphics.vc/magazine-blog/wp-content/uploads/2024/11/25571217_s.jpg",
+      "sourceUrl": "https://nigaoe.graphics.vc/magazine-blog/?p=27170",
+      "typingKana": "いんさつしたしゃしんをかざる",
+      "explanation": "「刷」の音読みは「サツ」。例文「印刷した写真を飾る。」の「印刷」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "す",
+      "sentence": "はけで色を刷る。",
+      "sentenceHtml": "はけで色を<mark class=\\\"target-kanji\\\">刷る</mark>。",
+      "targetWord": "刷る",
+      "kana": "はけでいろをする。",
+      "imageUrl": "https://nihongastyle.com/wp-content/uploads/2024/05/IMG_3203-1024x902.jpg",
+      "sourceUrl": "https://nihongastyle.com/nihonga-tube-paint",
+      "typingKana": "はけでいろをする",
+      "explanation": "「刷」の訓読みは「す」。例文「はけで色を刷る。」の「刷る」で使われます。"
+    }
+  },
+  {
+    "id": "k4_079",
+    "index": 79,
+    "kanji": "察",
+    "on": {
+      "type": "on",
+      "yomi": "サツ",
+      "sentence": "観察して記録する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">観察</mark>して記録する。",
+      "targetWord": "観察",
+      "kana": "かんさつしてきろくする。",
+      "imageUrl": "https://croissant-online.jp/wp-content/uploads/2026/04/cr1163p072_001_3-20260427151147.jpg",
+      "sourceUrl": "https://croissant-online.jp/life/271297/",
+      "typingKana": "かんさつしてきろくする",
+      "explanation": "「察」の音読みは「サツ」。例文「観察して記録する。」の「観察」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "さっ",
+      "sentence": "相手の気持ちを察する。",
+      "sentenceHtml": "相手の気持ちを<mark class=\\\"target-kanji\\\">察する</mark>。",
+      "targetWord": "察する",
+      "kana": "あいてのきもちをさっする。",
+      "imageUrl": "https://www.coommu.com/wp-content/uploads/2025/11/2025-11-15-empathy-overload-in-relationships.webp",
+      "sourceUrl": "https://www.coommu.com/tag/恋人/",
+      "typingKana": "あいてのきもちをさっする",
+      "explanation": "「察」の訓読みは「さっ」。例文「相手の気持ちを察する。」の「察する」で使われます。"
+    }
+  },
+  {
+    "id": "k4_080",
+    "index": 80,
+    "kanji": "参",
+    "on": {
+      "type": "on",
+      "yomi": "サン",
+      "sentence": "参加するイベントを決める。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">参加</mark>するイベントを決める。",
+      "targetWord": "参加",
+      "kana": "さんかするいべんとをきめる。",
+      "imageUrl": "https://social-lending.online/wp-content/uploads/2024/10/エクウィズ_攻略_16.jpg",
+      "sourceUrl": "https://ameblo.jp/nft-mania/entry-12896676625.html",
+      "typingKana": "さんかするいべんとをきめる",
+      "explanation": "「参」の音読みは「サン」。例文「参加するイベントを決める。」の「参加」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "まい",
+      "sentence": "お寺に参る。",
+      "sentenceHtml": "お寺に<mark class=\\\"target-kanji\\\">参る</mark>。",
+      "targetWord": "参る",
+      "kana": "おてらにまいる。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20250113/08/sooichirow/eb/61/j/o1000100015532570464.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/sooichirow/entry-12882248763.html",
+      "typingKana": "おてらにまいる",
+      "explanation": "「参」の訓読みは「まい」。例文「お寺に参る。」の「参る」で使われます。"
+    }
+  },
+  {
+    "id": "k4_081",
+    "index": 81,
+    "kanji": "産",
+    "on": {
+      "type": "on",
+      "yomi": "サン",
+      "sentence": "生産された野菜を買う。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">生産</mark>された野菜を買う。",
+      "targetWord": "生産",
+      "kana": "せいさんされたやさいをかう。",
+      "imageUrl": "https://boulangeriejamand.jp/images/convert/boulangeriejamandjp/20260728105440_5.jpg/image.webp",
+      "sourceUrl": "https://boulangeriejamand.jp/concept/",
+      "typingKana": "せいさんされたやさいをかう",
+      "explanation": "「産」の音読みは「サン」。例文「生産された野菜を買う。」の「生産」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "う",
+      "sentence": "母が赤ちゃんを産む。",
+      "sentenceHtml": "母が赤ちゃんを<mark class=\\\"target-kanji\\\">産む</mark>。",
+      "targetWord": "産む",
+      "kana": "ははがあかちゃんをうむ。",
+      "imageUrl": "https://www.e-ikuji.info/images1/m/mom_3.jpg",
+      "sourceUrl": "https://www.e-ikuji.info/info/sitemap_genre.html",
+      "typingKana": "ははがあかちゃんをうむ",
+      "explanation": "「産」の訓読みは「う」。例文「母が赤ちゃんを産む。」の「産む」で使われます。"
+    }
+  },
+  {
+    "id": "k4_082",
+    "index": 82,
+    "kanji": "散",
+    "on": {
+      "type": "on",
+      "yomi": "サン",
+      "sentence": "散歩に出かける。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">散歩</mark>に出かける。",
+      "targetWord": "散歩",
+      "kana": "さんぽにでかける。",
+      "imageUrl": "https://livedoor.blogimg.jp/inuantena/imgs/f/c/fcf34439.jpg",
+      "sourceUrl": "https://inupunch.blog.jp/?p=219",
+      "typingKana": "さんぽにでかける",
+      "explanation": "「散」の音読みは「サン」。例文「散歩に出かける。」の「散歩」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "ち",
+      "sentence": "桜の花が散る。",
+      "sentenceHtml": "桜の花が<mark class=\\\"target-kanji\\\">散る</mark>。",
+      "targetWord": "散る",
+      "kana": "さくらのはながちる。",
+      "imageUrl": "https://cdn.snsimg.carview.co.jp/minkara/userstorage/000/022/013/198/e119b7754a.jpg",
+      "sourceUrl": "https://minkara.carview.co.jp/userid/1540898/blog/c915202/",
+      "typingKana": "さくらのはながちる",
+      "explanation": "「散」の訓読みは「ち」。例文「桜の花が散る。」の「散る」で使われます。"
+    }
+  },
+  {
+    "id": "k4_083",
+    "index": 83,
+    "kanji": "残",
+    "on": {
+      "type": "on",
+      "yomi": "ザン",
+      "sentence": "残念な結果だった。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">残念</mark>な結果だった。",
+      "targetWord": "残念",
+      "kana": "ざんねんなけっかだった。",
+      "imageUrl": "https://cdn.snsimg.carview.co.jp/minkara/userstorage/000/050/832/810/c9a0b64979.jpg?ct=64c4d1024db0",
+      "sourceUrl": "https://minkara.carview.co.jp/userid/469510/blog/41285295/",
+      "typingKana": "ざんねんなけっかだった",
+      "explanation": "「残」の音読みは「ザン」。例文「残念な結果だった。」の「残念」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "のこ",
+      "sentence": "ご飯を残す。",
+      "sentenceHtml": "ご飯を<mark class=\\\"target-kanji\\\">残す</mark>。",
+      "targetWord": "残す",
+      "kana": "ごはんをのこす。",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0733/8691/8204/files/col_441-05.jpg?v=1738915550",
+      "sourceUrl": "https://losszero.jp/blogs/column/col_441",
+      "typingKana": "ごはんをのこす",
+      "explanation": "「残」の訓読みは「のこ」。例文「ご飯を残す。」の「残す」で使われます。"
+    }
+  },
+  {
+    "id": "k4_084",
+    "index": 84,
+    "kanji": "氏",
+    "on": {
+      "type": "on",
+      "yomi": "シ",
+      "sentence": "氏名を記入する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">氏名</mark>を記入する。",
+      "targetWord": "氏名",
+      "kana": "しめいをきにゅうする。",
+      "imageUrl": "https://cms.talencat.com/content/images/2024/06/rirekisyo-1.jpg",
+      "sourceUrl": "https://talencat.com/ja/resume-guides/write-resume-special-issue",
+      "typingKana": "しめいをきにゅうする",
+      "explanation": "「氏」の音読みは「シ」。例文「氏名を記入する。」の「氏名」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "うじ",
+      "sentence": "氏の名前を調べる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">氏</mark>の名前を調べる。",
+      "targetWord": "氏",
+      "kana": "うじのなまえをしらべる。",
+      "imageUrl": "https://ts2.mm.bing.net/th?id=OIP.GzixU4dpFd6AJ1co_skROwHaD4&pid=15.1",
+      "sourceUrl": "https://alternatenergy.ru/photo/縁框 . 人名漢字辞典 読み方検索",
+      "typingKana": "うじのなまえをしらべる",
+      "explanation": "「氏」の訓読みは「うじ」。例文「氏の名前を調べる。」の「氏」で使われます。"
+    }
+  },
+  {
+    "id": "k4_085",
+    "index": 85,
+    "kanji": "司",
+    "on": {
+      "type": "on",
+      "yomi": "シ",
+      "sentence": "司会を担当する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">司会</mark>を担当する。",
+      "targetWord": "司会",
+      "kana": "しかいをたんとうする。",
+      "imageUrl": "https://www.voice-mart.jp/assets/img/event-mc/wedding/img_feature_02.jpg",
+      "sourceUrl": "https://www.voice-mart.jp/event-mc/wedding/",
+      "typingKana": "しかいをたんとうする",
+      "explanation": "「司」の音読みは「シ」。例文「司会を担当する。」の「司会」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_086",
+    "index": 86,
+    "kanji": "試",
+    "on": {
+      "type": "on",
+      "yomi": "シ",
+      "sentence": "試験を受ける。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">試験</mark>を受ける。",
+      "targetWord": "試験",
+      "kana": "しけんをうける。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/251479470/rectangle_large_type_2_211134e9561f50ef5b41c10d5158733e.png?width=297&dpr=2&frame=1",
+      "sourceUrl": "https://note.com/hashtag/解答例",
+      "typingKana": "しけんをうける",
+      "explanation": "「試」の音読みは「シ」。例文「試験を受ける。」の「試験」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "ため",
+      "sentence": "新しい道具を試す。",
+      "sentenceHtml": "新しい道具を<mark class=\\\"target-kanji\\\">試す</mark>。",
+      "targetWord": "試す",
+      "kana": "あたらしいどうぐをためす。",
+      "imageUrl": "http://img-cdn.jg.jugem.jp/b53/1963892/20110115_1405503.jpg",
+      "sourceUrl": "http://happyday.tokiko.in/?cid=59133",
+      "typingKana": "あたらしいどうぐをためす",
+      "explanation": "「試」の訓読みは「ため」。例文「新しい道具を試す。」の「試す」で使われます。"
+    }
+  },
+  {
+    "id": "k4_087",
+    "index": 87,
+    "kanji": "児",
+    "on": {
+      "type": "on",
+      "yomi": "ジ",
+      "sentence": "児童が校庭で遊ぶ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">児童</mark>が校庭で遊ぶ。",
+      "targetWord": "児童",
+      "kana": "じどうがこうていであそぶ。",
+      "imageUrl": "https://tsurugashima.schoolweb.ne.jp/1110042/blog_img/232200812?tm=20250307141607",
+      "sourceUrl": "https://tsurugashima.schoolweb.ne.jp/1110042/weblog/92079336",
+      "typingKana": "じどうがこうていであそぶ",
+      "explanation": "「児」の音読みは「ジ」。例文「児童が校庭で遊ぶ。」の「児童」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_088",
+    "index": 88,
+    "kanji": "治",
+    "on": {
+      "type": "on",
+      "yomi": "ジ",
+      "sentence": "治療を受ける。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">治療</mark>を受ける。",
+      "targetWord": "治療",
+      "kana": "ちりょうをうける。",
+      "imageUrl": "https://www.jpc-ltd.co.jp/web/service/template-site/template/therapy_clinic02/assets/img/about/img_02.jpg",
+      "sourceUrl": "https://www.jpc-ltd.co.jp/web/service/template-site/template/therapy_clinic02/about/",
+      "typingKana": "ちりょうをうける",
+      "explanation": "「治」の音読みは「ジ」。例文「治療を受ける。」の「治療」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "なお",
+      "sentence": "けがを治す。",
+      "sentenceHtml": "けがを<mark class=\\\"target-kanji\\\">治す</mark>。",
+      "targetWord": "治す",
+      "kana": "けがをなおす。",
+      "imageUrl": "https://houten-seikotsuin.com/wp-content/uploads/2024/04/2307672_m-1024x683.jpg",
+      "sourceUrl": "https://houten-seikotsuin.com/2307672_m/",
+      "typingKana": "けがをなおす",
+      "explanation": "「治」の訓読みは「なお」。例文「けがを治す。」の「治す」で使われます。"
+    }
+  },
+  {
+    "id": "k4_089",
+    "index": 89,
+    "kanji": "滋",
+    "on": {
+      "type": "on",
+      "yomi": "ジ",
+      "sentence": "滋養のある食べ物を食べる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">滋養</mark>のある食べ物を食べる。",
+      "targetWord": "滋養",
+      "kana": "じようのあるたべものをたべる。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/43671076/rectangle_large_type_2_39f6d9d3cbab97a604075a1321f903ad.jpg?width=1200",
+      "sourceUrl": "https://note.com/andrecipe1102/n/n5a08ee04d357",
+      "typingKana": "じようのあるたべものをたべる",
+      "explanation": "「滋」の音読みは「ジ」。例文「滋養のある食べ物を食べる。」の「滋養」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_090",
+    "index": 90,
+    "kanji": "辞",
+    "on": {
+      "type": "on",
+      "yomi": "ジ",
+      "sentence": "辞書で意味を調べる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">辞書</mark>で意味を調べる。",
+      "targetWord": "辞書",
+      "kana": "じしょでいみをしらべる。",
+      "imageUrl": "https://akarinotobira.com/wp-content/uploads/2025/12/service-akarinotobira-4.png",
+      "sourceUrl": "https://akarinotobira.com",
+      "typingKana": "じしょでいみをしらべる",
+      "explanation": "「辞」の音読みは「ジ」。例文「辞書で意味を調べる。」の「辞書」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "や",
+      "sentence": "仕事を辞める。",
+      "sentenceHtml": "仕事を<mark class=\\\"target-kanji\\\">辞める</mark>。",
+      "targetWord": "辞める",
+      "kana": "しごとをやめる。",
+      "imageUrl": "https://umitokaisha.com/wp-content/uploads/2025/04/74a0f8c3433b24237726c13c00a2b1f6-768x768.png",
+      "sourceUrl": "https://umitokaisha.com/%e4%bb%95%e4%ba%8b%e3%82%92%e8%be%9e%e3%82%81%e3%81%9f%e3%81%84%e3%80%81%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e7%90%86%e7%94%b1%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+      "typingKana": "しごとをやめる",
+      "explanation": "「辞」の訓読みは「や」。例文「仕事を辞める。」の「辞める」で使われます。"
+    }
+  },
+  {
+    "id": "k4_091",
+    "index": 91,
+    "kanji": "鹿",
+    "on": {
+      "type": "on",
+      "yomi": "カゴシマ",
+      "sentence": "鹿児島県に旅行する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">鹿児島</mark>県に旅行する。",
+      "targetWord": "鹿児島",
+      "kana": "かごしまけんにりょこうする。",
+      "imageUrl": "https://tobutoptours.jp/image.jsp?id=14893",
+      "sourceUrl": "https://tobutoptours.jp/special/kyushu/kagoshima/",
+      "typingKana": "かごしまけんにりょこうする",
+      "explanation": "「鹿」の音読みは「カゴシマ」。例文「鹿児島県に旅行する。」の「鹿児島」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "しか",
+      "sentence": "山で鹿を見かけた。",
+      "sentenceHtml": "山で<mark class=\\\"target-kanji\\\">鹿</mark>を見かけた。",
+      "targetWord": "鹿",
+      "kana": "やまでしかをみかけた。",
+      "imageUrl": "https://itsukushika.com/wp-content/uploads/2025/11/DSC08488-1024x768.jpg",
+      "sourceUrl": "https://itsukushika.com/simple/",
+      "typingKana": "やまでしかをみかけた",
+      "explanation": "「鹿」の訓読みは「しか」。例文「山で鹿を見かけた。」の「鹿」で使われます。"
+    }
+  },
+  {
+    "id": "k4_092",
+    "index": 92,
+    "kanji": "失",
+    "on": {
+      "type": "on",
+      "yomi": "シツ",
+      "sentence": "失敗してもあきらめない。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">失敗</mark>してもあきらめない。",
+      "targetWord": "失敗",
+      "kana": "しっぱいしてもあきらめない。",
+      "imageUrl": "https://thumb.photo-ac.com/49/49ca38268b130336104c879620587048_t.jpeg",
+      "sourceUrl": "https://en.photo-ac.com/search/Handmade%20failure",
+      "typingKana": "しっぱいしてもあきらめない",
+      "explanation": "「失」の音読みは「シツ」。例文「失敗してもあきらめない。」の「失敗」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "うしな",
+      "sentence": "大切な物を失う。",
+      "sentenceHtml": "大切な物を<mark class=\\\"target-kanji\\\">失う</mark>。",
+      "targetWord": "失う",
+      "kana": "たいせつなものをうしなう。",
+      "imageUrl": "http://caffe.asablo.jp/blog/img/2011/07/16/18ef9d.gif",
+      "sourceUrl": "http://caffe.asablo.jp/blog/imgview/2011/07/16/18ef9d.gif.html",
+      "typingKana": "たいせつなものをうしなう",
+      "explanation": "「失」の訓読みは「うしな」。例文「大切な物を失う。」の「失う」で使われます。"
+    }
+  },
+  {
+    "id": "k4_093",
+    "index": 93,
+    "kanji": "借",
+    "on": {
+      "type": "on",
+      "yomi": "シャク",
+      "sentence": "借金をしないようにする。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">借金</mark>をしないようにする。",
+      "targetWord": "借金",
+      "kana": "しゃっきんをしないようにする。",
+      "imageUrl": "https://keiema.com/wp-content/uploads/2025/10/借金-イラスト-1024x683.jpg",
+      "sourceUrl": "https://www.keiema.com/",
+      "typingKana": "しゃっきんをしないようにする",
+      "explanation": "「借」の音読みは「シャク」。例文「借金をしないようにする。」の「借金」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "か",
+      "sentence": "図書館で本を借りる。",
+      "sentenceHtml": "図書館で本を<mark class=\\\"target-kanji\\\">借りる</mark>。",
+      "targetWord": "借りる",
+      "kana": "としょかんでほんをかりる。",
+      "imageUrl": "https://shikaoi.ed.jp/wp-content/uploads/2023/12/IMG_3846-960x1280.jpg",
+      "sourceUrl": "https://shikaoi.ed.jp/2023/12/20/13499/",
+      "typingKana": "としょかんでほんをかりる",
+      "explanation": "「借」の訓読みは「か」。例文「図書館で本を借りる。」の「借りる」で使われます。"
+    }
+  },
+  {
+    "id": "k4_094",
+    "index": 94,
+    "kanji": "種",
+    "on": {
+      "type": "on",
+      "yomi": "シュ",
+      "sentence": "種類を調べる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">種類</mark>を調べる。",
+      "targetWord": "種類",
+      "kana": "しゅるいをしらべる。",
+      "imageUrl": "https://e-tsuchiya.jp/wp-content/uploads/2015/08/fc17-1-1.png.webp",
+      "sourceUrl": "https://e-tsuchiya.jp/",
+      "typingKana": "しゅるいをしらべる",
+      "explanation": "「種」の音読みは「シュ」。例文「種類を調べる。」の「種類」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "たね",
+      "sentence": "花の種をまく。",
+      "sentenceHtml": "花の<mark class=\\\"target-kanji\\\">種</mark>をまく。",
+      "targetWord": "種",
+      "kana": "はなのたねをまく。",
+      "imageUrl": "https://kimirin.wp-x.jp/wp-content/uploads/2023/10/亜麻の種まき-600x375.jpg",
+      "sourceUrl": "https://kimirin.wp-x.jp/sowing-seeds",
+      "typingKana": "はなのたねをまく",
+      "explanation": "「種」の訓読みは「たね」。例文「花の種をまく。」の「種」で使われます。"
+    }
+  },
+  {
+    "id": "k4_095",
+    "index": 95,
+    "kanji": "周",
+    "on": {
+      "type": "on",
+      "yomi": "シュウ",
+      "sentence": "周囲をよく見る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">周囲</mark>をよく見る。",
+      "targetWord": "周囲",
+      "kana": "しゅういをよくみる。",
+      "imageUrl": "https://www.agegracefullyamerica.com/wp-content/uploads/2024/02/Observation.-W3.png",
+      "sourceUrl": "https://matrixmag.com/take-notice-effective-ways-to-become-more-observant/",
+      "typingKana": "しゅういをよくみる",
+      "explanation": "「周」の音読みは「シュウ」。例文「周囲をよく見る。」の「周囲」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "まわ",
+      "sentence": "家の周りを歩く。",
+      "sentenceHtml": "家の<mark class=\\\"target-kanji\\\">周り</mark>を歩く。",
+      "targetWord": "周り",
+      "kana": "いえのまわりをあるく。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20220122/18/ranchaniiko/8c/36/j/o1000066715064734163.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/ranchaniiko/entry-12722700783.html",
+      "typingKana": "いえのまわりをあるく",
+      "explanation": "「周」の訓読みは「まわ」。例文「家の周りを歩く。」の「周り」で使われます。"
+    }
+  },
+  {
+    "id": "k4_096",
+    "index": 96,
+    "kanji": "祝",
+    "on": {
+      "type": "on",
+      "yomi": "シュク",
+      "sentence": "祝日は学校が休みだ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">祝日</mark>は学校が休みだ。",
+      "targetWord": "祝日",
+      "kana": "しゅくじつはがっこうがやすみだ。",
+      "imageUrl": "https://k-kids-afterschool.com/img/schedule/schedule-holiday__item__txt3.png",
+      "sourceUrl": "https://www.k-kids-afterschool.com/schedule.html",
+      "typingKana": "しゅくじつはがっこうがやすみだ",
+      "explanation": "「祝」の音読みは「シュク」。例文「祝日は学校が休みだ。」の「祝日」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "いわ",
+      "sentence": "誕生日を祝う。",
+      "sentenceHtml": "誕生日を<mark class=\\\"target-kanji\\\">祝う</mark>。",
+      "targetWord": "祝う",
+      "kana": "たんじょうびをいわう。",
+      "imageUrl": "https://pod.cheerup.jp/files/images/0487/iStock-612009244.jpg",
+      "sourceUrl": "https://english.cheerup.jp/article/487?d=rec3763",
+      "typingKana": "たんじょうびをいわう",
+      "explanation": "「祝」の訓読みは「いわ」。例文「誕生日を祝う。」の「祝う」で使われます。"
+    }
+  },
+  {
+    "id": "k4_097",
+    "index": 97,
+    "kanji": "順",
+    "on": {
+      "type": "on",
+      "yomi": "ジュン",
+      "sentence": "順番を守る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">順番</mark>を守る。",
+      "targetWord": "順番",
+      "kana": "じゅんばんをまもる。",
+      "imageUrl": "https://h-navi.jp/uploads/support_facility/200931/webp_5238b68f-642e-4513-b058-328e241c93e6.webp",
+      "sourceUrl": "https://h-navi.jp/support_facility/facilities/200931/blogs?page=55",
+      "typingKana": "じゅんばんをまもる",
+      "explanation": "「順」の音読みは「ジュン」。例文「順番を守る。」の「順番」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_098",
+    "index": 98,
+    "kanji": "初",
+    "on": {
+      "type": "on",
+      "yomi": "ショ",
+      "sentence": "初心者向けの本を読む。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">初心者</mark>向けの本を読む。",
+      "targetWord": "初心者",
+      "kana": "しょしんしゃむけのほんをよむ。",
+      "imageUrl": "https://www.cheggindia.com/wp-content/uploads/2023/06/cg-36844-best-books-to-read-for-beginners-v2.jpg",
+      "sourceUrl": "https://www.cheggindia.com/career-guidance/best-books-to-read-for-beginners/",
+      "typingKana": "しょしんしゃむけのほんをよむ",
+      "explanation": "「初」の音読みは「ショ」。例文「初心者向けの本を読む。」の「初心者」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "はじ",
+      "sentence": "今日は初めて料理をする。",
+      "sentenceHtml": "今日は<mark class=\\\"target-kanji\\\">初めて</mark>料理をする。",
+      "targetWord": "初めて",
+      "kana": "きょうははじめてりょうりをする。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20231108/22/lettymia0410/d3/db/j/o1080107815361976130.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/lettymia0410/entry-12824776206.html",
+      "typingKana": "きょうははじめてりょうりをする",
+      "explanation": "「初」の訓読みは「はじ」。例文「今日は初めて料理をする。」の「初めて」で使われます。"
+    }
+  },
+  {
+    "id": "k4_099",
+    "index": 99,
+    "kanji": "松",
+    "on": {
+      "type": "on",
+      "yomi": "ショウ",
+      "sentence": "松竹梅の絵を描く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">松竹梅</mark>の絵を描く。",
+      "targetWord": "松竹梅",
+      "kana": "しょうちくばいのえをかく。",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Z5KovXBGL.jpg",
+      "sourceUrl": "https://medelon.be/?r=62599250673",
+      "typingKana": "しょうちくばいのえをかく",
+      "explanation": "「松」の音読みは「ショウ」。例文「松竹梅の絵を描く。」の「松竹梅」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "まつ",
+      "sentence": "お正月に松を飾る。",
+      "sentenceHtml": "お正月に<mark class=\\\"target-kanji\\\">松</mark>を飾る。",
+      "targetWord": "松",
+      "kana": "おしょうがつにまつをかざる。",
+      "imageUrl": "https://dime.jp/wp-content/uploads/2022/11/2185286_m-1-770x513.jpg",
+      "sourceUrl": "https://dime.jp/genre/828574/",
+      "typingKana": "おしょうがつにまつをかざる",
+      "explanation": "「松」の訓読みは「まつ」。例文「お正月に松を飾る。」の「松」で使われます。"
+    }
+  },
+  {
+    "id": "k4_100",
+    "index": 100,
+    "kanji": "笑",
+    "on": {
+      "type": "on",
+      "yomi": "ショウ",
+      "sentence": "爆笑するほど面白い。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">爆笑</mark>するほど面白い。",
+      "targetWord": "爆笑",
+      "kana": "ばくしょうするほどおもしろい。",
+      "imageUrl": "http://ecx.images-amazon.com/images/I/5131V23-EML.jpg",
+      "sourceUrl": "https://jibun.hateblo.jp/entry/2016/12/18/005243",
+      "typingKana": "ばくしょうするほどおもしろい",
+      "explanation": "「笑」の音読みは「ショウ」。例文「爆笑するほど面白い。」の「爆笑」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "わら",
+      "sentence": "友達が笑う。",
+      "sentenceHtml": "友達が<mark class=\\\"target-kanji\\\">笑う</mark>。",
+      "targetWord": "笑う",
+      "kana": "ともだちがわらう。",
+      "imageUrl": "https://i1.ttwiki.net/imgs/qn/109726/37778.jpg",
+      "sourceUrl": "https://ttwiki.net/qn/oplzqkkd.html",
+      "typingKana": "ともだちがわらう",
+      "explanation": "「笑」の訓読みは「わら」。例文「友達が笑う。」の「笑う」で使われます。"
+    }
+  },
+  {
+    "id": "k4_101",
+    "index": 101,
+    "kanji": "唱",
+    "on": {
+      "type": "on",
+      "yomi": "ショウ",
+      "sentence": "合唱の練習をする。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">合唱</mark>の練習をする。",
+      "targetWord": "合唱",
+      "kana": "がっしょうのれんしゅうをする。",
+      "imageUrl": "https://fkchoir.org/wordpress/wp-content/uploads/2023/02/練習1-1536x1152.jpg",
+      "sourceUrl": "https://fkchoir.org/?p=959",
+      "typingKana": "がっしょうのれんしゅうをする",
+      "explanation": "「唱」の音読みは「ショウ」。例文「合唱の練習をする。」の「合唱」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "とな",
+      "sentence": "みんなで校歌を唱える。",
+      "sentenceHtml": "みんなで校歌を<mark class=\\\"target-kanji\\\">唱える</mark>。",
+      "targetWord": "唱える",
+      "kana": "みんなでこうかをとなえる。",
+      "imageUrl": "https://www2.toyota.ed.jp/s_wakanishi/blog_img/337116567?tm=20260319140140",
+      "sourceUrl": "https://www2.toyota.ed.jp/s_wakanishi/weblog/134732484?tm=20260319140139",
+      "typingKana": "みんなでこうかをとなえる",
+      "explanation": "「唱」の訓読みは「とな」。例文「みんなで校歌を唱える。」の「唱える」で使われます。"
+    }
+  },
+  {
+    "id": "k4_102",
+    "index": 102,
+    "kanji": "焼",
+    "on": {
+      "type": "on",
+      "yomi": "ショウ",
+      "sentence": "焼却するごみを分ける。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">焼却</mark>するごみを分ける。",
+      "targetWord": "焼却",
+      "kana": "しょうきゃくするごみをわける。",
+      "imageUrl": "https://sarukuma.info/wp-content/uploads/2026/06/S__54083610_0-800x1066.jpg",
+      "sourceUrl": "https://sarukuma.info/leisure-spot/post-95045/",
+      "typingKana": "しょうきゃくするごみをわける",
+      "explanation": "「焼」の音読みは「ショウ」。例文「焼却するごみを分ける。」の「焼却」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "や",
+      "sentence": "パンを焼く。",
+      "sentenceHtml": "パンを<mark class=\\\"target-kanji\\\">焼く</mark>。",
+      "targetWord": "焼く",
+      "kana": "ぱんをやく。",
+      "imageUrl": "https://cdn.peraichi.com/userData/5bf2b67a-09c4-4b13-8769-28ab0a0000fe/img/67c3d3d355228/original.jpeg",
+      "sourceUrl": "https://sif9u.hp.peraichi.com/",
+      "typingKana": "ぱんをやく",
+      "explanation": "「焼」の訓読みは「や」。例文「パンを焼く。」の「焼く」で使われます。"
+    }
+  },
+  {
+    "id": "k4_103",
+    "index": 103,
+    "kanji": "照",
+    "on": {
+      "type": "on",
+      "yomi": "ショウ",
+      "sentence": "照明をつける。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">照明</mark>をつける。",
+      "targetWord": "照明",
+      "kana": "しょうめいをつける。",
+      "imageUrl": "https://hokuohkurashi-note.imgix.net/uploads/2016/11/26191949/1611_akari_2_Q9A1189.jpg?auto=format%2Ccompress&cs=tinysrgb&q=60",
+      "sourceUrl": "http://hokuohkurashi.com/note/109849",
+      "typingKana": "しょうめいをつける",
+      "explanation": "「照」の音読みは「ショウ」。例文「照明をつける。」の「照明」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "て",
+      "sentence": "太陽が地面を照らす。",
+      "sentenceHtml": "太陽が地面を<mark class=\\\"target-kanji\\\">照らす</mark>。",
+      "targetWord": "照らす",
+      "kana": "たいようがじめんをてらす。",
+      "imageUrl": "https://pds.exblog.jp/pds/1/202602/04/91/e0174091_11491330.jpg",
+      "sourceUrl": "http://astrokcao.exblog.jp",
+      "typingKana": "たいようがじめんをてらす",
+      "explanation": "「照」の訓読みは「て」。例文「太陽が地面を照らす。」の「照らす」で使われます。"
+    }
+  },
+  {
+    "id": "k4_104",
+    "index": 104,
+    "kanji": "城",
+    "on": {
+      "type": "on",
+      "yomi": "ジョウ",
+      "sentence": "城内を見学する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">城内</mark>を見学する。",
+      "targetWord": "城内",
+      "kana": "じょうないをけんがくする。",
+      "imageUrl": "https://giryo.co.jp/wordpress/wp-content/uploads/2025/07/IMG_4035.jpeg",
+      "sourceUrl": "https://giryo.co.jp/office_blog/post-48826/",
+      "typingKana": "じょうないをけんがくする",
+      "explanation": "「城」の音読みは「ジョウ」。例文「城内を見学する。」の「城内」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "しろ",
+      "sentence": "大きな城を見に行く。",
+      "sentenceHtml": "大きな<mark class=\\\"target-kanji\\\">城</mark>を見に行く。",
+      "targetWord": "城",
+      "kana": "おおきなしろをみにいく。",
+      "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/nanohana2000/20230227/20230227205733.jpg",
+      "sourceUrl": "https://nanohana2000.hatenablog.com/entry/2023/02/27/210344",
+      "typingKana": "おおきなしろをみにいく",
+      "explanation": "「城」の訓読みは「しろ」。例文「大きな城を見に行く。」の「城」で使われます。"
+    }
+  },
+  {
+    "id": "k4_105",
+    "index": 105,
+    "kanji": "縄",
+    "on": {
+      "type": "on",
+      "yomi": "ジョウ",
+      "sentence": "縄文時代について学ぶ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">縄文</mark>時代について学ぶ。",
+      "targetWord": "縄文",
+      "kana": "じょうもんじだいについてまなぶ。",
+      "imageUrl": "https://www.cizen.jp/wp_modlue/wp-content/uploads/2025/05/ee6b85e93477dbf9b0eae9d20022e9d9-1200x849.jpg",
+      "sourceUrl": "https://www.cizen.jp/",
+      "typingKana": "じょうもんじだいについてまなぶ",
+      "explanation": "「縄」の音読みは「ジョウ」。例文「縄文時代について学ぶ。」の「縄文」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "なわ",
+      "sentence": "縄で荷物をしばる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">縄</mark>で荷物をしばる。",
+      "targetWord": "縄",
+      "kana": "なわでにもつをしばる。",
+      "imageUrl": "https://livedoor.blogimg.jp/hana0212/imgs/8/7/87ba0d07-s.jpg",
+      "sourceUrl": "https://happygolucky.blog.jp/archives/32993703.html",
+      "typingKana": "なわでにもつをしばる",
+      "explanation": "「縄」の訓読みは「なわ」。例文「縄で荷物をしばる。」の「縄」で使われます。"
+    }
+  },
+  {
+    "id": "k4_106",
+    "index": 106,
+    "kanji": "臣",
+    "on": {
+      "type": "on",
+      "yomi": "シン",
+      "sentence": "大臣が会見をする。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">大臣</mark>が会見をする。",
+      "targetWord": "大臣",
+      "kana": "だいじんがかいけんをする。",
+      "imageUrl": "https://www.moj.go.JP/content/001369616.jpg",
+      "sourceUrl": "https://www.moj.go.jp/photonews.html",
+      "typingKana": "だいじんがかいけんをする",
+      "explanation": "「臣」の音読みは「シン」。例文「大臣が会見をする。」の「大臣」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_107",
+    "index": 107,
+    "kanji": "信",
+    "on": {
+      "type": "on",
+      "yomi": "シン",
+      "sentence": "信号が青になった。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">信号</mark>が青になった。",
+      "targetWord": "信号",
+      "kana": "しんごうがあおになった。",
+      "imageUrl": "https://assets.st-note.com/img/1746625740-0jeV26wgm7pLtoUQsWzvDBNd.jpg?width=1200",
+      "sourceUrl": "https://note.com/nt19930051/n/nf5a7e07361a3",
+      "typingKana": "しんごうがあおになった",
+      "explanation": "「信」の音読みは「シン」。例文「信号が青になった。」の「信号」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "しん",
+      "sentence": "友達を信じる。",
+      "sentenceHtml": "友達を<mark class=\\\"target-kanji\\\">信じる</mark>。",
+      "targetWord": "信じる",
+      "kana": "ともだちをしんじる。",
+      "imageUrl": "https://www.admitadvantage.com/wp-content/uploads/2022/11/Happy-Friends-Three-Hug-Friendship-People-4256534.jpg",
+      "sourceUrl": "https://www.admitadvantage.com/blog/why-you-shouldnt-trust-your-friends-advice/",
+      "typingKana": "ともだちをしんじる",
+      "explanation": "「信」の訓読みは「しん」。例文「友達を信じる。」の「信じる」で使われます。"
+    }
+  },
+  {
+    "id": "k4_108",
+    "index": 108,
+    "kanji": "井",
+    "on": {
+      "type": "on",
+      "yomi": "セイ",
+      "sentence": "井戸から水をくむ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">井戸</mark>から水をくむ。",
+      "targetWord": "井戸",
+      "kana": "いどからみずをくむ。",
+      "imageUrl": "https://www.city.nagakute.lg.jp/material/images/group/14/kura_ido.jpg",
+      "sourceUrl": "https://www.city.nagakute.lg.jp/kanko_bunka_sports/5/6/9908.html",
+      "typingKana": "いどからみずをくむ",
+      "explanation": "「井」の音読みは「セイ」。例文「井戸から水をくむ。」の「井戸」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "い",
+      "sentence": "井の中をのぞく。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">井</mark>の中をのぞく。",
+      "targetWord": "井",
+      "kana": "いのなかをのぞく。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20230108/16/prima0425/12/81/j/o0847113015227184274.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/prima0425/entry-12783284116.html",
+      "typingKana": "いのなかをのぞく",
+      "explanation": "「井」の訓読みは「い」。例文「井の中をのぞく。」の「井」で使われます。"
+    }
+  },
+  {
+    "id": "k4_109",
+    "index": 109,
+    "kanji": "成",
+    "on": {
+      "type": "on",
+      "yomi": "セイ",
+      "sentence": "成功するために努力する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">成功</mark>するために努力する。",
+      "targetWord": "成功",
+      "kana": "せいこうするためにどりょくする。",
+      "imageUrl": "https://bizblog.tokyocontentshit.com/wp2023/wp-content/uploads/2023/12/success-1024x580.jpg",
+      "sourceUrl": "https://bizblog.tokyocontentshit.com/",
+      "typingKana": "せいこうするためにどりょくする",
+      "explanation": "「成」の音読みは「セイ」。例文「成功するために努力する。」の「成功」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "な",
+      "sentence": "立派な大人に成る。",
+      "sentenceHtml": "立派な大人に<mark class=\\\"target-kanji\\\">成る</mark>。",
+      "targetWord": "成る",
+      "kana": "りっぱなおとなになる。",
+      "imageUrl": "https://cdn-image.alphapolis.co.jp/cover/968736176/500x711/642194dd-87cc-4002-86c8-48670a110063",
+      "sourceUrl": "https://www.alphapolis.co.jp/manga/index?category_ids=210300&tag_ids=14922&page=2",
+      "typingKana": "りっぱなおとなになる",
+      "explanation": "「成」の訓読みは「な」。例文「立派な大人に成る。」の「成る」で使われます。"
+    }
+  },
+  {
+    "id": "k4_110",
+    "index": 110,
+    "kanji": "省",
+    "on": {
+      "type": "on",
+      "yomi": "セイ",
+      "sentence": "反省して次に生かす。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">反省</mark>して次に生かす。",
+      "targetWord": "反省",
+      "kana": "はんせいしてつぎにいかす。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/299417474/rectangle_large_type_2_5b43f28a6097cf083de38b6f7526a5c9.png?width=297&dpr=2&frame=1",
+      "sourceUrl": "https://note.com/hidemaru1976/m/m16fd7e18e078",
+      "typingKana": "はんせいしてつぎにいかす",
+      "explanation": "「省」の音読みは「セイ」。例文「反省して次に生かす。」の「反省」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "はぶ",
+      "sentence": "電気を省く工夫をする。",
+      "sentenceHtml": "電気を<mark class=\\\"target-kanji\\\">省く</mark>工夫をする。",
+      "targetWord": "省く",
+      "kana": "でんきをはぶくくふうをする。",
+      "imageUrl": "https://www.kotobuki-sun.jp/wp/wp-content/uploads/87-1-1024x683.jpg",
+      "sourceUrl": "https://www.kotobuki-sun.jp/news/%e9%9b%bb%e6%b0%97%e4%bb%a3%e3%81%8c%e3%81%90%e3%81%a3%e3%81%a8%e5%a4%89%e3%82%8f%e3%82%8b%ef%bc%81%e3%81%94%e5%ae%b6%e5%ba%ad%e3%81%a7%e4%bb%8a%e6%97%a5%e3%81%8b%e3%82%89%e3%81%a7%e3%81%8d%e3%82%8b/",
+      "typingKana": "でんきをはぶくくふうをする",
+      "explanation": "「省」の訓読みは「はぶ」。例文「電気を省く工夫をする。」の「省く」で使われます。"
+    }
+  },
+  {
+    "id": "k4_111",
+    "index": 111,
+    "kanji": "清",
+    "on": {
+      "type": "on",
+      "yomi": "セイ",
+      "sentence": "清潔な服を着る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">清潔</mark>な服を着る。",
+      "targetWord": "清潔",
+      "kana": "せいけつなふくをきる。",
+      "imageUrl": "https://kurahiro.tepco.co.jp/wp-content/uploads/2022/10/iStock-1391865734.jpg",
+      "sourceUrl": "https://kurahiro.tepco.co.jp/life/15263/index.html",
+      "typingKana": "せいけつなふくをきる",
+      "explanation": "「清」の音読みは「セイ」。例文「清潔な服を着る。」の「清潔」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "きよ",
+      "sentence": "川の水が清い。",
+      "sentenceHtml": "川の水が<mark class=\\\"target-kanji\\\">清い</mark>。",
+      "targetWord": "清い",
+      "kana": "かわのみずがきよい。",
+      "imageUrl": "https://tsuri-labo.jp/wp-content/uploads/2020/09/6c9d3ffec565ae095e51ee0214d0c631-1024x768.jpeg",
+      "sourceUrl": "https://tsuri-labo.jp/technique/3038",
+      "typingKana": "かわのみずがきよい",
+      "explanation": "「清」の訓読みは「きよ」。例文「川の水が清い。」の「清い」で使われます。"
+    }
+  },
+  {
+    "id": "k4_112",
+    "index": 112,
+    "kanji": "静",
+    "on": {
+      "type": "on",
+      "yomi": "セイ",
+      "sentence": "静止して写真を撮る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">静止</mark>して写真を撮る。",
+      "targetWord": "静止",
+      "kana": "せいししてしゃしんをとる。",
+      "imageUrl": "https://assets.st-note.com/img/1730719478-ZSxOKfMvcyt4PTGQD06EIh9X.jpg?width=1200",
+      "sourceUrl": "https://note.com/hobi_maga/n/n1a7461d1e238",
+      "typingKana": "せいししてしゃしんをとる",
+      "explanation": "「静」の音読みは「セイ」。例文「静止して写真を撮る。」の「静止」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "しず",
+      "sentence": "図書館では静かにする。",
+      "sentenceHtml": "図書館では<mark class=\\\"target-kanji\\\">静か</mark>にする。",
+      "targetWord": "静か",
+      "kana": "としょかんではしずかにする。",
+      "imageUrl": "https://img.readygame.com/capsule/l/ovwTpQa0Sr.webp",
+      "sourceUrl": "https://readygame.com/game/tu-shu-guandehao-jingkani",
+      "typingKana": "としょかんではしずかにする",
+      "explanation": "「静」の訓読みは「しず」。例文「図書館では静かにする。」の「静か」で使われます。"
+    }
+  },
+  {
+    "id": "k4_113",
+    "index": 113,
+    "kanji": "席",
+    "on": {
+      "type": "on",
+      "yomi": "セキ",
+      "sentence": "出席の返事をする。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">出席</mark>の返事をする。",
+      "targetWord": "出席",
+      "kana": "しゅっせきのへんじをする。",
+      "imageUrl": "https://ts2.mm.bing.net/th?q=%E7%B5%90%E5%A9%9A%E3%82%92%E6%AC%A0%E5%B8%AD%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E3%83%9E%E3%83%8A%E3%83%BC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%20%E9%9B%BB%E5%A0%B1%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%20Very%20Card",
+      "sourceUrl": "https://kisengsipwlu.web.app/pofelu-電報の送り方-結婚式.html",
+      "typingKana": "しゅっせきのへんじをする",
+      "explanation": "「席」の音読みは「セキ」。例文「出席の返事をする。」の「出席」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_114",
+    "index": 114,
+    "kanji": "積",
+    "on": {
+      "type": "on",
+      "yomi": "セキ",
+      "sentence": "積極的に質問する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">積極的</mark>に質問する。",
+      "targetWord": "積極的",
+      "kana": "せっきょくてきにしつもんする。",
+      "imageUrl": "https://actas.blue/wp-content/uploads/2025/08/CapD20250806-500x333.jpg",
+      "sourceUrl": "https://actas.blue/listen-47/",
+      "typingKana": "せっきょくてきにしつもんする",
+      "explanation": "「積」の音読みは「セキ」。例文「積極的に質問する。」の「積極的」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "つ",
+      "sentence": "箱を積み積む。",
+      "sentenceHtml": "箱を積み<mark class=\\\"target-kanji\\\">積む</mark>。",
+      "targetWord": "積む",
+      "kana": "はこをつみつむ。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20251211/20/nagaimasato/bf/2a/p/o1024102415729067378.png?caw=800",
+      "sourceUrl": "https://ameblo.jp/nagaimasato/entry-12949759412.html",
+      "typingKana": "はこをつみつむ",
+      "explanation": "「積」の訓読みは「つ」。例文「箱を積み積む。」の「積む」で使われます。"
+    }
+  },
+  {
+    "id": "k4_115",
+    "index": 115,
+    "kanji": "折",
+    "on": {
+      "type": "on",
+      "yomi": "セツ",
+      "sentence": "骨折して病院に行く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">骨折</mark>して病院に行く。",
+      "targetWord": "骨折",
+      "kana": "こっせつしてびょういんにいく。",
+      "imageUrl": "https://livedoor.blogimg.jp/asagaogorira/imgs/6/d/6d7bce1b.jpg",
+      "sourceUrl": "https://fracture.netlify.app/posts/1719-recovery",
+      "typingKana": "こっせつしてびょういんにいく",
+      "explanation": "「折」の音読みは「セツ」。例文「骨折して病院に行く。」の「骨折」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "お",
+      "sentence": "紙を折る。",
+      "sentenceHtml": "紙を<mark class=\\\"target-kanji\\\">折る</mark>。",
+      "targetWord": "折る",
+      "kana": "かみをおる。",
+      "imageUrl": "https://d38vrblg2ltm93.cloudfront.net/admin/image/2021-04-13_12-20-00-560.jpg",
+      "sourceUrl": "https://saesipapict7io.blogspot.com/2021/11/734659.html",
+      "typingKana": "かみをおる",
+      "explanation": "「折」の訓読みは「お」。例文「紙を折る。」の「折る」で使われます。"
+    }
+  },
+  {
+    "id": "k4_116",
+    "index": 116,
+    "kanji": "節",
+    "on": {
+      "type": "on",
+      "yomi": "セツ",
+      "sentence": "季節の野菜を食べる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">季節</mark>の野菜を食べる。",
+      "targetWord": "季節",
+      "kana": "きせつのやさいをたべる。",
+      "imageUrl": "https://www.o-hashi.net/wp3/wp-content/uploads/2025/04/⑨.jpg",
+      "sourceUrl": "https://www.o-hashi.net/",
+      "typingKana": "きせつのやさいをたべる",
+      "explanation": "「節」の音読みは「セツ」。例文「季節の野菜を食べる。」の「季節」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "ふし",
+      "sentence": "竹の節を数える。",
+      "sentenceHtml": "竹の<mark class=\\\"target-kanji\\\">節</mark>を数える。",
+      "targetWord": "節",
+      "kana": "たけのふしをかぞえる。",
+      "imageUrl": "https://www.kitamura.jp/shasha/wp-content/uploads/2023/02/03-9-scaled.jpg",
+      "sourceUrl": "https://www.kitamura.jp/shasha/wp-content/uploads/2023/02/",
+      "typingKana": "たけのふしをかぞえる",
+      "explanation": "「節」の訓読みは「ふし」。例文「竹の節を数える。」の「節」で使われます。"
+    }
+  },
+  {
+    "id": "k4_117",
+    "index": 117,
+    "kanji": "説",
+    "on": {
+      "type": "on",
+      "yomi": "セツ",
+      "sentence": "説明をよく聞く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">説明</mark>をよく聞く。",
+      "targetWord": "説明",
+      "kana": "せつめいをよくきく。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/241483439/rectangle_large_type_2_9eb00ebb491b6549712ce1475fadced2.png?width=297&dpr=2&frame=1",
+      "sourceUrl": "https://note.com/yumekanau2/m/m8292b184a980/archive/2026-01",
+      "typingKana": "せつめいをよくきく",
+      "explanation": "「説」の音読みは「セツ」。例文「説明をよく聞く。」の「説明」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "と",
+      "sentence": "理由を説く。",
+      "sentenceHtml": "理由を<mark class=\\\"target-kanji\\\">説く</mark>。",
+      "targetWord": "説く",
+      "kana": "りゆうをとく。",
+      "imageUrl": "https://livedoor.blogimg.jp/garapagogo/imgs/5/6/56f56dec-s.png",
+      "sourceUrl": "https://123youhei.blog.jp/archives/2024-08.html",
+      "typingKana": "りゆうをとく",
+      "explanation": "「説」の訓読みは「と」。例文「理由を説く。」の「説く」で使われます。"
+    }
+  },
+  {
+    "id": "k4_118",
+    "index": 118,
+    "kanji": "浅",
+    "on": {
+      "type": "on",
+      "yomi": "セン",
+      "sentence": "浅瀬で遊ぶ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">浅瀬</mark>で遊ぶ。",
+      "targetWord": "浅瀬",
+      "kana": "あさせであそぶ。",
+      "imageUrl": "https://bccks.jp/global/data/bccks_expanded/0100/100835/1843/OEBPS/media/0000/0011/7411/510550abab3f4220d570019214044488_tn1024.jpg",
+      "sourceUrl": "http://bccks.jp/viewer/100835",
+      "typingKana": "あさせであそぶ",
+      "explanation": "「浅」の音読みは「セン」。例文「浅瀬で遊ぶ。」の「浅瀬」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "あさ",
+      "sentence": "この川は浅い。",
+      "sentenceHtml": "この川は<mark class=\\\"target-kanji\\\">浅い</mark>。",
+      "targetWord": "浅い",
+      "kana": "このかわはあさい。",
+      "imageUrl": "https://gimon-sukkiri.jp/wp-content/uploads/2018/10/AdobeStock_212424696.jpeg",
+      "sourceUrl": "http://gracies1ji.blogspot.com/2022/01/blog-post_260.html",
+      "typingKana": "このかわはあさい",
+      "explanation": "「浅」の訓読みは「あさ」。例文「この川は浅い。」の「浅い」で使われます。"
+    }
+  },
+  {
+    "id": "k4_119",
+    "index": 119,
+    "kanji": "戦",
+    "on": {
+      "type": "on",
+      "yomi": "セン",
+      "sentence": "戦争について学ぶ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">戦争</mark>について学ぶ。",
+      "targetWord": "戦争",
+      "kana": "せんそうについてまなぶ。",
+      "imageUrl": "https://cms.ishikawa-c.ed.jp/kawace/file/1715",
+      "sourceUrl": "https://cms.ishikawa-c.ed.jp/kawace/plugin/blogs/show/1/1/188",
+      "typingKana": "せんそうについてまなぶ",
+      "explanation": "「戦」の音読みは「セン」。例文「戦争について学ぶ。」の「戦争」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "たたか",
+      "sentence": "試合で戦う。",
+      "sentenceHtml": "試合で<mark class=\\\"target-kanji\\\">戦う</mark>。",
+      "targetWord": "戦う",
+      "kana": "しあいでたたかう。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20101023/15/kiika09/de/46/j/o0567037810816933331.jpg",
+      "sourceUrl": "https://ameblo.jp/kiika09/page-3.html",
+      "typingKana": "しあいでたたかう",
+      "explanation": "「戦」の訓読みは「たたか」。例文「試合で戦う。」の「戦う」で使われます。"
+    }
+  },
+  {
+    "id": "k4_120",
+    "index": 120,
+    "kanji": "選",
+    "on": {
+      "type": "on",
+      "yomi": "セン",
+      "sentence": "選挙について勉強する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">選挙</mark>について勉強する。",
+      "targetWord": "選挙",
+      "kana": "せんきょについてべんきょうする。",
+      "imageUrl": "https://jp.bloguru.com/userdata/2348/2346/202507230018100.png",
+      "sourceUrl": "https://en.bloguru.com/UchikuraCo/query/?pg=77",
+      "typingKana": "せんきょについてべんきょうする",
+      "explanation": "「選」の音読みは「セン」。例文「選挙について勉強する。」の「選挙」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "えら",
+      "sentence": "好きな本を選ぶ。",
+      "sentenceHtml": "好きな本を<mark class=\\\"target-kanji\\\">選ぶ</mark>。",
+      "targetWord": "選ぶ",
+      "kana": "すきなほんをえらぶ。",
+      "imageUrl": "https://cdn-bookplus.nikkei.com/atcl/column/051900070/022500063/top_s.jpg",
+      "sourceUrl": "https://9dcasino.org/?m=82952103621",
+      "typingKana": "すきなほんをえらぶ",
+      "explanation": "「選」の訓読みは「えら」。例文「好きな本を選ぶ。」の「選ぶ」で使われます。"
+    }
+  },
+  {
+    "id": "k4_121",
+    "index": 121,
+    "kanji": "然",
+    "on": {
+      "type": "on",
+      "yomi": "ゼン",
+      "sentence": "自然を大切にする。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">自然</mark>を大切にする。",
+      "targetWord": "自然",
+      "kana": "しぜんをたいせつにする。",
+      "imageUrl": "https://cdn.snsimg.carview.co.jp/minkara/userstorage/000/005/852/352/25421a9da8.jpg",
+      "sourceUrl": "https://minkara.carview.co.jp/userid/1622714/blog/m201211/",
+      "typingKana": "しぜんをたいせつにする",
+      "explanation": "「然」の音読みは「ゼン」。例文「自然を大切にする。」の「自然」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_122",
+    "index": 122,
+    "kanji": "争",
+    "on": {
+      "type": "on",
+      "yomi": "ソウ",
+      "sentence": "競争に参加する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">競争</mark>に参加する。",
+      "targetWord": "競争",
+      "kana": "きょうそうにさんかする。",
+      "imageUrl": "https://img.news.3rd-in.co.jp/storage/articles/2026/04/06/b36afe42-3172-11f1-9447-9ca3ba083d71/178310-1-9bebf55f1cceebf85bb67ac7d1b8861c-1536x1024.avif",
+      "sourceUrl": "https://news.3rd-in.co.jp/article/b36afe42-3172-11f1-9447-9ca3ba083d71",
+      "typingKana": "きょうそうにさんかする",
+      "explanation": "「争」の音読みは「ソウ」。例文「競争に参加する。」の「競争」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "あらそ",
+      "sentence": "友達とおもちゃを取り合って争う。",
+      "sentenceHtml": "友達とおもちゃを取り合って<mark class=\\\"target-kanji\\\">争う</mark>。",
+      "targetWord": "争う",
+      "kana": "ともだちとおもちゃをとりあってあらそう。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20180201/06/dodson/c0/ca/j/o0625037414122906018.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/dodson/entry-12348935699.html",
+      "typingKana": "ともだちとおもちゃをとりあってあらそう",
+      "explanation": "「争」の訓読みは「あらそ」。例文「友達とおもちゃを取り合って争う。」の「争う」で使われます。"
+    }
+  },
+  {
+    "id": "k4_123",
+    "index": 123,
+    "kanji": "倉",
+    "on": {
+      "type": "on",
+      "yomi": "ソウ",
+      "sentence": "倉庫に荷物をしまう。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">倉庫</mark>に荷物をしまう。",
+      "targetWord": "倉庫",
+      "kana": "そうこににもつをしまう。",
+      "imageUrl": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdINK4zJJKoBMSM70ORUhcLhPAMbroGLCk0Tj_fBCnWdy8ruH_4E1rKmZwXfWXV3OTYoj4WUPRP8vyXA7xDzeA8QEoRSfC_xbgSdKjV2LWbfg7EPCkyZPl1qBCBQ22Y1d4KbzX1p-QtDM9DVCZhBBfNMx-4?key=WGbt2EMnObmSGhnv_saGcg",
+      "sourceUrl": "https://ricem.rw/?r=100437693",
+      "typingKana": "そうこににもつをしまう",
+      "explanation": "「倉」の音読みは「ソウ」。例文「倉庫に荷物をしまう。」の「倉庫」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "くら",
+      "sentence": "倉に米を保管する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">倉</mark>に米を保管する。",
+      "targetWord": "倉",
+      "kana": "くらにこめをほかんする。",
+      "imageUrl": "https://d1rscyiohlmny2.cloudfront.net/_next/image?url=https%3A%2F%2Fcdn.taberutokurasuto.com%2Fshop%2Fyamadayasai%2Fimg%2Fpb%2F40791%2F_1024_260827162806.webp&w=828&q=75",
+      "sourceUrl": "https://taberutokurasuto.com/shop/yamadayasai/blog/entry/26082700047",
+      "typingKana": "くらにこめをほかんする",
+      "explanation": "「倉」の訓読みは「くら」。例文「倉に米を保管する。」の「倉」で使われます。"
+    }
+  },
+  {
+    "id": "k4_124",
+    "index": 124,
+    "kanji": "巣",
+    "on": {
+      "type": "on",
+      "yomi": "ソウ",
+      "sentence": "巣穴を見つけた。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">巣穴</mark>を見つけた。",
+      "targetWord": "巣穴",
+      "kana": "すあなをみつけた。",
+      "imageUrl": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0301%2F8082dee7j00tb86zm001od000m800cim.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+      "sourceUrl": "https://www.163.com/dy/article/KMVIVGDC0511DBKV.html?f=post2020_dy_recommends",
+      "typingKana": "すあなをみつけた",
+      "explanation": "「巣」の音読みは「ソウ」。例文「巣穴を見つけた。」の「巣穴」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "す",
+      "sentence": "ツバメが巣を作る。",
+      "sentenceHtml": "ツバメが<mark class=\\\"target-kanji\\\">巣</mark>を作る。",
+      "targetWord": "巣",
+      "kana": "つばめがすをつくる。",
+      "imageUrl": "https://global.canon/ja/environment/bird-branch/photo-gallery/tsubame/img/gallery-tsubame-photo1@2x.jpg",
+      "sourceUrl": "https://global.Canon/ja/environment/bird-branch/photo-gallery/tsubame/index.html",
+      "typingKana": "つばめがすをつくる",
+      "explanation": "「巣」の訓読みは「す」。例文「ツバメが巣を作る。」の「巣」で使われます。"
+    }
+  },
+  {
+    "id": "k4_125",
+    "index": 125,
+    "kanji": "束",
+    "on": {
+      "type": "on",
+      "yomi": "ソク",
+      "sentence": "約束を守る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">約束</mark>を守る。",
+      "targetWord": "約束",
+      "kana": "やくそくをまもる。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/281871132/rectangle_large_type_2_0e1255a6f3707111a5357e1fee8569ef.jpg?width=297&dpr=2",
+      "sourceUrl": "https://note.com/yujimorisawa/all",
+      "typingKana": "やくそくをまもる",
+      "explanation": "「束」の音読みは「ソク」。例文「約束を守る。」の「約束」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "たば",
+      "sentence": "花を一束買う。",
+      "sentenceHtml": "花を一<mark class=\\\"target-kanji\\\">束</mark>買う。",
+      "targetWord": "束",
+      "kana": "はなをひとたばかう。",
+      "imageUrl": "https://cdn.hana-yume.net/uploads/hall/questionnaire/images_bacb16f4-ff73-406c-91b9-55111abbb9e8.jpg?w=750&q=40",
+      "sourceUrl": "https://hana-yume.net/3090/voice/194162/visit/",
+      "typingKana": "はなをひとたばかう",
+      "explanation": "「束」の訓読みは「たば」。例文「花を一束買う。」の「束」で使われます。"
+    }
+  },
+  {
+    "id": "k4_126",
+    "index": 126,
+    "kanji": "側",
+    "on": {
+      "type": "on",
+      "yomi": "ソク",
+      "sentence": "側面を確認する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">側面</mark>を確認する。",
+      "targetWord": "側面",
+      "kana": "そくめんをかくにんする。",
+      "imageUrl": "https://storage.car-byebuy.com/tradecarimages/29373/ac9ed88c-0085-499d-b823-8c0c4d2a09c5_IMG_8682_M.jpg",
+      "sourceUrl": "https://www.car-byebuy.com/Trade/Cars/Details/29373",
+      "typingKana": "そくめんをかくにんする",
+      "explanation": "「側」の音読みは「ソク」。例文「側面を確認する。」の「側面」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "そば",
+      "sentence": "友達の側に座る。",
+      "sentenceHtml": "友達の<mark class=\\\"target-kanji\\\">側</mark>に座る。",
+      "targetWord": "側",
+      "kana": "ともだちのそばにすわる。",
+      "imageUrl": "https://img.benesse-cms.jp/thank-you/item/image/normal/d3408e8f-fdcc-49d3-b524-b6dd88e8341c.jpg?w=720&h=540&resize_type=cover&resize_mode=force",
+      "sourceUrl": "https://39mag.benesse.ne.jp/lifestyle/content/?id=161365",
+      "typingKana": "ともだちのそばにすわる",
+      "explanation": "「側」の訓読みは「そば」。例文「友達の側に座る。」の「側」で使われます。"
+    }
+  },
+  {
+    "id": "k4_127",
+    "index": 127,
+    "kanji": "続",
+    "on": {
+      "type": "on",
+      "yomi": "ゾク",
+      "sentence": "続行することに決まった。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">続行</mark>することに決まった。",
+      "targetWord": "続行",
+      "kana": "ぞっこうすることにきまった。",
+      "imageUrl": "https://livedoor.blogimg.jp/plusmicro26/imgs/6/2/625727df-s.jpg",
+      "sourceUrl": "http://burusoku-vip.com/archives/1974744.html",
+      "typingKana": "ぞっこうすることにきまった",
+      "explanation": "「続」の音読みは「ゾク」。例文「続行することに決まった。」の「続行」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "つづ",
+      "sentence": "本を読み続ける。",
+      "sentenceHtml": "本を読み<mark class=\\\"target-kanji\\\">続ける</mark>。",
+      "targetWord": "続ける",
+      "kana": "ほんをよみつづける。",
+      "imageUrl": "https://image.news.livedoor.com/newsimage/stf/2/e/2e684_153_4ded342e_49330c3e-sq.jpg",
+      "sourceUrl": "https://news.livedoor.com/topics/detail/29787383/",
+      "typingKana": "ほんをよみつづける",
+      "explanation": "「続」の訓読みは「つづ」。例文「本を読み続ける。」の「続ける」で使われます。"
+    }
+  },
+  {
+    "id": "k4_128",
+    "index": 128,
+    "kanji": "卒",
+    "on": {
+      "type": "on",
+      "yomi": "ソツ",
+      "sentence": "卒業式に出席する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">卒業</mark>式に出席する。",
+      "targetWord": "卒業",
+      "kana": "そつぎょうしきにしゅっせきする。",
+      "imageUrl": "https://www.keisen.ac.jp/blog/president/img/pic_260323-019.jpg",
+      "sourceUrl": "https://www.keisen.ac.jp/blog/president/2026/03/20260323.html",
+      "typingKana": "そつぎょうしきにしゅっせきする",
+      "explanation": "「卒」の音読みは「ソツ」。例文「卒業式に出席する。」の「卒業」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_129",
+    "index": 129,
+    "kanji": "孫",
+    "on": {
+      "type": "on",
+      "yomi": "ソン",
+      "sentence": "子孫について調べる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">子孫</mark>について調べる。",
+      "targetWord": "子孫",
+      "kana": "しそんについてしらべる。",
+      "imageUrl": "https://morifumika.com/wp-content/uploads/d4ce0245-a9b8-4803-80d7-ad2007a774a4-768x512.jpg.webp",
+      "sourceUrl": "https://morifumika.com/family-tree-reading/",
+      "typingKana": "しそんについてしらべる",
+      "explanation": "「孫」の音読みは「ソン」。例文「子孫について調べる。」の「子孫」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "まご",
+      "sentence": "孫と遊ぶ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">孫</mark>と遊ぶ。",
+      "targetWord": "孫",
+      "kana": "まごとあそぶ。",
+      "imageUrl": "https://blog-imgs-111.fc2.com/h/9/6/h96104aki/blog_import_5d5392a311e23.png",
+      "sourceUrl": "https://h96-104aki.jp/page-447.html",
+      "typingKana": "まごとあそぶ",
+      "explanation": "「孫」の訓読みは「まご」。例文「孫と遊ぶ。」の「孫」で使われます。"
+    }
+  },
+  {
+    "id": "k4_130",
+    "index": 130,
+    "kanji": "帯",
+    "on": {
+      "type": "on",
+      "yomi": "タイ",
+      "sentence": "包帯を巻く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">包帯</mark>を巻く。",
+      "targetWord": "包帯",
+      "kana": "ほうたいをまく。",
+      "imageUrl": "https://shimojima.sbs/img/simpleblog/918/bandage_main.jpg",
+      "sourceUrl": "https://shimojima.sbs/staffblog/blog/b-know-howtobandage/",
+      "typingKana": "ほうたいをまく",
+      "explanation": "「帯」の音読みは「タイ」。例文「包帯を巻く。」の「包帯」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "おび",
+      "sentence": "時計の帯を直す。",
+      "sentenceHtml": "時計の<mark class=\\\"target-kanji\\\">帯</mark>を直す。",
+      "targetWord": "帯",
+      "kana": "とけいのおびをなおす。",
+      "imageUrl": "https://gigaplus.makeshop.jp/bambi1930/lib/images/top/howto2.jpg",
+      "sourceUrl": "https://bambi-craft.com/",
+      "typingKana": "とけいのおびをなおす",
+      "explanation": "「帯」の訓読みは「おび」。例文「時計の帯を直す。」の「帯」で使われます。"
+    }
+  },
+  {
+    "id": "k4_131",
+    "index": 131,
+    "kanji": "隊",
+    "on": {
+      "type": "on",
+      "yomi": "タイ",
+      "sentence": "隊員が集まる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">隊員</mark>が集まる。",
+      "targetWord": "隊員",
+      "kana": "たいいんがあつまる。",
+      "imageUrl": "https://pbs.twimg.com/media/GfJkAFfbwAAgcTY.jpg",
+      "sourceUrl": "https://menex.fr/385757575.htm",
+      "typingKana": "たいいんがあつまる",
+      "explanation": "「隊」の音読みは「タイ」。例文「隊員が集まる。」の「隊員」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_132",
+    "index": 132,
+    "kanji": "達",
+    "on": {
+      "type": "on",
+      "yomi": "タツ",
+      "sentence": "達人の技を見学する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">達人</mark>の技を見学する。",
+      "targetWord": "達人",
+      "kana": "たつじんのわざをけんがくする。",
+      "imageUrl": "https://aikikai.sk/wp-content/uploads/2026/08/Togishi.png.webp",
+      "sourceUrl": "https://aikikai.sk/clanok-mario-cerny-tanren-yaki-ire-togi-hada-a-hamon/",
+      "typingKana": "たつじんのわざをけんがくする",
+      "explanation": "「達」の音読みは「タツ」。例文「達人の技を見学する。」の「達人」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "たち",
+      "sentence": "私達は公園へ行く。",
+      "sentenceHtml": "私<mark class=\\\"target-kanji\\\">達</mark>は公園へ行く。",
+      "targetWord": "達",
+      "kana": "わたしたちはこうえんへいく。",
+      "imageUrl": "https://picturebook-illust.com/cmmn/fileView?path=/old_Gallery/ThumbNail/j/&physical=thumb_037[1].jpg",
+      "sourceUrl": "https://www.picturebook-illust.com/author-gallery/room/807",
+      "typingKana": "わたしたちはこうえんへいく",
+      "explanation": "「達」の訓読みは「たち」。例文「私達は公園へ行く。」の「達」で使われます。"
+    }
+  },
+  {
+    "id": "k4_133",
+    "index": 133,
+    "kanji": "単",
+    "on": {
+      "type": "on",
+      "yomi": "タン",
+      "sentence": "単語を覚える。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">単語</mark>を覚える。",
+      "targetWord": "単語",
+      "kana": "たんごをおぼえる。",
+      "imageUrl": "https://kotoba-stock.jp/_next/image?url=%2Fimages%2Fnote-banners%2Fhero_eitango-anki-koukou_01_pc.png%3Fv%3D20260926-0818&w=640&q=75",
+      "sourceUrl": "https://kotoba-stock.jp/note/student/eitango-anki-koukou",
+      "typingKana": "たんごをおぼえる",
+      "explanation": "「単」の音読みは「タン」。例文「単語を覚える。」の「単語」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_134",
+    "index": 134,
+    "kanji": "置",
+    "on": {
+      "type": "on",
+      "yomi": "チ",
+      "sentence": "位置を確認する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">位置</mark>を確認する。",
+      "targetWord": "位置",
+      "kana": "いちをかくにんする。",
+      "imageUrl": "https://dime.jp/wp-content/uploads/2019/12/02_s-55.jpg",
+      "sourceUrl": "https://dime.jp/genre/832011/",
+      "typingKana": "いちをかくにんする",
+      "explanation": "「置」の音読みは「チ」。例文「位置を確認する。」の「位置」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "お",
+      "sentence": "机の上に本を置く。",
+      "sentenceHtml": "机の上に本を<mark class=\\\"target-kanji\\\">置く</mark>。",
+      "targetWord": "置く",
+      "kana": "つくえのうえにほんをおく。",
+      "imageUrl": "https://www.receno.com/assets_c/2024/04/carly-blog3-thumb-autoxauto-q98.webp",
+      "sourceUrl": "https://www.receno.com/drape/carly.php",
+      "typingKana": "つくえのうえにほんをおく",
+      "explanation": "「置」の訓読みは「お」。例文「机の上に本を置く。」の「置く」で使われます。"
+    }
+  },
+  {
+    "id": "k4_135",
+    "index": 135,
+    "kanji": "仲",
+    "on": {
+      "type": "on",
+      "yomi": "チュウ",
+      "sentence": "仲間と協力する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">仲間</mark>と協力する。",
+      "targetWord": "仲間",
+      "kana": "なかまときょうりょくする。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20221030/17/tatakau-sangyoi/6a/41/j/o0500033415195681524.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/tatakau-sangyoi/entry-12771971969.html",
+      "typingKana": "なかまときょうりょくする",
+      "explanation": "「仲」の音読みは「チュウ」。例文「仲間と協力する。」の「仲間」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "なか",
+      "sentence": "友達と仲良く遊ぶ。",
+      "sentenceHtml": "友達と<mark class=\\\"target-kanji\\\">仲良く</mark>遊ぶ。",
+      "targetWord": "仲良く",
+      "kana": "ともだちとなかよくあそぶ。",
+      "imageUrl": "https://pt-jp.com/wp/wp-content/uploads/2026/09/ptjp-ec-780-friendship-768x432.jpg",
+      "sourceUrl": "https://pt-jp.com/blog",
+      "typingKana": "ともだちとなかよくあそぶ",
+      "explanation": "「仲」の訓読みは「なか」。例文「友達と仲良く遊ぶ。」の「仲良く」で使われます。"
+    }
+  },
+  {
+    "id": "k4_136",
+    "index": 136,
+    "kanji": "沖",
+    "on": {
+      "type": "on",
+      "yomi": "オキナワ",
+      "sentence": "沖縄に旅行する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">沖縄</mark>に旅行する。",
+      "targetWord": "沖縄",
+      "kana": "おきなわにりょこうする。",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/b1/ac/3bb1ac57-3954-74c0-6905-23e5348d45f0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "sourceUrl": "https://asority.com/app/6746148426",
+      "typingKana": "おきなわにりょこうする",
+      "explanation": "「沖」の音読みは「オキナワ」。例文「沖縄に旅行する。」の「沖縄」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "おき",
+      "sentence": "船が沖に見える。",
+      "sentenceHtml": "船が<mark class=\\\"target-kanji\\\">沖</mark>に見える。",
+      "targetWord": "沖",
+      "kana": "ふねがおきにみえる。",
+      "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kob300m/20230401/20230401061513.jpg",
+      "sourceUrl": "https://kob300m.hatenablog.com/entry/2023/04/01/080200",
+      "typingKana": "ふねがおきにみえる",
+      "explanation": "「沖」の訓読みは「おき」。例文「船が沖に見える。」の「沖」で使われます。"
+    }
+  },
+  {
+    "id": "k4_137",
+    "index": 137,
+    "kanji": "兆",
+    "on": {
+      "type": "on",
+      "yomi": "チョウ",
+      "sentence": "一兆円という大きな金額。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">一兆</mark>円という大きな金額。",
+      "targetWord": "一兆",
+      "kana": "いっちょうえんというおおきなきんがく。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20250203/12/ktqp/a3/fc/j/o0800056815540164582.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/ktqp/entry-12884970608.html",
+      "typingKana": "いっちょうえんというおおきなきんがく",
+      "explanation": "「兆」の音読みは「チョウ」。例文「一兆円という大きな金額。」の「一兆」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "きざ",
+      "sentence": "変化の兆しが見える。",
+      "sentenceHtml": "変化の<mark class=\\\"target-kanji\\\">兆し</mark>が見える。",
+      "targetWord": "兆し",
+      "kana": "へんかのきざしがみえる。",
+      "imageUrl": "https://uranaiya-hoshizora.com/wp-content/uploads/2025/08/124-768x543.jpg",
+      "sourceUrl": "https://uranaiya-hoshizora.com/20250807-tensyanithi/",
+      "typingKana": "へんかのきざしがみえる",
+      "explanation": "「兆」の訓読みは「きざ」。例文「変化の兆しが見える。」の「兆し」で使われます。"
+    }
+  },
+  {
+    "id": "k4_138",
+    "index": 138,
+    "kanji": "低",
+    "on": {
+      "type": "on",
+      "yomi": "テイ",
+      "sentence": "低温で保存する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">低温</mark>で保存する。",
+      "targetWord": "低温",
+      "kana": "ていおんでほぞんする。",
+      "imageUrl": "https://yorimichi-azumino.com/wp-content/uploads/2026/06/azumino-post-1391-featured-1-1024x576.webp",
+      "sourceUrl": "https://yorimichi-azumino.com/strawberry-storage/",
+      "typingKana": "ていおんでほぞんする",
+      "explanation": "「低」の音読みは「テイ」。例文「低温で保存する。」の「低温」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "ひく",
+      "sentence": "この山は低い。",
+      "sentenceHtml": "この山は<mark class=\\\"target-kanji\\\">低い</mark>。",
+      "targetWord": "低い",
+      "kana": "このやまはひくい。",
+      "imageUrl": "https://www.go-nagano.net/hs-fs/hubfs/Imported_Blog_Media/202104141552_5.jpg?width=1200&height=800&name=202104141552_5.jpg",
+      "sourceUrl": "https://www.go-nagano.net/nature-and-outdoors/id19410?utm_source=social&utm_medium=tw&utm_campaign=20230417",
+      "typingKana": "このやまはひくい",
+      "explanation": "「低」の訓読みは「ひく」。例文「この山は低い。」の「低い」で使われます。"
+    }
+  },
+  {
+    "id": "k4_139",
+    "index": 139,
+    "kanji": "底",
+    "on": {
+      "type": "on",
+      "yomi": "テイ",
+      "sentence": "底辺の長さを測る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">底辺</mark>の長さを測る。",
+      "targetWord": "底辺",
+      "kana": "ていへんのながさをはかる。",
+      "imageUrl": "http://livedoor.blogimg.jp/goldennews/imgs/3/0/30267cad.jpg",
+      "sourceUrl": "http://entamax.com/22387",
+      "typingKana": "ていへんのながさをはかる",
+      "explanation": "「底」の音読みは「テイ」。例文「底辺の長さを測る。」の「底辺」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "そこ",
+      "sentence": "箱の底を見る。",
+      "sentenceHtml": "箱の<mark class=\\\"target-kanji\\\">底</mark>を見る。",
+      "targetWord": "底",
+      "kana": "はこのそこをみる。",
+      "imageUrl": "https://livedoor.blogimg.jp/yoshiyamichiru/imgs/5/c/5ce65772-s.jpg",
+      "sourceUrl": "https://yoshiyamichiru.livedoor.blog/archives/40357035.html",
+      "typingKana": "はこのそこをみる",
+      "explanation": "「底」の訓読みは「そこ」。例文「箱の底を見る。」の「底」で使われます。"
+    }
+  },
+  {
+    "id": "k4_140",
+    "index": 140,
+    "kanji": "的",
+    "on": {
+      "type": "on",
+      "yomi": "テキ",
+      "sentence": "目的を決めて勉強する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">目的</mark>を決めて勉強する。",
+      "targetWord": "目的",
+      "kana": "もくてきをきめてべんきょうする。",
+      "imageUrl": "https://joto-juku.com/wp-content/uploads/2026/05/2abf0d093025b9ab2421c0ded2cd114e-1280x720.jpg",
+      "sourceUrl": "https://joto-juku.com/study-time-box/",
+      "typingKana": "もくてきをきめてべんきょうする",
+      "explanation": "「的」の音読みは「テキ」。例文「目的を決めて勉強する。」の「目的」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "まと",
+      "sentence": "的に向かって矢を放つ。",
+      "sentenceHtml": "的に向かって矢を放つ。",
+      "targetWord": "",
+      "kana": "まとにむかってやをはなつ。",
+      "imageUrl": "https://prtimes.jp/i/25847/43/resize/d25847-43-378813-7.jpg",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000043.000025847.html",
+      "typingKana": "まとにむかってやをはなつ",
+      "explanation": "「的」の訓読みは「まと」。例文「的に向かって矢を放つ。」の「的」で使われます。"
+    }
+  },
+  {
+    "id": "k4_141",
+    "index": 141,
+    "kanji": "典",
+    "on": {
+      "type": "on",
+      "yomi": "テン",
+      "sentence": "典型的な例を紹介する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">典型的</mark>な例を紹介する。",
+      "targetWord": "典型的",
+      "kana": "てんけいてきなれいをしょうかいする。",
+      "imageUrl": "https://hitori-times.com/wp-content/uploads/2024/10/%E5%85%B7%E4%BD%93%E4%BE%8B%E3%81%AE%E7%B4%B9%E4%BB%8B-1024x576.png",
+      "sourceUrl": "https://hitori-times.com/toikobun-understand/",
+      "typingKana": "てんけいてきなれいをしょうかいする",
+      "explanation": "「典」の音読みは「テン」。例文「典型的な例を紹介する。」の「典型的」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_142",
+    "index": 142,
+    "kanji": "伝",
+    "on": {
+      "type": "on",
+      "yomi": "デン",
+      "sentence": "伝言を頼む。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">伝言</mark>を頼む。",
+      "targetWord": "伝言",
+      "kana": "でんごんをたのむ。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20171128/10/ib-mapping/1a/22/j/o0640048014079861931.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/ib-mapping/entry-12331977680.html",
+      "typingKana": "でんごんをたのむ",
+      "explanation": "「伝」の音読みは「デン」。例文「伝言を頼む。」の「伝言」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "つた",
+      "sentence": "友達に気持ちを伝える。",
+      "sentenceHtml": "友達に気持ちを<mark class=\\\"target-kanji\\\">伝える</mark>。",
+      "targetWord": "伝える",
+      "kana": "ともだちにきもちをつたえる。",
+      "imageUrl": "https://story-tokyo.jp/wp-content/uploads/2026/01/80db11dde8384591ae8825a5cda7907a-1024x573.png",
+      "sourceUrl": "https://story-tokyo.jp/member/mochizuki/",
+      "typingKana": "ともだちにきもちをつたえる",
+      "explanation": "「伝」の訓読みは「つた」。例文「友達に気持ちを伝える。」の「伝える」で使われます。"
+    }
+  },
+  {
+    "id": "k4_143",
+    "index": 143,
+    "kanji": "徒",
+    "on": {
+      "type": "on",
+      "yomi": "ト",
+      "sentence": "徒歩で学校へ行く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">徒歩</mark>で学校へ行く。",
+      "targetWord": "徒歩",
+      "kana": "とほでがっこうへいく。",
+      "imageUrl": "https://livedoor.blogimg.jp/kokonoeshou/imgs/e/7/e73255b2-s.jpg",
+      "sourceUrl": "http://blog.livedoor.jp/kokonoeshou/archives/75453949.html",
+      "typingKana": "とほでがっこうへいく",
+      "explanation": "「徒」の音読みは「ト」。例文「徒歩で学校へ行く。」の「徒歩」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_144",
+    "index": 144,
+    "kanji": "努",
+    "on": {
+      "type": "on",
+      "yomi": "ド",
+      "sentence": "努力して漢字を覚える。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">努力</mark>して漢字を覚える。",
+      "targetWord": "努力",
+      "kana": "どりょくしてかんじをおぼえる。",
+      "imageUrl": "https://kategaku.com/wp-content/uploads/2026/06/となえて.jpg",
+      "sourceUrl": "https://kategaku.com/kanji/",
+      "typingKana": "どりょくしてかんじをおぼえる",
+      "explanation": "「努」の音読みは「ド」。例文「努力して漢字を覚える。」の「努力」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "つと",
+      "sentence": "毎日勉強に努める。",
+      "sentenceHtml": "毎日勉強に<mark class=\\\"target-kanji\\\">努める</mark>。",
+      "targetWord": "努める",
+      "kana": "まいにちべんきょうにつとめる。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20180121/20/yukiko252525/f1/52/j/o1138120014116293867.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/yukiko252525/entry-12346330064.html",
+      "typingKana": "まいにちべんきょうにつとめる",
+      "explanation": "「努」の訓読みは「つと」。例文「毎日勉強に努める。」の「努める」で使われます。"
+    }
+  },
+  {
+    "id": "k4_145",
+    "index": 145,
+    "kanji": "灯",
+    "on": {
+      "type": "on",
+      "yomi": "トウ",
+      "sentence": "電灯をつける。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">電灯</mark>をつける。",
+      "targetWord": "電灯",
+      "kana": "でんとうをつける。",
+      "imageUrl": "https://update.grapee.jp/wp-content/uploads/2025/04/upcc-01197_06.jpg",
+      "sourceUrl": "https://update.grapee.jp/1653506",
+      "typingKana": "でんとうをつける",
+      "explanation": "「灯」の音読みは「トウ」。例文「電灯をつける。」の「電灯」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "ひ",
+      "sentence": "夜に灯をともす。",
+      "sentenceHtml": "夜に<mark class=\\\"target-kanji\\\">灯</mark>をともす。",
+      "targetWord": "灯",
+      "kana": "よるにひをともす。",
+      "imageUrl": "https://nippon1.jp/blog/wp-content/uploads/2020/06/%E5%A4%9C%E3%80%81%E7%81%AF%E3%81%99.jpg",
+      "sourceUrl": "https://nippon1.jp/blog/?p=1338",
+      "typingKana": "よるにひをともす",
+      "explanation": "「灯」の訓読みは「ひ」。例文「夜に灯をともす。」の「灯」で使われます。"
+    }
+  },
+  {
+    "id": "k4_146",
+    "index": 146,
+    "kanji": "働",
+    "on": {
+      "type": "on",
+      "yomi": "ドウ",
+      "sentence": "労働について学ぶ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">労働</mark>について学ぶ。",
+      "targetWord": "労働",
+      "kana": "ろうどうについてまなぶ。",
+      "imageUrl": "https://rengo.or.jp/sagamihara/wp-content/uploads/2025/10/IMG_2784.jpeg",
+      "sourceUrl": "https://rengo.or.jp/sagamihara/%E5%9C%B0%E5%9F%9F%E6%83%85%E5%A0%B1/%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8A%B4%E5%83%8D%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E3%80%8C%E3%81%BE%E3%81%A1%E3%81%8B%E3%81%A9%E5%8A%B4%E5%83%8D%E7%9B%B8%E8%AB%87%E3%80%8D%E7%B4%B9%E4%BB%8B/",
+      "typingKana": "ろうどうについてまなぶ",
+      "explanation": "「働」の音読みは「ドウ」。例文「労働について学ぶ。」の「労働」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "はたら",
+      "sentence": "毎日一生懸命働く。",
+      "sentenceHtml": "毎日一生懸命<mark class=\\\"target-kanji\\\">働く</mark>。",
+      "targetWord": "働く",
+      "kana": "まいにちいっしょうけんめいはたらく。",
+      "imageUrl": "https://cdn-ak-scissors.b.st-hatena.com/image/square/148c147eed2a88945919ab590a8172d16e74d26b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fddnavi.com%2Fuploads%2F2017%2F06%2F81yNId0OoBL.jpg",
+      "sourceUrl": "http://b.hatena.ne.jp/davincinews/%E4%BB%95%E4%BA%8B/",
+      "typingKana": "まいにちいっしょうけんめいはたらく",
+      "explanation": "「働」の訓読みは「はたら」。例文「毎日一生懸命働く。」の「働く」で使われます。"
+    }
+  },
+  {
+    "id": "k4_147",
+    "index": 147,
+    "kanji": "特",
+    "on": {
+      "type": "on",
+      "yomi": "トク",
+      "sentence": "特別な日を楽しむ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">特別</mark>な日を楽しむ。",
+      "targetWord": "特別",
+      "kana": "とくべつなひをたのしむ。",
+      "imageUrl": "https://www.beautynewstokyo.jp/admin/wp-content/uploads/2017/06/ba18f5d91a49c6f6ced3d9556c9a2237.jpg",
+      "sourceUrl": "https://ameblo.jp/yukisreading/entry-12288909525.html",
+      "typingKana": "とくべつなひをたのしむ",
+      "explanation": "「特」の音読みは「トク」。例文「特別な日を楽しむ。」の「特別」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_148",
+    "index": 148,
+    "kanji": "徳",
+    "on": {
+      "type": "on",
+      "yomi": "トク",
+      "sentence": "道徳の授業を受ける。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">道徳</mark>の授業を受ける。",
+      "targetWord": "道徳",
+      "kana": "どうとくのじゅぎょうをうける。",
+      "imageUrl": "https://pds.exblog.jp/pds/1/201810/24/21/e0390621_17263408.jpg",
+      "sourceUrl": "https://fuzokuhikari.exblog.jp/27613766/",
+      "typingKana": "どうとくのじゅぎょうをうける",
+      "explanation": "「徳」の音読みは「トク」。例文「道徳の授業を受ける。」の「道徳」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_149",
+    "index": 149,
+    "kanji": "栃",
+    "on": null,
+    "kun": {
+      "type": "kun",
+      "yomi": "とち",
+      "sentence": "栃の木を見つけた。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">栃</mark>の木を見つけた。",
+      "targetWord": "栃",
+      "kana": "とちのきをみつけた。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/131770851/rectangle_large_type_2_c94b0072fa742c2eb1d516bb40610587.jpeg?width=1200",
+      "sourceUrl": "https://idschennai.com/?products/detail/E167229050/",
+      "typingKana": "とちのきをみつけた",
+      "explanation": "「栃」の訓読みは「とち」。例文「栃の木を見つけた。」の「栃」で使われます。"
+    }
+  },
+  {
+    "id": "k4_150",
+    "index": 150,
+    "kanji": "奈",
+    "on": {
+      "type": "on",
+      "yomi": "ナ",
+      "sentence": "奈良県に行く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">奈良</mark>県に行く。",
+      "targetWord": "奈良",
+      "kana": "ならけんにいく。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20231219/20/tomomo20140618/0a/83/j/o1080080915378998202.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/tomomo20140618/entry-12833096953.html",
+      "typingKana": "ならけんにいく",
+      "explanation": "「奈」の音読みは「ナ」。例文「奈良県に行く。」の「奈良」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_151",
+    "index": 151,
+    "kanji": "梨",
+    "on": {
+      "type": "on",
+      "yomi": "リエン",
+      "sentence": "梨園で梨を育てる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">梨園</mark>で梨を育てる。",
+      "targetWord": "梨園",
+      "kana": "りえんでなしをそだてる。",
+      "imageUrl": "https://images.agriharvest.tw/wp-content/uploads/2022/09/1-10-768x512.jpg",
+      "sourceUrl": "https://www.agriharvest.tw/archives/89084",
+      "typingKana": "りえんでなしをそだてる",
+      "explanation": "「梨」の音読みは「リエン」。例文「梨園で梨を育てる。」の「梨園」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_152",
+    "index": 152,
+    "kanji": "熱",
+    "on": {
+      "type": "on",
+      "yomi": "ネツ",
+      "sentence": "熱心に練習する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">熱心</mark>に練習する。",
+      "targetWord": "熱心",
+      "kana": "ねっしんにれんしゅうする。",
+      "imageUrl": "https://cdn.mainichi.jp/vol1/2025/02/06/20250206ddlk32050320000p/9.jpg?2",
+      "sourceUrl": "https://mainichi.jp/articles/20250206/ddl/k31/050/237000c",
+      "typingKana": "ねっしんにれんしゅうする",
+      "explanation": "「熱」の音読みは「ネツ」。例文「熱心に練習する。」の「熱心」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "あつ",
+      "sentence": "お風呂のお湯が熱い。",
+      "sentenceHtml": "お風呂のお湯が<mark class=\\\"target-kanji\\\">熱い</mark>。",
+      "targetWord": "熱い",
+      "kana": "おふろのおゆがあつい。",
+      "imageUrl": "https://assets.st-note.com/img/1767419589-cC12QL5iafjGWpNEY73OotDF.png?width=1200",
+      "sourceUrl": "https://note.com/jyukan_support/n/n32b55ed563fe",
+      "typingKana": "おふろのおゆがあつい",
+      "explanation": "「熱」の訓読みは「あつ」。例文「お風呂のお湯が熱い。」の「熱い」で使われます。"
+    }
+  },
+  {
+    "id": "k4_153",
+    "index": 153,
+    "kanji": "念",
+    "on": {
+      "type": "on",
+      "yomi": "ネン",
+      "sentence": "記念写真を撮る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">記念</mark>写真を撮る。",
+      "targetWord": "記念",
+      "kana": "きねんしゃしんをとる。",
+      "imageUrl": "https://contents.photorait.net/blog/200767/blog/5c8da90e666629c2a8ddf9071909fb49988cf45d0379418001645539187.jpg",
+      "sourceUrl": "https://www.photorait.net/studio/200767/blog/73333",
+      "typingKana": "きねんしゃしんをとる",
+      "explanation": "「念」の音読みは「ネン」。例文「記念写真を撮る。」の「記念」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_154",
+    "index": 154,
+    "kanji": "敗",
+    "on": {
+      "type": "on",
+      "yomi": "ハイ",
+      "sentence": "失敗してもやり直す。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">失敗</mark>してもやり直す。",
+      "targetWord": "失敗",
+      "kana": "しっぱいしてもやりなおす。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20230420/01/iro1978/12/ee/j/o0640039615272879333.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/izumi-ohyama3/entry-12729924123.html",
+      "typingKana": "しっぱいしてもやりなおす",
+      "explanation": "「敗」の音読みは「ハイ」。例文「失敗してもやり直す。」の「失敗」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "やぶ",
+      "sentence": "試合に敗れる。",
+      "sentenceHtml": "試合に<mark class=\\\"target-kanji\\\">敗れる</mark>。",
+      "targetWord": "敗れる",
+      "kana": "しあいにやぶれる。",
+      "imageUrl": "https://www.nikkansports.com/soccer/news/img/201909180001097-w500_0.jpg",
+      "sourceUrl": "https://www.nikkansports.com/soccer/photonews/photonews_nsInc_201909180001097-0.html",
+      "typingKana": "しあいにやぶれる",
+      "explanation": "「敗」の訓読みは「やぶ」。例文「試合に敗れる。」の「敗れる」で使われます。"
+    }
+  },
+  {
+    "id": "k4_155",
+    "index": 155,
+    "kanji": "梅",
+    "on": {
+      "type": "on",
+      "yomi": "バイ",
+      "sentence": "梅雨の時期は雨が多い。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">梅雨</mark>の時期は雨が多い。",
+      "targetWord": "梅雨",
+      "kana": "つゆのじきはあめがおおい。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/330194915/rectangle_large_type_2_6324fe46f2e0b8fa1de6b5b73d2dcbc6.jpg?width=297&dpr=2&frame=1",
+      "sourceUrl": "https://note.com/honest_poppy7796",
+      "typingKana": "つゆのじきはあめがおおい",
+      "explanation": "「梅」の音読みは「バイ」。例文「梅雨の時期は雨が多い。」の「梅雨」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "うめ",
+      "sentence": "庭に梅の花が咲いた。",
+      "sentenceHtml": "庭に<mark class=\\\"target-kanji\\\">梅</mark>の花が咲いた。",
+      "targetWord": "梅",
+      "kana": "にわにうめのはながさいた。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20250304/08/pianoforte319/08/be/p/o0607108015550735440.png?caw=800",
+      "sourceUrl": "https://ameblo.jp/pianoforte319/entry-12888600115.html",
+      "typingKana": "にわにうめのはながさいた",
+      "explanation": "「梅」の訓読みは「うめ」。例文「庭に梅の花が咲いた。」の「梅」で使われます。"
+    }
+  },
+  {
+    "id": "k4_156",
+    "index": 156,
+    "kanji": "博",
+    "on": {
+      "type": "on",
+      "yomi": "ハク",
+      "sentence": "博物館に行く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">博物館</mark>に行く。",
+      "targetWord": "博物館",
+      "kana": "はくぶつかんにいく。",
+      "imageUrl": "https://www.tokyolearninglab.com/wp-content/uploads/2026/07/museum-768x419.png",
+      "sourceUrl": "https://www.tokyolearninglab.com/jp/homeschool",
+      "typingKana": "はくぶつかんにいく",
+      "explanation": "「博」の音読みは「ハク」。例文「博物館に行く。」の「博物館」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_157",
+    "index": 157,
+    "kanji": "阪",
+    "on": {
+      "type": "on",
+      "yomi": "オオサカ",
+      "sentence": "大阪に住んでいる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">大阪</mark>に住んでいる。",
+      "targetWord": "大阪",
+      "kana": "おおさかにすんでいる。",
+      "imageUrl": "https://medusa.maaltalk.com/_next/image?url=https%3A%2F%2Fstrapi.maaltalk.com%2Fuploads%2Fsmall_review_naver_5060384684_6acbf423e5.jpg&w=560&q=75",
+      "sourceUrl": "https://medusa.maaltalk.com/ko/reviews?destination=japan&rating=5&photos=1&period=6m&page=92",
+      "typingKana": "おおさかにすんでいる",
+      "explanation": "「阪」の音読みは「オオサカ」。例文「大阪に住んでいる。」の「大阪」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_158",
+    "index": 158,
+    "kanji": "飯",
+    "on": {
+      "type": "on",
+      "yomi": "ハン",
+      "sentence": "ご飯を食べる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">ご飯</mark>を食べる。",
+      "targetWord": "ご飯",
+      "kana": "ごはんをたべる。",
+      "imageUrl": "https://i0.wp.com/buzzmag.jp/wp-content/uploads/2019/04/mazui_R.jpg?w=1200&ssl=1",
+      "sourceUrl": "https://buzzmag.jp/archives/464902",
+      "typingKana": "ごはんをたべる",
+      "explanation": "「飯」の音読みは「ハン」。例文「ご飯を食べる。」の「ご飯」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "めし",
+      "sentence": "昼飯を食べる。",
+      "sentenceHtml": "昼<mark class=\\\"target-kanji\\\">飯</mark>を食べる。",
+      "targetWord": "飯",
+      "kana": "ひるめしをたべる。",
+      "imageUrl": "https://biyou-kenkou.com/wp-content/uploads/2026/05/diet-lunch-healthy-meal-image-1024x539.png",
+      "sourceUrl": "https://biyou-kenkou.com/diet-lunch/",
+      "typingKana": "ひるめしをたべる",
+      "explanation": "「飯」の訓読みは「めし」。例文「昼飯を食べる。」の「飯」で使われます。"
+    }
+  },
+  {
+    "id": "k4_159",
+    "index": 159,
+    "kanji": "飛",
+    "on": {
+      "type": "on",
+      "yomi": "ヒ",
+      "sentence": "飛行機に乗る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">飛行機</mark>に乗る。",
+      "targetWord": "飛行機",
+      "kana": "ひこうきにのる。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20230120/16/yucoral7/a3/9a/j/o0872058015232260697.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/yucoral7/entry-12785221228.html",
+      "typingKana": "ひこうきにのる",
+      "explanation": "「飛」の音読みは「ヒ」。例文「飛行機に乗る。」の「飛行機」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "と",
+      "sentence": "鳥が空を飛ぶ。",
+      "sentenceHtml": "鳥が空を<mark class=\\\"target-kanji\\\">飛ぶ</mark>。",
+      "targetWord": "飛ぶ",
+      "kana": "とりがそらをとぶ。",
+      "imageUrl": "https://global.canon/ja/environment/bird-branch/bird-column/kids2/img/column-kids2-20.jpg",
+      "sourceUrl": "https://global.canon/ja/environment/bird-branch/bird-column/kids2/",
+      "typingKana": "とりがそらをとぶ",
+      "explanation": "「飛」の訓読みは「と」。例文「鳥が空を飛ぶ。」の「飛ぶ」で使われます。"
+    }
+  },
+  {
+    "id": "k4_160",
+    "index": 160,
+    "kanji": "必",
+    "on": {
+      "type": "on",
+      "yomi": "ヒツ",
+      "sentence": "必要なものを用意する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">必要</mark>なものを用意する。",
+      "targetWord": "必要",
+      "kana": "ひつようなものをよういする。",
+      "imageUrl": "https://www.c21japan-west.com/wp-content/uploads/2025/09/05a0c970-8889-4ec7-92a2-76aecb1f19ef-1024x683.jpg",
+      "sourceUrl": "https://www.c21japan-west.com/jotoshiki-temiyage-set/",
+      "typingKana": "ひつようなものをよういする",
+      "explanation": "「必」の音読みは「ヒツ」。例文「必要なものを用意する。」の「必要」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "かなら",
+      "sentence": "宿題を必ず提出する。",
+      "sentenceHtml": "宿題を<mark class=\\\"target-kanji\\\">必ず</mark>提出する。",
+      "targetWord": "必ず",
+      "kana": "しゅくだいをかならずていしゅつする。",
+      "imageUrl": "https://knowt-user-attachments.s3.amazonaws.com/b3e1aaf1-775f-435d-8294-8b843aa5f21e.jpg",
+      "sourceUrl": "https://knowt.com/flashcards/47e3df35-bab4-4b05-b1ba-c96361099712",
+      "typingKana": "しゅくだいをかならずていしゅつする",
+      "explanation": "「必」の訓読みは「かなら」。例文「宿題を必ず提出する。」の「必ず」で使われます。"
+    }
+  },
+  {
+    "id": "k4_161",
+    "index": 161,
+    "kanji": "票",
+    "on": {
+      "type": "on",
+      "yomi": "ヒョウ",
+      "sentence": "投票に行く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">投票</mark>に行く。",
+      "targetWord": "投票",
+      "kana": "とうひょうにいく。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20250708/06/tasloita2014/97/79/j/o1080108015630734389.jpg",
+      "sourceUrl": "https://ameblo.jp/tasloita2014/entry-12915210941.html",
+      "typingKana": "とうひょうにいく",
+      "explanation": "「票」の音読みは「ヒョウ」。例文「投票に行く。」の「投票」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_162",
+    "index": 162,
+    "kanji": "標",
+    "on": {
+      "type": "on",
+      "yomi": "ヒョウ",
+      "sentence": "目標を決める。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">目標</mark>を決める。",
+      "targetWord": "目標",
+      "kana": "もくひょうをきめる。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/295226628/rectangle_large_type_2_386c58794a10f99e00807f04c522cf2f.jpg?width=297&dpr=2&frame=1",
+      "sourceUrl": "https://note.com/yama_pl/m/m8f6f5c3958ed/hashtag/%E6%8C%91%E6%88%A6",
+      "typingKana": "もくひょうをきめる",
+      "explanation": "「標」の音読みは「ヒョウ」。例文「目標を決める。」の「目標」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_163",
+    "index": 163,
+    "kanji": "不",
+    "on": {
+      "type": "on",
+      "yomi": "フ",
+      "sentence": "不安な気持ちになる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">不安</mark>な気持ちになる。",
+      "targetWord": "不安",
+      "kana": "ふあんなきもちになる。",
+      "imageUrl": "https://up.gc-img.net/post_img_web/2015/10/757d67af812c8329c899179aa1d4def5_11076.jpeg",
+      "sourceUrl": "https://girlschannel.net/topics/507966/",
+      "typingKana": "ふあんなきもちになる",
+      "explanation": "「不」の音読みは「フ」。例文「不安な気持ちになる。」の「不安」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_164",
+    "index": 164,
+    "kanji": "夫",
+    "on": {
+      "type": "on",
+      "yomi": "フウ",
+      "sentence": "夫婦で買い物に行く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">夫婦</mark>で買い物に行く。",
+      "targetWord": "夫婦",
+      "kana": "ふうふでかいものにいく。",
+      "imageUrl": "https://rieeriblogai.jp/wp-content/uploads/2026/08/b436da03863ab993da78f71decfeb6b3-1024x536.png",
+      "sourceUrl": "https://rieeriblogai.jp/couple-low-cost-hobbies/",
+      "typingKana": "ふうふでかいものにいく",
+      "explanation": "「夫」の音読みは「フウ」。例文「夫婦で買い物に行く。」の「夫婦」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "おっと",
+      "sentence": "夫が料理を作る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">夫</mark>が料理を作る。",
+      "targetWord": "夫",
+      "kana": "おっとがりょうりをつくる。",
+      "imageUrl": "https://image.dailynewsonline.jp/media/6/d/6d2bbac34d81dd6d65e5f3b5330f9161c9a30d6a_w=845_h=329_t=r_hs=56acc6ad177739dfcac728c617448bad.jpeg",
+      "sourceUrl": "http://dailynewsonline.jp/main-image/2695975/",
+      "typingKana": "おっとがりょうりをつくる",
+      "explanation": "「夫」の訓読みは「おっと」。例文「夫が料理を作る。」の「夫」で使われます。"
+    }
+  },
+  {
+    "id": "k4_165",
+    "index": 165,
+    "kanji": "付",
+    "on": {
+      "type": "on",
+      "yomi": "フ",
+      "sentence": "付近の店を探す。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">付近</mark>の店を探す。",
+      "targetWord": "付近",
+      "kana": "ふきんのみせをさがす。",
+      "imageUrl": "https://help.hcl-software.com/commerce/9.1.0/es/storeseparation/images/StoreLocator-ruby.PNG",
+      "sourceUrl": "https://help.hcl-software.com/commerce/9.1.0/es/storeseparation/tasks/trs_StoreLocator-rubystore.html",
+      "typingKana": "ふきんのみせをさがす",
+      "explanation": "「付」の音読みは「フ」。例文「付近の店を探す。」の「付近」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "つ",
+      "sentence": "名前を付ける。",
+      "sentenceHtml": "名前を<mark class=\\\"target-kanji\\\">付ける</mark>。",
+      "targetWord": "付ける",
+      "kana": "なまえをつける。",
+      "imageUrl": "https://kanji.reader.bz/images/og/630x630/d67136e366c1f94a2b3a005ae57f1e84.png",
+      "sourceUrl": "https://www.reader.bz/stroke/more/名前を付ける",
+      "typingKana": "なまえをつける",
+      "explanation": "「付」の訓読みは「つ」。例文「名前を付ける。」の「付ける」で使われます。"
+    }
+  },
+  {
+    "id": "k4_166",
+    "index": 166,
+    "kanji": "府",
+    "on": {
+      "type": "on",
+      "yomi": "フ",
+      "sentence": "府県の名前を覚える。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">府県</mark>の名前を覚える。",
+      "targetWord": "府県",
+      "kana": "ふけんのなまえをおぼえる。",
+      "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/983872adcb1766a1be6ff71d08970d68829724c6.13.2.9.2.gif",
+      "sourceUrl": "https://plaza.rakuten.co.jp/jikuuprint/daclist/",
+      "typingKana": "ふけんのなまえをおぼえる",
+      "explanation": "「府」の音読みは「フ」。例文「府県の名前を覚える。」の「府県」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_167",
+    "index": 167,
+    "kanji": "阜",
+    "on": {
+      "type": "on",
+      "yomi": "ギフ",
+      "sentence": "岐阜県に行く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">岐阜</mark>県に行く。",
+      "targetWord": "岐阜",
+      "kana": "ぎふけんにいく。",
+      "imageUrl": "https://isekai-hitoritabi.com/wp-content/uploads/2022/11/2022-11-03_09h41_26.jpg",
+      "sourceUrl": "https://isekai-hitoritabi.com/ja/gifu-zekkei/",
+      "typingKana": "ぎふけんにいく",
+      "explanation": "「阜」の音読みは「ギフ」。例文「岐阜県に行く。」の「岐阜」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_168",
+    "index": 168,
+    "kanji": "富",
+    "on": {
+      "type": "on",
+      "yomi": "フジ",
+      "sentence": "富士山に登ってみたい。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">富士山</mark>に登ってみたい。",
+      "targetWord": "富士山",
+      "kana": "ふじさんにのぼってみたい。",
+      "imageUrl": "https://up.gc-img.net/post_img_web/2021/03/986ebf11fdd8a70a831e73c45fadbbdb_798.jpeg",
+      "sourceUrl": "https://girlschannel.net/topics/3272477/",
+      "typingKana": "ふじさんにのぼってみたい",
+      "explanation": "「富」の音読みは「フジ」。例文「富士山に登ってみたい。」の「富士山」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "と",
+      "sentence": "お金持ちに富む。",
+      "sentenceHtml": "お金持ちに<mark class=\\\"target-kanji\\\">富む</mark>。",
+      "targetWord": "富む",
+      "kana": "おかねもちにとむ。",
+      "imageUrl": "https://livedoor.blogimg.jp/negigasuki/imgs/d/c/dc802af5.jpg",
+      "sourceUrl": "http://www.negisoku.com/archives/55885601.html",
+      "typingKana": "おかねもちにとむ",
+      "explanation": "「富」の訓読みは「と」。例文「お金持ちに富む。」の「富む」で使われます。"
+    }
+  },
+  {
+    "id": "k4_169",
+    "index": 169,
+    "kanji": "副",
+    "on": {
+      "type": "on",
+      "yomi": "フク",
+      "sentence": "副作用について調べる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">副作用</mark>について調べる。",
+      "targetWord": "副作用",
+      "kana": "ふくさようについてしらべる。",
+      "imageUrl": "https://www.kansen-yakuzaishi.com/wp-content/uploads/2025/10/ChatGPT-Image-2025%E5%B9%B410%E6%9C%8826%E6%97%A5-12_18_03.jpg",
+      "sourceUrl": "https://www.kansen-yakuzaishi.com/%e3%80%90%e8%96%ac%e5%89%a4%e5%b8%ab%e3%81%8c%e8%a7%a3%e8%aa%ac%e3%80%91%e5%ad%90%e3%81%a9%e3%82%82%e3%81%ae%e8%96%ac%e3%80%81%e4%bd%99%e3%81%a3%e3%81%9f%e3%82%89%e3%81%a9%e3%81%86%e3%81%99%e3%82%8b/",
+      "typingKana": "ふくさようについてしらべる",
+      "explanation": "「副」の音読みは「フク」。例文「副作用について調べる。」の「副作用」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_170",
+    "index": 170,
+    "kanji": "兵",
+    "on": {
+      "type": "on",
+      "yomi": "ヘイ",
+      "sentence": "兵隊の歴史を学ぶ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">兵隊</mark>の歴史を学ぶ。",
+      "targetWord": "兵隊",
+      "kana": "へいたいのれきしをまなぶ。",
+      "imageUrl": "https://assets.st-note.com/img/1714704464800-9Ak7dvdyIt.png?width=800",
+      "sourceUrl": "https://note.com/chekosan/n/ne9ce4473a8ab?sub_rt=share_pb",
+      "typingKana": "へいたいのれきしをまなぶ",
+      "explanation": "「兵」の音読みは「ヘイ」。例文「兵隊の歴史を学ぶ。」の「兵隊」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "つわもの",
+      "sentence": "昔の兵が使った道具。",
+      "sentenceHtml": "昔の<mark class=\\\"target-kanji\\\">兵</mark>が使った道具。",
+      "targetWord": "兵",
+      "kana": "むかしのつわものがつかったどうぐ。",
+      "imageUrl": "https://eejanaika.net/wp-content/uploads/2026/10/jidaigeki-knowledge-tools-eyecatch-2026-10-11-640x360.png",
+      "sourceUrl": "https://eejanaika.net/category/trivia/",
+      "typingKana": "むかしのつわものがつかったどうぐ",
+      "explanation": "「兵」の訓読みは「つわもの」。例文「昔の兵が使った道具。」の「兵」で使われます。"
+    }
+  },
+  {
+    "id": "k4_171",
+    "index": 171,
+    "kanji": "別",
+    "on": {
+      "type": "on",
+      "yomi": "ベツ",
+      "sentence": "特別なプレゼントをもらった。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">特別</mark>なプレゼントをもらった。",
+      "targetWord": "特別",
+      "kana": "とくべつなぷれぜんとをもらった。",
+      "imageUrl": "http://okurimonosan.com/wp-content/uploads/2026/02/06862ca7102eb0bcf2496832d2a3fb14.jpeg",
+      "sourceUrl": "https://okurimonosan.com/whitenotdating/",
+      "typingKana": "とくべつなぷれぜんとをもらった",
+      "explanation": "「別」の音読みは「ベツ」。例文「特別なプレゼントをもらった。」の「特別」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "わか",
+      "sentence": "友達と別れる。",
+      "sentenceHtml": "友達と<mark class=\\\"target-kanji\\\">別れる</mark>。",
+      "targetWord": "別れる",
+      "kana": "ともだちとわかれる。",
+      "imageUrl": "https://niboshicyan-blog.com/wp-content/uploads/2026/07/marriage-announcement-friendship-distance.jpg",
+      "sourceUrl": "https://niboshicyan-blog.com/frenemy-marriage-envy/",
+      "typingKana": "ともだちとわかれる",
+      "explanation": "「別」の訓読みは「わか」。例文「友達と別れる。」の「別れる」で使われます。"
+    }
+  },
+  {
+    "id": "k4_172",
+    "index": 172,
+    "kanji": "辺",
+    "on": {
+      "type": "on",
+      "yomi": "ヘン",
+      "sentence": "周辺の地図を見る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">周辺</mark>の地図を見る。",
+      "targetWord": "周辺",
+      "kana": "しゅうへんのちずをみる。",
+      "imageUrl": "https://classroomresources.sydney.jpf.go.jp/jpfmedia/001/201311/52798242475f2.png",
+      "sourceUrl": "https://classroomresources.sydney.jpf.go.jp/resources/directions-around-town/",
+      "typingKana": "しゅうへんのちずをみる",
+      "explanation": "「辺」の音読みは「ヘン」。例文「周辺の地図を見る。」の「周辺」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "あた",
+      "sentence": "この辺りに公園がある。",
+      "sentenceHtml": "この<mark class=\\\"target-kanji\\\">辺り</mark>に公園がある。",
+      "targetWord": "辺り",
+      "kana": "このあたりにこうえんがある。",
+      "imageUrl": "https://trabaja.xyz/wp-content/uploads/2022/08/Directorio-de-parques-cerca-de-mi-ubicacion-en-USA-800x536.jpg.webp",
+      "sourceUrl": "https://trabaja.xyz/parques-cerca-de-mi/",
+      "typingKana": "このあたりにこうえんがある",
+      "explanation": "「辺」の訓読みは「あた」。例文「この辺りに公園がある。」の「辺り」で使われます。"
+    }
+  },
+  {
+    "id": "k4_173",
+    "index": 173,
+    "kanji": "変",
+    "on": {
+      "type": "on",
+      "yomi": "ヘン",
+      "sentence": "変化に気づく。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">変化</mark>に気づく。",
+      "targetWord": "変化",
+      "kana": "へんかにきづく。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/294932945/rectangle_large_type_2_ff1db6de3cf2c34bc52bbb94825fb333.png?width=297&dpr=2&frame=1",
+      "sourceUrl": "https://note.com/calm_parrot2668/archives/2026",
+      "typingKana": "へんかにきづく",
+      "explanation": "「変」の音読みは「ヘン」。例文「変化に気づく。」の「変化」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "か",
+      "sentence": "天気が変わる。",
+      "sentenceHtml": "天気が<mark class=\\\"target-kanji\\\">変わる</mark>。",
+      "targetWord": "変わる",
+      "kana": "てんきがかわる。",
+      "imageUrl": "https://store.coolsaid.com/uploads/20260326/3C/73C392AAC44Ew1200h675.jpeg",
+      "sourceUrl": "https://coolsaid.com/doc_bHRaNjZXVDI3T1RUYmpYcU4wSmNNQT09",
+      "typingKana": "てんきがかわる",
+      "explanation": "「変」の訓読みは「か」。例文「天気が変わる。」の「変わる」で使われます。"
+    }
+  },
+  {
+    "id": "k4_174",
+    "index": 174,
+    "kanji": "便",
+    "on": {
+      "type": "on",
+      "yomi": "ベン",
+      "sentence": "便利な道具を使う。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">便利</mark>な道具を使う。",
+      "targetWord": "便利",
+      "kana": "べんりなどうぐをつかう。",
+      "imageUrl": "https://livedoor.blogimg.jp/tsubusawa/imgs/5/b/5b28e1ef-s.jpg",
+      "sourceUrl": "https://tsubusawa.livedoor.blog/tag/DNA",
+      "typingKana": "べんりなどうぐをつかう",
+      "explanation": "「便」の音読みは「ベン」。例文「便利な道具を使う。」の「便利」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "たよ",
+      "sentence": "手紙を便りにする。",
+      "sentenceHtml": "手紙を<mark class=\\\"target-kanji\\\">便り</mark>にする。",
+      "targetWord": "便り",
+      "kana": "てがみをたよりにする。",
+      "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/f/forReadercs/20230415/20230415131246.jpg",
+      "sourceUrl": "http://chiebukuro.click/23001/",
+      "typingKana": "てがみをたよりにする",
+      "explanation": "「便」の訓読みは「たよ」。例文「手紙を便りにする。」の「便り」で使われます。"
+    }
+  },
+  {
+    "id": "k4_175",
+    "index": 175,
+    "kanji": "包",
+    "on": {
+      "type": "on",
+      "yomi": "ホウ",
+      "sentence": "包装紙で包む。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">包装</mark>紙で包む。",
+      "targetWord": "包装",
+      "kana": "ほうそうしでつつむ。",
+      "imageUrl": "https://www.irie-design.com/img/blog/wrapping-method-steps-photo.jpg",
+      "sourceUrl": "https://www.irie-design.com/blog/wrapping-method-guide.html",
+      "typingKana": "ほうそうしでつつむ",
+      "explanation": "「包」の音読みは「ホウ」。例文「包装紙で包む。」の「包装」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "つつ",
+      "sentence": "プレゼントを包む。",
+      "sentenceHtml": "プレゼントを<mark class=\\\"target-kanji\\\">包む</mark>。",
+      "targetWord": "包む",
+      "kana": "ぷれぜんとをつつむ。",
+      "imageUrl": "https://tanaka-yuki.com/wp-content/uploads/2014/03/wrapping_3.jpg",
+      "sourceUrl": "https://tanaka-yuki.com/spring/post-181/",
+      "typingKana": "ぷれぜんとをつつむ",
+      "explanation": "「包」の訓読みは「つつ」。例文「プレゼントを包む。」の「包む」で使われます。"
+    }
+  },
+  {
+    "id": "k4_176",
+    "index": 176,
+    "kanji": "法",
+    "on": {
+      "type": "on",
+      "yomi": "ホウ",
+      "sentence": "法律を守る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">法律</mark>を守る。",
+      "targetWord": "法律",
+      "kana": "ほうりつをまもる。",
+      "imageUrl": "https://shutten-car.com/assets/image/reason5.png",
+      "sourceUrl": "https://shutten-car.com/",
+      "typingKana": "ほうりつをまもる",
+      "explanation": "「法」の音読みは「ホウ」。例文「法律を守る。」の「法律」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "のり",
+      "sentence": "昔からの法を学ぶ。",
+      "sentenceHtml": "昔からの<mark class=\\\"target-kanji\\\">法</mark>を学ぶ。",
+      "targetWord": "法",
+      "kana": "むかしからののりをまなぶ。",
+      "imageUrl": "https://pit-in-rijyo.co.jp/wordpress/wp-content/uploads/2026/01/picture-today-706x800.jpg",
+      "sourceUrl": "https://pit-in-rijyo.co.jp/cjy_blog/%e5%90%89%e7%94%b0%e6%9d%be%e9%99%b0%e3%81%a8%e3%82%ab%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e5%b1%b1%e5%8f%a3%ef%bc%9a%e5%b1%b1%e5%8f%a3%e7%9c%8c%e3%81%a7%e5%bf%97%e3%82%92%e5%8f%b6%e3%81%88/",
+      "typingKana": "むかしからののりをまなぶ",
+      "explanation": "「法」の訓読みは「のり」。例文「昔からの法を学ぶ。」の「法」で使われます。"
+    }
+  },
+  {
+    "id": "k4_177",
+    "index": 177,
+    "kanji": "望",
+    "on": {
+      "type": "on",
+      "yomi": "ボウ",
+      "sentence": "希望を持つ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">希望</mark>を持つ。",
+      "targetWord": "希望",
+      "kana": "きぼうをもつ。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20260603/10/naga-7221/e8/bc/j/o1024102415789020469.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/naga-7221/page-2.html",
+      "typingKana": "きぼうをもつ",
+      "explanation": "「望」の音読みは「ボウ」。例文「希望を持つ。」の「希望」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "のぞ",
+      "sentence": "星に願いを望む。",
+      "sentenceHtml": "星に願いを<mark class=\\\"target-kanji\\\">望む</mark>。",
+      "targetWord": "望む",
+      "kana": "ほしにねがいをのぞむ。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/302543851/24a34c3f8b9d6d7abcc4a0b90ed5ab34.png?width=432&dpr=2",
+      "sourceUrl": "https://note.com/10211129/m/m93dc996eb197",
+      "typingKana": "ほしにねがいをのぞむ",
+      "explanation": "「望」の訓読みは「のぞ」。例文「星に願いを望む。」の「望む」で使われます。"
+    }
+  },
+  {
+    "id": "k4_178",
+    "index": 178,
+    "kanji": "牧",
+    "on": {
+      "type": "on",
+      "yomi": "ボク",
+      "sentence": "牧場で牛を見る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">牧場</mark>で牛を見る。",
+      "targetWord": "牧場",
+      "kana": "ぼくじょうでうしをみる。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20221005/08/wagamamaoyaji2/5d/76/j/o1078144015184037290.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/wagamamaoyaji2/entry-12767775468.html",
+      "typingKana": "ぼくじょうでうしをみる",
+      "explanation": "「牧」の音読みは「ボク」。例文「牧場で牛を見る。」の「牧場」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "まき",
+      "sentence": "牧で羊を育てる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">牧</mark>で羊を育てる。",
+      "targetWord": "牧",
+      "kana": "まきでひつじをそだてる。",
+      "imageUrl": "https://www.ec-ecorinvillage.com/pic-labo/_DSC9972.jpg",
+      "sourceUrl": "https://www.ec-ecorinvillage.com/SHOP/HY-01.html",
+      "typingKana": "まきでひつじをそだてる",
+      "explanation": "「牧」の訓読みは「まき」。例文「牧で羊を育てる。」の「牧」で使われます。"
+    }
+  },
+  {
+    "id": "k4_179",
+    "index": 179,
+    "kanji": "末",
+    "on": {
+      "type": "on",
+      "yomi": "マツ",
+      "sentence": "末日までに提出する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">末日</mark>までに提出する。",
+      "targetWord": "末日",
+      "kana": "まつじつまでにていしゅつする。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/240073787/rectangle_large_type_2_5d74becf5e0c12e1c44ace891d100ee7.jpeg?width=1280",
+      "sourceUrl": "https://note.com/clever_quail3038/n/n06b37e9acc87",
+      "typingKana": "まつじつまでにていしゅつする",
+      "explanation": "「末」の音読みは「マツ」。例文「末日までに提出する。」の「末日」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "すえ",
+      "sentence": "月の末に旅行する。",
+      "sentenceHtml": "月の<mark class=\\\"target-kanji\\\">末</mark>に旅行する。",
+      "targetWord": "末",
+      "kana": "つきのすえにりょこうする。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20230901/12/lismi/5e/6a/j/o0467040015332524849.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/lismi/entry-12818552043.html",
+      "typingKana": "つきのすえにりょこうする",
+      "explanation": "「末」の訓読みは「すえ」。例文「月の末に旅行する。」の「末」で使われます。"
+    }
+  },
+  {
+    "id": "k4_180",
+    "index": 180,
+    "kanji": "満",
+    "on": {
+      "type": "on",
+      "yomi": "マン",
+      "sentence": "満点を取る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">満点</mark>を取る。",
+      "targetWord": "満点",
+      "kana": "まんてんをとる。",
+      "imageUrl": "https://pds.exblog.jp/pds/1/201112/20/30/c0038230_18331486.jpg",
+      "sourceUrl": "https://y2works.exblog.jp/17226241/",
+      "typingKana": "まんてんをとる",
+      "explanation": "「満」の音読みは「マン」。例文「満点を取る。」の「満点」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "み",
+      "sentence": "水がコップいっぱいに満ちる。",
+      "sentenceHtml": "水がコップいっぱいに<mark class=\\\"target-kanji\\\">満ちる</mark>。",
+      "targetWord": "満ちる",
+      "kana": "みずがこっぷいっぱいにみちる。",
+      "imageUrl": "https://light-blue.net/wp-content/uploads/2026/03/74.png",
+      "sourceUrl": "https://light-blue.net/archives/33325",
+      "typingKana": "みずがこっぷいっぱいにみちる",
+      "explanation": "「満」の訓読みは「み」。例文「水がコップいっぱいに満ちる。」の「満ちる」で使われます。"
+    }
+  },
+  {
+    "id": "k4_181",
+    "index": 181,
+    "kanji": "未",
+    "on": {
+      "type": "on",
+      "yomi": "ミ",
+      "sentence": "未来について考える。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">未来</mark>について考える。",
+      "targetWord": "未来",
+      "kana": "みらいについてかんがえる。",
+      "imageUrl": "https://www.df.design.kyushu-u.ac.jp/wp-content/uploads/2019/07/671266f463401c1248139decb1791fce-768x768.png",
+      "sourceUrl": "https://www.df.design.kyushu-u.ac.jp/greetings/",
+      "typingKana": "みらいについてかんがえる",
+      "explanation": "「未」の音読みは「ミ」。例文「未来について考える。」の「未来」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "いま",
+      "sentence": "未だに答えが分からない。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">未だ</mark>に答えが分からない。",
+      "targetWord": "未だ",
+      "kana": "いまだにこたえがわからない。",
+      "imageUrl": "https://livedoor.blogimg.jp/danseisama/imgs/3/a/3a158e39-s.jpg",
+      "sourceUrl": "https://danseisama.com/archives/47636068.html",
+      "typingKana": "いまだにこたえがわからない",
+      "explanation": "「未」の訓読みは「いま」。例文「未だに答えが分からない。」の「未だ」で使われます。"
+    }
+  },
+  {
+    "id": "k4_182",
+    "index": 182,
+    "kanji": "民",
+    "on": {
+      "type": "on",
+      "yomi": "ミン",
+      "sentence": "国民の生活を守る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">国民</mark>の生活を守る。",
+      "targetWord": "国民",
+      "kana": "こくみんのせいかつをまもる。",
+      "imageUrl": "https://www.january202024.com/wp-content/uploads/2025/12/image-80.png",
+      "sourceUrl": "https://www.january202024.com/2025/12/",
+      "typingKana": "こくみんのせいかつをまもる",
+      "explanation": "「民」の音読みは「ミン」。例文「国民の生活を守る。」の「国民」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "たみ",
+      "sentence": "民の声を聞く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">民</mark>の声を聞く。",
+      "targetWord": "民",
+      "kana": "たみのこえをきく。",
+      "imageUrl": "https://www.komei.or.jp/wp-content/uploads/20190227_11.jpg",
+      "sourceUrl": "https://www.komei.or.jp/komeinews/p23222/",
+      "typingKana": "たみのこえをきく",
+      "explanation": "「民」の訓読みは「たみ」。例文「民の声を聞く。」の「民」で使われます。"
+    }
+  },
+  {
+    "id": "k4_183",
+    "index": 183,
+    "kanji": "無",
+    "on": {
+      "type": "on",
+      "yomi": "ム",
+      "sentence": "無料で参加できる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">無料</mark>で参加できる。",
+      "targetWord": "無料",
+      "kana": "むりょうでさんかできる。",
+      "imageUrl": "https://efex.co.jp/mizuho-nazotoki2026/images/m_muryou.png",
+      "sourceUrl": "https://efex.co.jp/mizuho-nazotoki2026/",
+      "typingKana": "むりょうでさんかできる",
+      "explanation": "「無」の音読みは「ム」。例文「無料で参加できる。」の「無料」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "な",
+      "sentence": "お金が無い。",
+      "sentenceHtml": "お金が<mark class=\\\"target-kanji\\\">無い</mark>。",
+      "targetWord": "無い",
+      "kana": "おかねがない。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20260120/05/choco-danna2/e1/87/p/o1024102415742690107.png?caw=800",
+      "sourceUrl": "https://ameblo.jp/choco-danna2/entry-12960715507.html",
+      "typingKana": "おかねがない",
+      "explanation": "「無」の訓読みは「な」。例文「お金が無い。」の「無い」で使われます。"
+    }
+  },
+  {
+    "id": "k4_184",
+    "index": 184,
+    "kanji": "約",
+    "on": {
+      "type": "on",
+      "yomi": "ヤク",
+      "sentence": "約束を守る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">約束</mark>を守る。",
+      "targetWord": "約束",
+      "kana": "やくそくをまもる。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/281871132/rectangle_large_type_2_0e1255a6f3707111a5357e1fee8569ef.jpg?width=297&dpr=2",
+      "sourceUrl": "https://note.com/yujimorisawa/all",
+      "typingKana": "やくそくをまもる",
+      "explanation": "「約」の音読みは「ヤク」。例文「約束を守る。」の「約束」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_185",
+    "index": 185,
+    "kanji": "勇",
+    "on": {
+      "type": "on",
+      "yomi": "ユウ",
+      "sentence": "勇気を出して発表する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">勇気</mark>を出して発表する。",
+      "targetWord": "勇気",
+      "kana": "ゆうきをだしてはっぴょうする。",
+      "imageUrl": "https://note.lv73.net/wp-content/uploads/2025/06/Courage-512.webp",
+      "sourceUrl": "http://note.lv73.net/courage/",
+      "typingKana": "ゆうきをだしてはっぴょうする",
+      "explanation": "「勇」の音読みは「ユウ」。例文「勇気を出して発表する。」の「勇気」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "いさ",
+      "sentence": "勇む気持ちで出発する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">勇む</mark>気持ちで出発する。",
+      "targetWord": "勇む",
+      "kana": "いさむきもちでしゅっぱつする。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20160624/11/butsuryu-ouendan-yamanet/06/ce/p/t02200147_0710047513680644001.png?caw=800",
+      "sourceUrl": "https://ameblo.jp/butsuryu-ouendan-yamanet/entry-12173858559.html",
+      "typingKana": "いさむきもちでしゅっぱつする",
+      "explanation": "「勇」の訓読みは「いさ」。例文「勇む気持ちで出発する。」の「勇む」で使われます。"
+    }
+  },
+  {
+    "id": "k4_186",
+    "index": 186,
+    "kanji": "要",
+    "on": {
+      "type": "on",
+      "yomi": "ヨウ",
+      "sentence": "重要な話を聞く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">重要</mark>な話を聞く。",
+      "targetWord": "重要",
+      "kana": "じゅうようなはなしをきく。",
+      "imageUrl": "https://sakkora.net/wp-content/uploads/2014/02/WS000128.jpg",
+      "sourceUrl": "https://bewitchingooktours.blogspot.com/2022/04/200-760062.html",
+      "typingKana": "じゅうようなはなしをきく",
+      "explanation": "「要」の音読みは「ヨウ」。例文「重要な話を聞く。」の「重要」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "い",
+      "sentence": "水が要る。",
+      "sentenceHtml": "水が<mark class=\\\"target-kanji\\\">要る</mark>。",
+      "targetWord": "要る",
+      "kana": "みずがいる。",
+      "imageUrl": "https://stat.ameba.jp/user_images/20190519/05/enokingenokingenoking/02/88/j/o0690046014412327506.jpg?caw=800",
+      "sourceUrl": "https://ameblo.jp/enokingenokingenoking/entry-12462293649.html",
+      "typingKana": "みずがいる",
+      "explanation": "「要」の訓読みは「い」。例文「水が要る。」の「要る」で使われます。"
+    }
+  },
+  {
+    "id": "k4_187",
+    "index": 187,
+    "kanji": "養",
+    "on": {
+      "type": "on",
+      "yomi": "ヨウ",
+      "sentence": "栄養のある食事をとる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">栄養</mark>のある食事をとる。",
+      "targetWord": "栄養",
+      "kana": "えいようのあるしょくじをとる。",
+      "imageUrl": "https://ortus-works.jp/wp-content/uploads/2026/09/aicompany-23-768x512.png",
+      "sourceUrl": "https://ortus-works.jp",
+      "typingKana": "えいようのあるしょくじをとる",
+      "explanation": "「養」の音読みは「ヨウ」。例文「栄養のある食事をとる。」の「栄養」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "やしな",
+      "sentence": "花を大切に養う。",
+      "sentenceHtml": "花を大切に<mark class=\\\"target-kanji\\\">養う</mark>。",
+      "targetWord": "養う",
+      "kana": "はなをたいせつにやしなう。",
+      "imageUrl": "https://dpoint.docomo.ne.jp/enq/guide/research/image/20200430/img_05_rank3.jpg",
+      "sourceUrl": "https://dpoint.docomo.ne.jp/enq/guide/research/research20200430.html",
+      "typingKana": "はなをたいせつにやしなう",
+      "explanation": "「養」の訓読みは「やしな」。例文「花を大切に養う。」の「養う」で使われます。"
+    }
+  },
+  {
+    "id": "k4_188",
+    "index": 188,
+    "kanji": "浴",
+    "on": {
+      "type": "on",
+      "yomi": "ヨク",
+      "sentence": "入浴して体を温める。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">入浴</mark>して体を温める。",
+      "targetWord": "入浴",
+      "kana": "にゅうよくしてからだをあたためる。",
+      "imageUrl": "https://harebare.kowa.co.jp/wp/wp-content/uploads/2026/01/onkatu_2-1.jpg",
+      "sourceUrl": "https://harebare.kowa.co.jp/comfort/1198/",
+      "typingKana": "にゅうよくしてからだをあたためる",
+      "explanation": "「浴」の音読みは「ヨク」。例文「入浴して体を温める。」の「入浴」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "あ",
+      "sentence": "シャワーを浴びる。",
+      "sentenceHtml": "シャワーを<mark class=\\\"target-kanji\\\">浴びる</mark>。",
+      "targetWord": "浴びる",
+      "kana": "しゃわーをあびる。",
+      "imageUrl": "https://img.benesse-cms.jp/tamahiyo/item/image/normal/resized/resized_87d924c7-14a2-4c81-824a-d8370a340b8f.jpg",
+      "sourceUrl": "https://st.benesse.ne.jp/ikuji/content/?id=100530",
+      "typingKana": "しゃわーをあびる",
+      "explanation": "「浴」の訓読みは「あ」。例文「シャワーを浴びる。」の「浴びる」で使われます。"
+    }
+  },
+  {
+    "id": "k4_189",
+    "index": 189,
+    "kanji": "利",
+    "on": {
+      "type": "on",
+      "yomi": "リ",
+      "sentence": "利用方法を調べる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">利用</mark>方法を調べる。",
+      "targetWord": "利用",
+      "kana": "りようほうほうをしらべる。",
+      "imageUrl": "https://news.toremaga.com/modules/img/image.php?id=9706775&h=450&w=450",
+      "sourceUrl": "https://news.toremaga.com/release/others/3544701.html",
+      "typingKana": "りようほうほうをしらべる",
+      "explanation": "「利」の音読みは「リ」。例文「利用方法を調べる。」の「利用」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "き",
+      "sentence": "この道具は使い利く。",
+      "sentenceHtml": "この道具は使い<mark class=\\\"target-kanji\\\">利く</mark>。",
+      "targetWord": "利く",
+      "kana": "このどうぐはつかいきく。",
+      "imageUrl": "https://nippon.zaidan.info/seikabutsu/2000/00854/images/063-2.gif",
+      "sourceUrl": "https://nippon.zaidan.info/seikabutsu/2000/00854/contents/063.htm",
+      "typingKana": "このどうぐはつかいきく",
+      "explanation": "「利」の訓読みは「き」。例文「この道具は使い利く。」の「利く」で使われます。"
+    }
+  },
+  {
+    "id": "k4_190",
+    "index": 190,
+    "kanji": "陸",
+    "on": {
+      "type": "on",
+      "yomi": "リク",
+      "sentence": "大陸について学ぶ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">大陸</mark>について学ぶ。",
+      "targetWord": "大陸",
+      "kana": "たいりくについてまなぶ。",
+      "imageUrl": "https://pds.exblog.jp/pds/1/202011/30/06/f0292806_04013630.png",
+      "sourceUrl": "https://bokunosui.exblog.jp/page/9/",
+      "typingKana": "たいりくについてまなぶ",
+      "explanation": "「陸」の音読みは「リク」。例文「大陸について学ぶ。」の「大陸」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "おか",
+      "sentence": "船から陸を見る。",
+      "sentenceHtml": "船から<mark class=\\\"target-kanji\\\">陸</mark>を見る。",
+      "targetWord": "陸",
+      "kana": "ふねからおかをみる。",
+      "imageUrl": "https://rvlife-family.com/wp-content/uploads/2026/05/20260505_083621_web-1536x1152.jpg",
+      "sourceUrl": "https://rvlife-family.com/oki-island-2026-part2/",
+      "typingKana": "ふねからおかをみる",
+      "explanation": "「陸」の訓読みは「おか」。例文「船から陸を見る。」の「陸」で使われます。"
+    }
+  },
+  {
+    "id": "k4_191",
+    "index": 191,
+    "kanji": "良",
+    "on": {
+      "type": "on",
+      "yomi": "リョウ",
+      "sentence": "良好な関係を築く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">良好</mark>な関係を築く。",
+      "targetWord": "良好",
+      "kana": "りょうこうなかんけいをきずく。",
+      "imageUrl": "https://kokoronokaika.com/wp-content/uploads/2026/02/header_img_20260225_171434.png",
+      "sourceUrl": "https://kokoronokaika.com/married-couples-holding-hands/",
+      "typingKana": "りょうこうなかんけいをきずく",
+      "explanation": "「良」の音読みは「リョウ」。例文「良好な関係を築く。」の「良好」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "よ",
+      "sentence": "良い天気だ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">良い</mark>天気だ。",
+      "targetWord": "良い",
+      "kana": "よいてんきだ。",
+      "imageUrl": "https://www.nichibeieigo.jp/kotsukotsu/wordpress/wp-content/uploads/2018/07/%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81.jpg",
+      "sourceUrl": "https://kudkuda.web.app/%E4%BB%8A%E6%97%A5-%E3%81%AE-%E5%A4%A9%E6%B0%97-%E3%81%AF-%E3%81%AA%E3%82%93%E3%81%A7-%E3%81%99%E3%81%8B-%E8%8B%B1%E8%AA%9E.html",
+      "typingKana": "よいてんきだ",
+      "explanation": "「良」の訓読みは「よ」。例文「良い天気だ。」の「良い」で使われます。"
+    }
+  },
+  {
+    "id": "k4_192",
+    "index": 192,
+    "kanji": "料",
+    "on": {
+      "type": "on",
+      "yomi": "リョウ",
+      "sentence": "料理を作る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">料理</mark>を作る。",
+      "targetWord": "料理",
+      "kana": "りょうりをつくる。",
+      "imageUrl": "https://saiyo.page/_next/image?url=https%3A%2F%2Fimage-cdn.baitoru.com%2Fimages_job_BS%2F344164%2Fnitibeicookakaiwa2.jpg&w=640&q=75",
+      "sourceUrl": "https://saiyo.page/344164/job/160740462",
+      "typingKana": "りょうりをつくる",
+      "explanation": "「料」の音読みは「リョウ」。例文「料理を作る。」の「料理」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_193",
+    "index": 193,
+    "kanji": "量",
+    "on": {
+      "type": "on",
+      "yomi": "リョウ",
+      "sentence": "数量を確認する。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">数量</mark>を確認する。",
+      "targetWord": "数量",
+      "kana": "すうりょうをかくにんする。",
+      "imageUrl": "https://ichiba.faq.rakuten.net/servlet/rtaImage?eid=kaJJ40000000BNF&feoid=00N7F00000TALXv&refid=0EMJ4000003oZ66",
+      "sourceUrl": "https://ichiba.faq.rakuten.net/detail/000006743",
+      "typingKana": "すうりょうをかくにんする",
+      "explanation": "「量」の音読みは「リョウ」。例文「数量を確認する。」の「数量」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "はか",
+      "sentence": "水の量を量る。",
+      "sentenceHtml": "水の量を<mark class=\\\"target-kanji\\\">量る</mark>。",
+      "targetWord": "量る",
+      "kana": "みずのりょうをはかる。",
+      "imageUrl": "https://kokisin.com/wp-content/uploads/2026/01/ChatGPT-Image-2026年1月29日-19_47_11.png",
+      "sourceUrl": "https://kokisin.com/cc-ml-chigai/",
+      "typingKana": "みずのりょうをはかる",
+      "explanation": "「量」の訓読みは「はか」。例文「水の量を量る。」の「量る」で使われます。"
+    }
+  },
+  {
+    "id": "k4_194",
+    "index": 194,
+    "kanji": "輪",
+    "on": {
+      "type": "on",
+      "yomi": "リン",
+      "sentence": "車輪が回る。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">車輪</mark>が回る。",
+      "targetWord": "車輪",
+      "kana": "しゃりんがまわる。",
+      "imageUrl": "https://gazoo.com/pages/contents/article/daily/200421/05.jpg",
+      "sourceUrl": "https://gazoo.com/column/daily/20/04/21/",
+      "typingKana": "しゃりんがまわる",
+      "explanation": "「輪」の音読みは「リン」。例文「車輪が回る。」の「車輪」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "わ",
+      "sentence": "大きな輪を作る。",
+      "sentenceHtml": "大きな<mark class=\\\"target-kanji\\\">輪</mark>を作る。",
+      "targetWord": "輪",
+      "kana": "おおきなわをつくる。",
+      "imageUrl": "https://mahalo.saitama.jp/wp-content/uploads/2024/08/IMG_2993.jpeg",
+      "sourceUrl": "https://mahalo.saitama.jp/2024/08/31/%e3%81%8a%e3%81%9b%e3%82%93%e3%81%b9%e3%81%84%e3%82%92%e7%84%bc%e3%81%93%e3%81%86%f0%9f%8d%98/",
+      "typingKana": "おおきなわをつくる",
+      "explanation": "「輪」の訓読みは「わ」。例文「大きな輪を作る。」の「輪」で使われます。"
+    }
+  },
+  {
+    "id": "k4_195",
+    "index": 195,
+    "kanji": "類",
+    "on": {
+      "type": "on",
+      "yomi": "ルイ",
+      "sentence": "種類を分ける。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">種類</mark>を分ける。",
+      "targetWord": "種類",
+      "kana": "しゅるいをわける。",
+      "imageUrl": "https://littletogreatscientists.com/wp-content/uploads/2021/01/110-1.jpg",
+      "sourceUrl": "https://littletogreatscientists.com/product/how-are-organisms-classified/",
+      "typingKana": "しゅるいをわける",
+      "explanation": "「類」の音読みは「ルイ」。例文「種類を分ける。」の「種類」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "たぐい",
+      "sentence": "同じ類の動物を集める。",
+      "sentenceHtml": "同じ<mark class=\\\"target-kanji\\\">類</mark>の動物を集める。",
+      "targetWord": "類",
+      "kana": "おなじたぐいのどうぶつをあつめる。",
+      "imageUrl": "https://mjy.bbalancers.com/wp-content/uploads/2025/08/export-2.png",
+      "sourceUrl": "https://mjy.bbalancers.com/2025/08/15/%e7%94%bb%e5%83%8f%ef%bc%88%e5%86%99%e7%9c%9f%ef%bc%89%e6%94%be%e3%82%8a%e8%be%bc%e3%81%bf%e3%82%b7%e3%83%b3%e3%83%97%e3%83%ab%e8%a1%a8/",
+      "typingKana": "おなじたぐいのどうぶつをあつめる",
+      "explanation": "「類」の訓読みは「たぐい」。例文「同じ類の動物を集める。」の「類」で使われます。"
+    }
+  },
+  {
+    "id": "k4_196",
+    "index": 196,
+    "kanji": "令",
+    "on": {
+      "type": "on",
+      "yomi": "レイ",
+      "sentence": "命令を聞く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">命令</mark>を聞く。",
+      "targetWord": "命令",
+      "kana": "めいれいをきく。",
+      "imageUrl": "https://lh3.googleusercontent.com/ZgdzKs2qQg1ET57NjBP7QN_nntQvgxxPeSq5xpvb4dX0s2mo1XGTz6Y7RCUIH15WkXf_UQJB8CmrNOzhdeUdKW2vKT6vuA3Tjw=s1200-rw",
+      "sourceUrl": "https://teller.jp/se/23kgxr5fr5za9-8282026390",
+      "typingKana": "めいれいをきく",
+      "explanation": "「令」の音読みは「レイ」。例文「命令を聞く。」の「命令」で使われます。"
+    },
+    "kun": null
+  },
+  {
+    "id": "k4_197",
+    "index": 197,
+    "kanji": "冷",
+    "on": {
+      "type": "on",
+      "yomi": "レイ",
+      "sentence": "冷蔵庫に食べ物を入れる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">冷蔵庫</mark>に食べ物を入れる。",
+      "targetWord": "冷蔵庫",
+      "kana": "れいぞうこにたべものをいれる。",
+      "imageUrl": "https://cdn-newsphere.jp/wp-content/uploads/2022/03/refrigerator.jpg",
+      "sourceUrl": "https://newsphere.jp/list/foods_not_to_store_in_fridge_2/",
+      "typingKana": "れいぞうこにたべものをいれる",
+      "explanation": "「冷」の音読みは「レイ」。例文「冷蔵庫に食べ物を入れる。」の「冷蔵庫」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "つめ",
+      "sentence": "水が冷たい。",
+      "sentenceHtml": "水が<mark class=\\\"target-kanji\\\">冷たい</mark>。",
+      "targetWord": "冷たい",
+      "kana": "みずがつめたい。",
+      "imageUrl": "https://powerreserve.jp/wp-content/uploads/2026/06/Untitled-design-2-1.png",
+      "sourceUrl": "https://powerreserve.jp/beauty/%E5%86%B7%E3%81%9F%E3%81%84%E9%A3%B2%E3%81%BF%E7%89%A9%E3%82%92%E9%A3%B2%E3%81%BF%E3%81%99%E3%81%8E%E3%82%8B%E5%BD%B1%E9%9F%BF/",
+      "typingKana": "みずがつめたい",
+      "explanation": "「冷」の訓読みは「つめ」。例文「水が冷たい。」の「冷たい」で使われます。"
+    }
+  },
+  {
+    "id": "k4_198",
+    "index": 198,
+    "kanji": "例",
+    "on": {
+      "type": "on",
+      "yomi": "レイ",
+      "sentence": "例文をノートに書く。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">例文</mark>をノートに書く。",
+      "targetWord": "例文",
+      "kana": "れいぶんをのーとにかく。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/147138415/rectangle_large_type_2_4e76a6df58cbe9cd03d8a5e74aeacbb9.png?width=1200",
+      "sourceUrl": "https://note.com/chocolate_human/n/n14dea8bccb27",
+      "typingKana": "れいぶんをのーとにかく",
+      "explanation": "「例」の音読みは「レイ」。例文「例文をノートに書く。」の「例文」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "たと",
+      "sentence": "具体的な例に例える。",
+      "sentenceHtml": "具体的な例に<mark class=\\\"target-kanji\\\">例える</mark>。",
+      "targetWord": "例える",
+      "kana": "ぐたいてきなれいにたとえる。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/243792930/rectangle_large_type_2_8766b4290d3dc18344b03bd5e2925ab4.jpeg?width=1280",
+      "sourceUrl": "https://note.com/shunsizin/n/n9bfbfd872b24",
+      "typingKana": "ぐたいてきなれいにたとえる",
+      "explanation": "「例」の訓読みは「たと」。例文「具体的な例に例える。」の「例える」で使われます。"
+    }
+  },
+  {
+    "id": "k4_199",
+    "index": 199,
+    "kanji": "連",
+    "on": {
+      "type": "on",
+      "yomi": "レン",
+      "sentence": "連絡をする。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">連絡</mark>をする。",
+      "targetWord": "連絡",
+      "kana": "れんらくをする。",
+      "imageUrl": "https://nandemosiraberu.com/wp-content/uploads/2025/02/2-e1739153757448.png",
+      "sourceUrl": "https://nandemosiraberu.com/174.html",
+      "typingKana": "れんらくをする",
+      "explanation": "「連」の音読みは「レン」。例文「連絡をする。」の「連絡」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "つ",
+      "sentence": "友達を連れる。",
+      "sentenceHtml": "友達を<mark class=\\\"target-kanji\\\">連れる</mark>。",
+      "targetWord": "連れる",
+      "kana": "ともだちをつれる。",
+      "imageUrl": "https://livedoor.blogimg.jp/negigasuki/imgs/f/f/ffaacd56.jpg",
+      "sourceUrl": "http://www.negisoku.com/tag/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93?p=6",
+      "typingKana": "ともだちをつれる",
+      "explanation": "「連」の訓読みは「つ」。例文「友達を連れる。」の「連れる」で使われます。"
+    }
+  },
+  {
+    "id": "k4_200",
+    "index": 200,
+    "kanji": "老",
+    "on": {
+      "type": "on",
+      "yomi": "ロウ",
+      "sentence": "老人に席をゆずる。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">老人</mark>に席をゆずる。",
+      "targetWord": "老人",
+      "kana": "ろうじんにせきをゆずる。",
+      "imageUrl": "https://media.ragnet.co.jp/img/1200__png__/files/2025/05/90282aa2a4b3b4b415330073a9226e8a.webp",
+      "sourceUrl": "https://www.ragnet.co.jp/schoolchildren-trick-riddle",
+      "typingKana": "ろうじんにせきをゆずる",
+      "explanation": "「老」の音読みは「ロウ」。例文「老人に席をゆずる。」の「老人」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "お",
+      "sentence": "年を老いる。",
+      "sentenceHtml": "年を<mark class=\\\"target-kanji\\\">老いる</mark>。",
+      "targetWord": "老いる",
+      "kana": "としをおいる。",
+      "imageUrl": "http://www.oyoen.com/wp-content/uploads/2017/05/IMG_04771-750x563.jpg",
+      "sourceUrl": "http://www.oyoen.com/23762.html",
+      "typingKana": "としをおいる",
+      "explanation": "「老」の訓読みは「お」。例文「年を老いる。」の「老いる」で使われます。"
+    }
+  },
+  {
+    "id": "k4_201",
+    "index": 201,
+    "kanji": "労",
+    "on": {
+      "type": "on",
+      "yomi": "ロウ",
+      "sentence": "労働の大切さを学ぶ。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">労働</mark>の大切さを学ぶ。",
+      "targetWord": "労働",
+      "kana": "ろうどうのたいせつさをまなぶ。",
+      "imageUrl": "https://virginia.images.ogqcorp.com/images/44bf/preview/480xNone/523076.jpg",
+      "sourceUrl": "https://www.ogqbackgrounds.com/en/tag/Pail",
+      "typingKana": "ろうどうのたいせつさをまなぶ",
+      "explanation": "「労」の音読みは「ロウ」。例文「労働の大切さを学ぶ。」の「労働」で使われます。"
+    },
+    "kun": {
+      "type": "kun",
+      "yomi": "いたわ",
+      "sentence": "友達を労る。",
+      "sentenceHtml": "友達を<mark class=\\\"target-kanji\\\">労る</mark>。",
+      "targetWord": "労る",
+      "kana": "ともだちをいたわる。",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/japanese-reader-1c2a5.appspot.com/o/articleImages%2FHL3TOaPh36KJA7FPuuh4.jpg?alt=media",
+      "sourceUrl": "https://japps.top/articles/9NrBBQ8iJXnImbva0vF6",
+      "typingKana": "ともだちをいたわる",
+      "explanation": "「労」の訓読みは「いたわ」。例文「友達を労る。」の「労る」で使われます。"
+    }
+  },
+  {
+    "id": "k4_202",
+    "index": 202,
+    "kanji": "録",
+    "on": {
+      "type": "on",
+      "yomi": "ロク",
+      "sentence": "記録をノートに残す。",
+      "sentenceHtml": "<mark class=\\\"target-kanji\\\">記録</mark>をノートに残す。",
+      "targetWord": "記録",
+      "kana": "きろくをのーとにのこす。",
+      "imageUrl": "https://straightpress.jp/wp-content/uploads/2020/03/0313s2-1.jpg",
+      "sourceUrl": "https://getnews.jp/archives/2452446",
+      "typingKana": "きろくをのーとにのこす",
+      "explanation": "「録」の音読みは「ロク」。例文「記録をノートに残す。」の「記録」で使われます。"
+    },
+    "kun": null
+  }
+]

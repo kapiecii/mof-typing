@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>もふタイ！ - 小学4年生の漢字タイピング＆エゾリス育成ゲーム</title>
+  <link rel="stylesheet" href="./css/style.css" />
+  <link rel="stylesheet" href="./css/game.css" />
+  <link rel="stylesheet" href="./css/character.css" />
+  <link rel="stylesheet" href="./css/animation.css" />
+</head>
+<body>
+  <!-- 共通ヘッダー -->
+  <header class="app-header">
+    <div class="brand-area">
+      <button type="button" class="brand-logo" id="brand-home-btn" title="ホームへ戻る">
+        <span>🐿️ もふタイ！</span>
+        <span class="brand-badge">小4漢字 全202字</span>
+      </button>
+    </div>
+    <div class="header-right">
+      <div class="level-pill" id="header-level">Lv.1 もふまる</div>
+      <div class="point-pill">
+        <span class="acorn-icon">🌰</span>
+        <span id="header-points">50 pt</span>
+      </div>
+      <button type="button" class="btn btn-sub btn-sm" id="header-home-btn" style="display: none;">
+        🏠 ホームへ戻る
+      </button>
+      <button type="button" class="btn btn-sub btn-sm" id="header-settings-btn">
+        ⚙️ 設定
+      </button>
+    </div>
+  </header>
+
+  <main class="app-main">
+    <!-- 01. ホーム画面 -->
+    <section id="screen-home" class="screen active">
+      <div class="two-col-home">
+        <!-- 左カラム：エゾリスの森のお部屋＆回し車 Canvas -->
+        <div class="mofu-card" style="display: flex; flex-direction: column; justify-content: space-between;">
+          <div class="canvas-stage-wrap">
+            <div class="character-speech-bubble">
+              <span id="home-speech-text">今日もいっしょに回し車で走ろう！🌰</span>
+              <span style="font-size: 0.78rem; color: var(--text-muted);">（クリックでなでる）</span>
+            </div>
+            <canvas id="home-canvas" class="mofu-canvas" width="600" height="420"></canvas>
+          </div>
+          <div class="char-status-strip">
+            <div>
+              <strong id="home-char-name" style="font-size: 1.2rem;">もふまる</strong>
+              <span id="home-char-level" style="margin-left: 8px; color: var(--main-green-dark); font-weight: 900;">Lv.1</span>
+            </div>
+            <div style="flex: 1; max-width: 280px;">
+              <div style="display: flex; justify-content: space-between; font-size: 0.78rem; font-weight: 800; margin-bottom: 3px;">
+                <span>つぎのレベルまで</span>
+                <span id="home-exp-text">0 / 80 EXP</span>
+              </div>
+              <div class="exp-bar-wrap">
+                <div id="home-exp-bar" class="exp-bar-fill" style="width: 0%;"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 右カラム：学習状況＆メインメニュー -->
+        <div style="display: flex; flex-direction: column; gap: 18px; justify-content: space-between;">
+          <div class="mofu-card">
+            <h2 class="mofu-card-title">🌲 森のお部屋・学習きろく</h2>
+            <p style="font-size: 0.92rem; color: var(--text-muted); font-weight: 700;">
+              例文とイメージ画像を見ながらタイピングすると、エゾリスが回し車を回してポイントがたまるよ！
+            </p>
+            <div class="stats-grid">
+              <div class="stat-box">
+                <div class="stat-label">習得した漢字</div>
+                <div class="stat-value" id="home-stat-mastered">0 / 202</div>
+              </div>
+              <div class="stat-box">
+                <div class="stat-label">今日のクリア数</div>
+                <div class="stat-value" id="home-stat-today">0 問</div>
+              </div>
+              <div class="stat-box">
+                <div class="stat-label">もっている木の実</div>
+                <div class="stat-value" id="home-stat-points">50 pt</div>
+              </div>
+            </div>
+
+            <button type="button" class="btn btn-primary btn-xl" id="home-start-btn" style="margin-top: 8px;">
+              ⌨️ 学習をはじめる（モードをえらぶ）
+            </button>
+            <button type="button" class="btn btn-green" id="home-Quick5-btn" style="width: 100%; margin-top: 12px;">
+              ⚡ すぐにはじめる（おすすめ5問）
+            </button>
+          </div>
+
+          <div class="mofu-card">
+            <h2 class="mofu-card-title">🌰 おせわ・漢字ずかん</h2>
+            <div class="home-menu-grid">
+              <button type="button" class="btn btn-sub" id="home-care-btn" style="padding: 18px;">
+                🥜 エゾリスを育てる・お部屋
+              </button>
+              <button type="button" class="btn btn-sub" id="home-dict-btn" style="padding: 18px;">
+                📖 小4漢字ずかん（全202字）
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 02. 学習モード選択画面 -->
+    <section id="screen-mode" class="screen">
+      <div class="mofu-card">
+        <h2 class="mofu-card-title" style="font-size: 1.45rem;">🎯 学習モードと出題条件をえらぼう</h2>
+
+        <div class="mode-cards-grid">
+          <button type="button" class="mode-option-card selected" data-mode="new">
+            <div class="mode-icon">🌱</div>
+            <div class="mode-title">新しい漢字を学ぶ</div>
+            <div class="mode-desc">まだ練習していない漢字や、練習回数が少ない漢字から優先して出題します。</div>
+          </button>
+          <button type="button" class="mode-option-card" data-mode="review">
+            <div class="mode-icon">🔄</div>
+            <div class="mode-title">復習する</div>
+            <div class="mode-desc">これまでにミスがあった問題や、まだ習得していない問題を優先して練習します。</div>
+          </button>
+          <button type="button" class="mode-option-card" data-mode="random">
+            <div class="mode-icon">🎲</div>
+            <div class="mode-title">ランダムチャレンジ</div>
+            <div class="mode-desc">小学4年生の全202漢字（341例文）からランダムに出題します。</div>
+          </button>
+        </div>
+
+        <div class="settings-row-group">
+          <div class="stat-box" style="text-align: left;">
+            <div class="stat-label">📝 問題数</div>
+            <div class="setting-pill-group">
+              <button type="button" class="choice-btn selected" data-count-choice="5">5問</button>
+              <button type="button" class="choice-btn" data-count-choice="10">10問</button>
+              <button type="button" class="choice-btn" data-count-choice="20">20問</button>
+            </div>
+          </div>
+
+          <div class="stat-box" style="text-align: left;">
+            <div class="stat-label">🗣️ 読み方</div>
+            <div class="setting-pill-group">
+              <button type="button" class="choice-btn selected" data-reading-choice="both">両方</button>
+              <button type="button" class="choice-btn" data-reading-choice="on">音読み</button>
+              <button type="button" class="choice-btn" data-reading-choice="kun">訓読み</button>
+            </div>
+          </div>
+
+          <div class="stat-box" style="text-align: left;">
+            <div class="stat-label">🔥 難易度</div>
+            <div class="setting-pill-group">
+              <button type="button" class="choice-btn selected" data-diff-choice="normal">通常</button>
+              <button type="button" class="choice-btn" data-diff-choice="challenge">チャレンジ(1.5倍)</button>
+            </div>
+          </div>
+        </div>
+
+        <div style="display: flex; justify-content: center; gap: 16px;">
+          <button type="button" class="btn btn-primary btn-xl" id="mode-start-btn" style="max-width: 440px;">
+            🚀 タイピングスタート！
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 03. タイピング画面 (左右2カラム: 左40% エゾリス＆回し車Canvas / 右60% 漢字・iframe画像・例文入力) -->
+    <section id="screen-typing" class="screen">
+      <div class="typing-top-bar">
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <span class="metric-chip" id="typing-q-progress">問題 1 / 5</span>
+          <button type="button" class="btn btn-sub btn-sm" id="typing-speak-btn" title="例文を読み上げる">
+            🔊 読み上げ
+          </button>
+          <button type="button" class="btn btn-sub btn-sm" id="typing-retry-sentence-btn" title="この問題を最初から打ち直す">
+            ↺ やり直す
+          </button>
+        </div>
+        <div class="typing-metrics">
+          <span class="metric-chip">正確率: <strong id="typing-accuracy">100%</strong></span>
+          <span class="metric-chip">コンボ: <strong id="typing-combo">0</strong></span>
+          <span class="metric-chip">獲得: <strong id="typing-points">0 pt</strong></span>
+        </div>
+      </div>
+
+      <div class="two-col-typing">
+        <!-- 左側 約40%: エゾリスと回し車 Canvas -->
+        <div class="mofu-card" style="display: flex; flex-direction: column; justify-content: space-between; padding: 16px;">
+          <div class="canvas-stage-wrap" style="height: 100%; display: flex; flex-direction: column; justify-content: center;">
+            <div class="character-speech-bubble">
+              <span id="typing-speech-bubble">ローマ字でキーをおしてね！エゾリスが走るよ🐿️</span>
+            </div>
+            <canvas id="typing-canvas" class="mofu-canvas" width="520" height="430"></canvas>
+            <div class="combo-float-badge" id="typing-combo-badge">0 COMBO!</div>
+          </div>
+        </div>
+
+        <!-- 右側 約60%: 対象漢字 + iframeイメージ画像 + 例文＆ローマ字入力 -->
+        <div style="display: flex; flex-direction: column; gap: 14px;">
+          <!-- 上段：対象漢字ボックス ＆ 例文イメージ画像(iframe埋め込み) -->
+          <div class="mofu-card" style="padding: 16px;">
+            <div class="kanji-image-showcase" style="margin-bottom: 0;">
+              <!-- 入力する漢字・音訓区分 -->
+              <div class="target-kanji-box">
+                <span class="reading-type-badge on" id="typing-reading-badge">音読み</span>
+                <div class="big-kanji-char" id="typing-kanji-char">愛</div>
+                <div class="kanji-yomi-text" id="typing-kanji-yomi">読み：アイ</div>
+              </div>
+
+              <!-- 例文のイメージ画像 (iframe埋め込み) -->
+              <div class="example-image-card">
+                <div class="iframe-header-bar">
+                  <span>🖼️ 例文のイメージ画像（iframe埋め込み）</span>
+                  <button type="button" class="btn btn-sub btn-sm" id="typing-toggle-iframe-mode" style="padding: 2px 8px; font-size: 0.72rem;">
+                    🌐 URL直接iframe表示
+                  </button>
+                </div>
+                <div class="iframe-wrapper">
+                  <iframe
+                    id="typing-image-iframe"
+                    class="example-image-iframe"
+                    title="例文のイメージ画像"
+                    referrerpolicy="no-referrer"
+                  ></iframe>
+                </div>
+                <div class="iframe-source-bar">
+                  <span id="typing-image-source">出典リンク</span>
+                  <span>漢字とイメージを結びつけよう！</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 下段：タイピング対象の例文＆ローマ字入力ガイド -->
+          <div class="mofu-card" style="padding: 18px;">
+            <div class="typing-prompt-box">
+              <div class="sentence-kana-guide" id="typing-kana-guide">
+                かぞくへのあいじょうをたいせつにする
+              </div>
+              <div class="sentence-main-text" id="typing-sentence-html">
+                家族への<mark class="target-kanji">愛情</mark>を大切にする。
+              </div>
+              <div class="romaji-box" id="typing-romaji-box">
+                <span class="romaji-current">k</span><span class="romaji-upcoming">azokuhenoaijouwotaisetsunisuru</span>
+              </div>
+              <div class="romaji-alt-hint" id="typing-alt-hint">
+                💡 shi / si、chi / ti、tsu / tu など複数のローマ字入力に対応しています
+              </div>
+            </div>
+
+            <div class="typing-footer-controls">
+              <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 700;">
+                ※日本語変換（IME）はオフ（半角英数）にしてキーを入力してね
+              </div>
+              <button type="button" class="btn btn-primary" id="typing-next-btn" style="display: none;">
+                つぎの問題へ (Enter) ➔
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 04. 結果画面 -->
+    <section id="screen-result" class="screen">
+      <div class="two-col-home">
+        <div class="mofu-card">
+          <div class="canvas-stage-wrap">
+            <div class="character-speech-bubble">
+              <span>やったね！最後までよくがんばったよ！🌰✨</span>
+            </div>
+            <canvas id="result-canvas" class="mofu-canvas" width="560" height="380"></canvas>
+          </div>
+          <div id="res-levelup-banner" style="margin-top: 12px; background: var(--accent-orange-light); border: 2px solid var(--accent-orange); border-radius: 14px; padding: 12px; text-align: center; font-weight: 900; font-size: 1.1rem;">
+            🐿️ レベル情報
+          </div>
+        </div>
+
+        <div class="mofu-card" style="display: flex; flex-direction: column; justify-content: space-between; gap: 14px;">
+          <div>
+            <h2 class="mofu-card-title" style="font-size: 1.45rem;">🏆 学習けっか発表！</h2>
+            <div class="stats-grid">
+              <div class="stat-box">
+                <div class="stat-label">獲得ポイント</div>
+                <div class="stat-value" id="res-points" style="color: var(--accent-orange-dark);">+0 pt</div>
+              </div>
+              <div class="stat-box">
+                <div class="stat-label">獲得経験値</div>
+                <div class="stat-value" id="res-exp" style="color: var(--main-green-dark);">+0 EXP</div>
+              </div>
+              <div class="stat-box">
+                <div class="stat-label">クリア問題数</div>
+                <div class="stat-value" id="res-cleared">5 / 5 問</div>
+              </div>
+            </div>
+            <div class="stats-grid" style="grid-template-columns: 1fr 1fr;">
+              <div class="stat-box">
+                <div class="stat-label">正確率</div>
+                <div class="stat-value" id="res-accuracy">100%</div>
+              </div>
+              <div class="stat-box">
+                <div class="stat-label">最大コンボ</div>
+                <div class="stat-value" id="res-combo">0 回</div>
+              </div>
+            </div>
+
+            <div style="margin-top: 12px; background: var(--sub-leaf-light); border-radius: 12px; padding: 10px 14px;">
+              <div style="font-size: 0.82rem; color: var(--main-green-dark); font-weight: 800;">🌱 新しく学んだ漢字</div>
+              <div id="res-new-kanji" style="font-size: 1.2rem; font-weight: 900; margin-top: 2px;">愛 ・ 案</div>
+            </div>
+
+            <div style="margin-top: 12px;">
+              <div style="font-size: 0.9rem; font-weight: 900;">📝 復習するとさらにバッチリな問題</div>
+              <div id="res-review-list" style="max-height: 170px; overflow-y: auto;"></div>
+            </div>
+          </div>
+
+          <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+            <button type="button" class="btn btn-primary" id="res-replay-btn" style="flex: 1;">
+              🔁 もう一度遊ぶ
+            </button>
+            <button type="button" class="btn btn-green" id="res-review-btn" style="flex: 1;">
+              🎯 間違えた問題を復習する
+            </button>
+            <button type="button" class="btn btn-sub" id="res-home-btn">
+              🏠 ホームに戻る
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 05. 育成画面 -->
+    <section id="screen-care" class="screen">
+      <div class="two-col-care">
+        <!-- 左側：お部屋とエゾリス Canvas -->
+        <div class="mofu-card">
+          <div class="canvas-stage-wrap">
+            <div class="character-speech-bubble">
+              <span id="care-speech-bubble">森のお部屋へようこそ！木の実をくれると嬉しいな🌰</span>
+            </div>
+            <canvas id="care-canvas" class="mofu-canvas" width="560" height="400"></canvas>
+          </div>
+          <div class="char-status-strip">
+            <div>
+              <strong id="care-char-level" style="font-size: 1.15rem;">Lv.1 もふまる</strong>
+              <div style="font-size: 0.84rem; color: var(--text-muted); font-weight: 700;">
+                <span id="care-mood-text">ごきげん：95% ♪</span> ／ <span id="care-fed-count">あげた木の実：0こ</span>
+              </div>
+            </div>
+            <div style="width: 190px;">
+              <div style="font-size: 0.75rem; font-weight: 800; text-align: right;" id="care-exp-text">0 / 80 EXP</div>
+              <div class="exp-bar-wrap">
+                <div id="care-exp-bar" class="exp-bar-fill" style="width: 0%;"></div>
+              </div>
+            </div>
+          </div>
+          <div style="display: flex; gap: 8px; margin-top: 12px; flex-wrap: wrap;">
+            <button type="button" class="btn btn-sub btn-sm" data-care-pose="happy">✨ よろこぶ</button>
+            <button type="button" class="btn btn-sub btn-sm" data-care-pose="run">🛞 回し車で走る</button>
+            <button type="button" class="btn btn-sub btn-sm" data-care-pose="sleep">💤 お昼寝する</button>
+            <button type="button" class="btn btn-sub btn-sm" data-care-pose="idle">🐿️ 待機</button>
+          </div>
+        </div>
+
+        <!-- 右側：餌やり・着せ替え・お部屋カスタマイズ -->
+        <div style="display: flex; flex-direction: column; gap: 16px;">
+          <div class="mofu-card">
+            <h3 class="mofu-card-title">🌰 ごはん・おやつをあげる</h3>
+            <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 10px; font-weight: 700;">
+              ※お休みしてもエゾリスが弱ったりお腹を空かせて元気がなくなったりしない安心設計です。
+            </p>
+            <div class="shop-grid" id="care-food-list"></div>
+          </div>
+
+          <div class="mofu-card">
+            <h3 class="mofu-card-title">🎀 帽子・アクセサリーの着せ替え</h3>
+            <div class="shop-grid" id="care-hat-list"></div>
+          </div>
+
+          <div class="mofu-card">
+            <h3 class="mofu-card-title">🏠 回し車＆お部屋のカスタマイズ</h3>
+            <div class="shop-grid" id="care-room-list"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 06. 漢字図鑑画面 -->
+    <section id="screen-dictionary" class="screen">
+      <div class="mofu-card">
+        <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 12px; flex-wrap: wrap;">
+          <h2 class="mofu-card-title" style="margin-bottom: 0;">📖 小学4年生の漢字ずかん（音読み・訓読み習熟度）</h2>
+          <span class="metric-chip" id="dict-count-label">202 / 202 漢字</span>
+        </div>
+
+        <div class="dict-toolbar">
+          <div class="dict-filter-tabs">
+            <button type="button" class="choice-btn selected" data-dict-filter="all">すべて</button>
+            <button type="button" class="choice-btn" data-dict-filter="unlearned">未学習</button>
+            <button type="button" class="choice-btn" data-dict-filter="learning">学習中</button>
+            <button type="button" class="choice-btn" data-dict-filter="mastered">習得済み</button>
+            <button type="button" class="choice-btn" data-dict-filter="weak">苦手な漢字</button>
+          </div>
+
+          <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
+            <select id="dict-part-select" class="dict-search-input" style="min-width: 150px;">
+              <option value="all">全パート（第1〜6部）</option>
+              <option value="1">第1部：愛〜改 (20字)</option>
+              <option value="2">第2部：械〜求 (20字)</option>
+              <option value="3">第3部：泣〜建 (20字)</option>
+              <option value="4">第4部：健〜祝 (36字)</option>
+              <option value="5">第5部：順〜低 (42字)</option>
+              <option value="6">第6部：底〜録 (64字)</option>
+            </select>
+            <input
+              type="search"
+              id="dict-search-input"
+              class="dict-search-input"
+              placeholder="🔍 漢字・読み・例文で検索..."
+            />
+          </div>
+        </div>
+
+        <div class="dict-grid" id="dict-grid-container"></div>
+      </div>
+    </section>
+
+    <!-- 07. 設定画面 -->
+    <section id="screen-settings" class="screen">
+      <div class="mofu-card" style="max-width: 780px; margin: 0 auto;">
+        <h2 class="mofu-card-title">⚙️ 設定・データのバックアップ</h2>
+
+        <div style="display: grid; gap: 14px; margin-top: 12px;">
+          <div class="shop-item-card">
+            <div>
+              <strong>🐿️ エゾリスの名前</strong>
+              <div style="font-size: 0.82rem; color: var(--text-muted);">ホームや育成画面で表示される名前</div>
+            </div>
+            <input type="text" id="set-char-name" class="dict-search-input" style="min-width: 180px;" maxlength="12" value="もふまる" />
+          </div>
+
+          <div class="shop-item-card">
+            <div>
+              <strong>🎵 オルゴールBGM</strong>
+              <div style="font-size: 0.82rem; color: var(--text-muted);">森のやさしいBGMを流します</div>
+            </div>
+            <input type="checkbox" id="set-bgm" style="width: 24px; height: 24px;" />
+          </div>
+
+          <div class="shop-item-card">
+            <div>
+              <strong>🔔 効果音（タイピング音・クリア音）</strong>
+              <div style="font-size: 0.82rem; color: var(--text-muted);">キー入力時やクリア時の効果音</div>
+            </div>
+            <input type="checkbox" id="set-se" style="width: 24px; height: 24px;" checked />
+          </div>
+
+          <div class="shop-item-card">
+            <div>
+              <strong>🗣️ 例文の音声読み上げ</strong>
+              <div style="font-size: 0.82rem; color: var(--text-muted);">出題時に漢字と例文を声で読み上げます</div>
+            </div>
+            <input type="checkbox" id="set-speech" style="width: 24px; height: 24px;" checked />
+          </div>
+
+          <div class="shop-item-card">
+            <div>
+              <strong>🔤 ローマ字ガイド表示</strong>
+              <div style="font-size: 0.82rem; color: var(--text-muted);">次に入力するローマ字を表示します</div>
+            </div>
+            <input type="checkbox" id="set-romaji" style="width: 24px; height: 24px;" checked />
+          </div>
+
+          <div class="shop-item-card">
+            <div>
+              <strong>🔍 文字サイズ</strong>
+              <div style="font-size: 0.82rem; color: var(--text-muted);">画面全体の文字の大きさ</div>
+            </div>
+            <select id="set-fontsize" class="dict-search-input" style="min-width: 140px;">
+              <option value="normal">標準</option>
+              <option value="large">大（おおきめ）</option>
+            </select>
+          </div>
+
+          <div class="shop-item-card">
+            <div>
+              <strong>📝 初期問題数</strong>
+              <div style="font-size: 0.82rem; color: var(--text-muted);">学習開始時のデフォルト問題数</div>
+            </div>
+            <select id="set-default-count" class="dict-search-input" style="min-width: 140px;">
+              <option value="5">5問</option>
+              <option value="10">10問</option>
+              <option value="20">20問</option>
+            </select>
+          </div>
+        </div>
+
+        <hr style="margin: 22px 0; border: none; border-top: 2px dashed var(--aux-beige);" />
+
+        <h3 class="mofu-card-title">💾 データのバックアップ・復元・初期化</h3>
+        <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 14px;">
+          学習データはブラウザの <code>localStorage</code> に自動保存されています。別のパソコンへ移すときはJSONファイルに書き出して復元できます。
+        </p>
+
+        <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+          <button type="button" class="btn btn-green" id="btn-export-json">
+            📥 バックアップを保存 (JSON)
+          </button>
+          <button type="button" class="btn btn-sub" id="btn-import-json">
+            📤 バックアップから復元
+          </button>
+          <input type="file" id="input-import-json" accept=".json,application/json" style="display: none;" />
+          <button type="button" class="btn btn-sub" id="btn-reset-data" style="color: #B83B2A; border-color: #E5A096;">
+            🗑️ データを初期化する
+          </button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- 漢字詳細モーダル -->
+  <div class="modal-backdrop" id="kanji-detail-modal">
+    <div class="modal-content" id="kanji-detail-body"></div>
+  </div>
+
+  <script src="./js/kanji_data.js"></script>
+  <script src="./js/storage.js"></script>
+  <script src="./js/scoring.js"></script>
+  <script src="./js/typing.js"></script>
+  <script src="./js/character.js"></script>
+  <script src="./js/learning.js"></script>
+  <script src="./js/dictionary.js"></script>
+  <script src="./js/app.js"></script>
+</body>
+</html>
